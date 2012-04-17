@@ -1,6 +1,6 @@
 ---
-name: Agent Traxxident
-city: Springfield, MO
+name: "Agent Traxxident"
+city: "Springfield, MO"
 links:
-	- text: Facebook
-	- url: https://facebook.com/agenttraxxident
+  - text: "Facebook"
+    url: https://facebook.com/agenttraxxident

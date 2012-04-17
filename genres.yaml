@@ -3,35 +3,38 @@ slug: dnb
 name: "Drum & Bass"
 
 ---
-name: House
+name: "House"
 aliases:
-	- Tech House
-	- Deep House
-	- Progressive House
+  - "Tech House"
+  - "Deep House"
+  - "Progressive House"
 
 ---
-name: Electro
+name: "Electro"
 
 ---
-name: Downtempo
+name: "Downtempo"
 aliases:
-	- Trip-hop
+  - "Trip-hop"
 
 ---
-name: Hip-Hop
+name: "Hip Hop"
 aliases:
-	- Soul
-	- Funk
-	- Disco
+  - "Soul"
+  - "Funk"
+  - "Disco"
 
 ---
-name: Breaks
+name: "Breaks"
 
 ---
-name: Dubstep
+name: "Dubstep"
 
 ---
-name: Techno
+name: "Techno"
 
 ---
-name: Trance
+name: "Trance"
+
+---
+name: "Mashup"

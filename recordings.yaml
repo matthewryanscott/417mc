@@ -1,21 +1,35 @@
 # All recordings are kept in here.
 #
-# Name recorded media as follows. Separate each element with an underscore:
+# ---
+# dj: "Name of DJ"
+#   ~ or ~
+# djs:
+#   - "Name of DJ 1"
+#   - "Name of DJ 2"
+# name: "Optional Name of Recording"  (default: "Recording")
+# slug: optional-recording-slug
+# event: "Optional name of event"
+# date: YYYY-MM-DD
+# genre: "Optional name of genre"
+#
+# Slugs are auto-created using information about the recording.
+# Name audio files after the slug.
+# Separate each element with an underscore:
 # Event slug, if available                             fresh-mode_
-# DJ slug                                              agent-traxxident_
-# Recording slug                                       live-recording_
+# DJ slug ('multiple' if more than one DJ listed)      agent-traxxident_
+# Recording name slug                                  live-recording_
 # date                                                 2010-10-02
 # file extension                                       .mp3
 # fresh-mode_agent-traxxident_live-recording_2010-10-02.mp3
 
 ---
-dj: Agent Traxxident
-name: You Were There Once
-genre: Hip Hop
+dj: "Agent Traxxident"
+name: "You Were There Once"
+genre: "Hip Hop"
 
 ---
-dj: Agent Traxxident
-name: Live recording
-event: Fresh Mode
+dj: "Agent Traxxident"
+name: "Live recording"
+event: "Fresh Mode"
 date: 2010-10-02
-genre: Mashup
+genre: "Mashup"
