@@ -1,0 +1,101 @@
+# Format each event as follows:
+#
+# ---
+# name: Event name
+# location: Optional location
+# slug: optional-slug
+# description: >
+#   Optional description
+#   goes here.
+#
+# Dates are automatically determined by recordings.
+#
+# The slug is auto-determined based on name,
+# e.g. "Fresh Mode Saturdays" becomes "fresh-mode-saturdays";
+# or, you can supply a specific slug to use.
+#
+# Name your images by using the slug,                   fresh-mode-saturdays
+# followed by underscore,                               _
+# followed by YYYY-MM-DD then underscore,               2012-04-21_
+# followed by type of image "thumbnail" or "original",  thumbnail
+# followed by file extension.                           .png
+#              fresh-mode-saturdays_2012-04-21_thumbnail.png
+
+---
+slug: freshmode
+name: Fresh Mode Saturdays
+
+--- 
+slug: fractured
+name: Fractured Wednesdays
+
+---
+name: Sextacy Ball
+location: The Fireman's Banquet Hall
+
+---
+name: Winter Meltdown
+location: Zeal
+
+---
+name: Urban Beats
+location: Remmingtons
+
+---
+name: Fahrenheit
+location: Nathanael Greene Park
+
+---
+slug: party-in-the-park-10
+name: Party In The Park 10: Down On The Farm
+location: "DuSable Park, St. Louis, MO"
+
+---
+slug: last-flight
+name: The Last Flight - Afterhours Shutdown Event
+location: Afterhours
+
+---
+name: Frost
+
+---
+name: Purple
+
+---
+name: Defender
+
+---
+name: SUMO
+
+---
+name: Afterburn
+
+---
+name: Gut Check
+
+---
+name: Intelements
+
+---
+name: Cusp
+
+---
+name: Initiate Sequence
+
+---
+name: Summer Scratch
+
+---
+name: Cause 4 Concern
+
+--- 
+name: 'Drum & Bass House Party'
+
+---
+name: LC Moveout Party
+description: >
+	Several Springfield DJs (at the time)
+	playing in one giant tag team.
+
+---
+name: Rave of the Living Dead
