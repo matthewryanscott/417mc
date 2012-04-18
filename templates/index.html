@@ -6,13 +6,44 @@
 
 {% block body %}
 
-  <h2>Welcome</h2>
+  <p>
+    Based in Springfield, Missouri,
+    417MixCollection is a growing collection
+    from more the last decade
+    of DJ mixes and live EDM show recordings
+    from not only Springfield,
+    but all over the Midwest region,
+    including
+    Kansas City and St. Louis, MO;
+    Fayetteville and Little Rock, AR;
+    Oklahoma City and Tulsa, OK;
+    and more.
+  </p>
 
-  <ul>
-    <li><a href="city/index.html">Cities</a></li>
-    <li><a href="dj/index.html">DJs</a></li>
-    <li><a href="event/index.html">Events</a></li>
-    <li><a href="genre/index.html">Genres</a></li>
-  </ul>
+  <p>
+    Available Genres Include:
+    Drum & Bass,
+    House (Tech/Deep/Progressive),
+    Electro/Electrohouse,
+    Dubstep,
+    Techno,
+    Trance/Psytrance/Goa,
+    Downtempo/Trip-Hop,
+    Hip-Hop/Soul/Funk/Disco,
+    Breaks.
+  </p>
+
+  <p>Free MP3 downloads of all mixes.</p>
+
+  <table>
+    <tr>
+      <td><a href="{{ root }}city/index.html" class="image-replace" id="by-city">By City</a></td>
+      <td><a href="{{ root }}dj/index.html" class="image-replace" id="by-dj">By DJ</a></td>
+    </tr>
+    <tr>
+      <td><a href="{{ root }}event/index.html" class="image-replace" id="by-event">By Event</a></td>
+      <td><a href="{{ root }}genre/index.html" class="image-replace" id="by-genre">By Genre</a></td>
+    </tr>
+  </table>
 
 {% endblock %}

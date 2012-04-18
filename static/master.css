@@ -1,0 +1,47 @@
+/* @override 
+	file:///Users/gldnspud/env/fosmc/src/output/static/master.css
+*/
+
+body {
+    background-color: #999999; 
+    color: white;
+    font-family: Century Gothic, sans-serif;
+}
+
+.image-replace {
+	/* http://www.zeldman.com/2012/03/01/replacing-the-9999px-hack-new-image-replacement/ */
+	text-indent: 100%;
+	white-space: nowrap;
+	overflow: hidden;
+	display: block;
+}
+
+#site-title {
+    background: url(417mixcollection_pageheader.png);
+    width: 600px;
+    height: 89px;
+}
+
+#by-city {
+	background: url(by_city.jpg);
+    width: 175px;
+    height: 117px;
+}
+
+#by-dj {
+	background: url(by_dj.jpg);
+    width: 175px;
+    height: 117px;
+}
+
+#by-event {
+	background: url(by_event.jpg);
+    width: 175px;
+    height: 117px;
+}
+
+#by-genre {
+	background: url(by_genre.jpg);
+    width: 175px;
+    height: 117px;
+}
