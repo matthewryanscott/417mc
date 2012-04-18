@@ -27,6 +27,17 @@
       </dd>
     {% endif %}
 
+    {% if obj.genres %}
+      <dt>Genres</dt>
+      <dd>
+        <ul>
+          {% for slug in obj.genres %}
+            <li><a href="{{ root }}genre/{{ slug }}.html">{{ slug|slugname('genre') }}</a></li>
+          {% endfor %}
+        </ul>
+      </dd>
+    {% endif %}
+
     {% if obj.events %}
       <dt>Events</dt>
       <dd>
