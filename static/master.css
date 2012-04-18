@@ -24,3 +24,8 @@ a.brand {
     padding-top: 6px !important;
     padding-bottom: 0px !important;
 }
+
+th, td {
+    padding-left: 5px;
+    padding-right: 5px;
+}
