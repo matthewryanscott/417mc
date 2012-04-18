@@ -1,11 +1,15 @@
-/* @override 
-	file:///Users/gldnspud/env/fosmc/src/output/static/master.css
-*/
+/* @override file:///Users/gldnspud/env/fosmc/src/output/static/master.css */
 
 body {
-    background-color: #999999; 
-    color: white;
-    font-family: Century Gothic, sans-serif;
+	padding-top: 60px;
+}
+
+div.hero-unit {
+    padding: 30px;
+}
+
+div.hero-unit h1 {
+    font-size: 32pt;
 }
 
 .image-replace {
@@ -16,32 +20,7 @@ body {
 	display: block;
 }
 
-#site-title {
-    background: url(417mixcollection_pageheader.png);
-    width: 600px;
-    height: 89px;
-}
-
-#by-city {
-	background: url(by_city.jpg);
-    width: 175px;
-    height: 117px;
-}
-
-#by-dj {
-	background: url(by_dj.jpg);
-    width: 175px;
-    height: 117px;
-}
-
-#by-event {
-	background: url(by_event.jpg);
-    width: 175px;
-    height: 117px;
-}
-
-#by-genre {
-	background: url(by_genre.jpg);
-    width: 175px;
-    height: 117px;
+a.brand {
+    padding-top: 0px !important;
+    padding-bottom: 0px !important;
 }

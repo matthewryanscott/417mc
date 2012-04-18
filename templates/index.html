@@ -6,44 +6,36 @@
 
 {% block body %}
 
-  <p>
-    Based in Springfield, Missouri,
-    417MixCollection is a growing collection
-    from more the last decade
-    of DJ mixes and live EDM show recordings
-    from not only Springfield,
-    but all over the Midwest region,
-    including
-    Kansas City and St. Louis, MO;
-    Fayetteville and Little Rock, AR;
-    Oklahoma City and Tulsa, OK;
-    and more.
-  </p>
+  <div class="hero-unit">
+    <h1>Free MP3 mix downloads</h1>
 
-  <p>
-    Available Genres Include:
-    Drum & Bass,
-    House (Tech/Deep/Progressive),
-    Electro/Electrohouse,
-    Dubstep,
-    Techno,
-    Trance/Psytrance/Goa,
-    Downtempo/Trip-Hop,
-    Hip-Hop/Soul/Funk/Disco,
-    Breaks.
-  </p>
+    <p>
+      More than a decade
+      of DJ mixes and live EDM show recordings
+      from all over the Midwest region:
+    </p>
 
-  <p>Free MP3 downloads of all mixes.</p>
+    <ul>
+      <li>Springfield, Kansas City, and St. Louis, Missouri</li>
+      <li>Fayetteville and Little Rock, Arkansas</li>
+      <li>Oklahoma City and Tulsa, Oklahoma</li>
+      <li>...and more!</li>
+    </ul>
+  </div>
 
-  <table>
-    <tr>
-      <td><a href="{{ root }}city/index.html" class="image-replace" id="by-city">By City</a></td>
-      <td><a href="{{ root }}dj/index.html" class="image-replace" id="by-dj">By DJ</a></td>
-    </tr>
-    <tr>
-      <td><a href="{{ root }}event/index.html" class="image-replace" id="by-event">By Event</a></td>
-      <td><a href="{{ root }}genre/index.html" class="image-replace" id="by-genre">By Genre</a></td>
-    </tr>
-  </table>
+  <ul class="thumbnails">
+    <li class="span3">
+      <a href="{{ root }}city/index.html" class="thumbnail"><img src="{{ static }}by_city.jpg" alt="By City"></a>
+    </li>
+    <li class="span3">
+      <a href="{{ root }}dj/index.html" class="thumbnail"><img src="{{ static }}by_dj.jpg" alt="By DJ"></a>
+    </li>
+    <li class="span3">
+      <a href="{{ root }}event/index.html" class="thumbnail"><img src="{{ static }}by_event.jpg" alt="By Event"></a>
+    </li>
+    <li class="span3">
+      <a href="{{ root }}genre/index.html" class="thumbnail"><img src="{{ static }}by_genre.jpg" alt="By Genre"></a>
+    </li>
+  </ul>
 
 {% endblock %}
