@@ -1,6 +1,47 @@
-{% inherits "base.html" %}
+{% extends "base.html" %}
+{% from "macros.html" import recording_table %}
 
-{% block title %}City{% endblock %}
+{% block title %}{{ obj.name }} - Cities{% endblock %}
+
+{% block bodyclass %}city{% endblock %}
+
+{% block siterooturl %}../{% endblock %}
 
 {% block body %}
+
+  <h2>City: {{ obj.name }}</h2>
+
+  <dl>
+
+    {% if obj.djs %}
+      <dt>DJs</dt>
+      <dd>
+        <ul>
+          {% for slug in obj.djs %}
+            <li><a href="../dj/{{ slug }}.html">{{ slug|slugname('dj') }}</a></li>
+          {% endfor %}
+        </ul>
+      </dd>
+    {% endif %}
+
+    {% if obj.events %}
+      <dt>Events</dt>
+      <dd>
+        <ul>
+          {% for slug in obj.events %}
+            <li><a href="../event/{{ slug }}.html">{{ slug|slugname('event') }}</a></li>
+          {% endfor %}
+        </ul>
+      </dd>
+    {% endif %}
+
+    {% if obj.recordings %}
+      <dt>Recordings</dt>
+      <dd>
+        {{ recording_table(obj.recordings|slugobjects('recording')) }}
+      </dd>
+    {% endif %}
+
+  </dl>
+
 {% endblock %}

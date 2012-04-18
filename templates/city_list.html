@@ -1,6 +1,19 @@
-{% inherits "base.html" %}
+{% extends "base.html" %}
 
-{% block title %}List of Cities{% endblock %}
+{% block title %}Cities{% endblock %}
+
+{% block bodyclass %}city list{% endblock %}
+
+{% block siterooturl %}../{% endblock %}
 
 {% block body %}
+
+  <h2>Cities</h2>
+
+  <ul>
+    {% for city in object_list %}
+      <li><a href="{{ city.slug }}.html">{{ city.name }}</a></li>
+    {% endfor %}
+  </ul>
+
 {% endblock %}

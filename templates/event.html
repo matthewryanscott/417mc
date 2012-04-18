@@ -1,6 +1,39 @@
-{% inherits "base.html" %}
+{% extends "base.html" %}
+{% from "macros.html" import recording_table %}
 
-{% block title %}Event{% endblock %}
+{% block title %}{{ obj.name }} - Events{% endblock %}
+
+{% block bodyclass %}event{% endblock %}
+
+{% block siterooturl %}../{% endblock %}
 
 {% block body %}
+
+  <h2>Event: {{ obj.name }}</h2>
+
+  <dl>
+
+    {% if obj.location %}
+      <dt>Location</dt>
+      <dd>{{ obj.location }}</dd>
+    {% endif %}
+
+    {% if obj.city %}
+      <dt>City</dt>
+      <dd><a href="../city/{{ obj.city }}.html">{{ obj.city|slugname('city') }}</a></dd>
+    {% endif %}
+
+    {% if obj.description %}
+      <dt>Description</dt>
+      <dd>{{ obj.description }}</dd>
+    {% endif %}
+
+    {% if obj.recordings %}
+      <dt>Recordings</dt>
+      <dd>
+        {{ recording_table(obj.recordings|slugobjects('recording')) }}
+      </dd>
+    {% endif %}
+  </dl>
+
 {% endblock %}

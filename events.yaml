@@ -3,6 +3,7 @@
 # ---
 # name: "Event name"
 # location: "Optional location"
+# city: "Optional city"
 # slug: optional-slug
 # description: >
 #   Optional description
@@ -24,6 +25,7 @@
 ---
 slug: fresh-mode
 name: "Fresh Mode Saturdays"
+city: "Springfield, MO"
 
 --- 
 slug: fractured

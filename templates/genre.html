@@ -1,6 +1,36 @@
-{% inherits "base.html" %}
+{% extends "base.html" %}
+{% from "macros.html" import recording_table %}
 
-{% block title %}Genre{% endblock %}
+{% block title %}{{ obj.name }} - Genres{% endblock %}
+
+{% block bodyclass %}genre{% endblock %}
+
+{% block siterooturl %}../{% endblock %}
 
 {% block body %}
+
+  <h2>Genre: {{ obj.name }}</h2>
+
+  <dl>
+
+    {% if obj.aliases %}
+      <dt>Aliases</dt>
+      <dd>
+        <ul>
+          {% for alias in obj.aliases %}
+            <li>{{ alias }}</li>
+          {% endfor %}
+        </ul>
+      </dd>
+    {% endif %}
+
+    {% if obj.recordings %}
+      <dt>Recordings</dt>
+      <dd>
+        {{ recording_table(obj.recordings|slugobjects('recording')) }}
+      </dd>
+    {% endif %}
+
+  </dl>
+
 {% endblock %}

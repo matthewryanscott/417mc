@@ -1,6 +1,19 @@
-{% inherits "base.html" %}
+{% extends "base.html" %}
 
-{% block title %}List of genres{% endblock %}
+{% block title %}Genres{% endblock %}
+
+{% block bodyclass %}genre list{% endblock %}
+
+{% block siterooturl %}../{% endblock %}
 
 {% block body %}
+
+  <h2>Genres</h2>
+
+  <ul>
+    {% for genre in object_list %}
+      <li><a href="{{ genre.slug }}.html">{{ genre.name }}</a></li>
+    {% endfor %}
+  </ul>
+
 {% endblock %}

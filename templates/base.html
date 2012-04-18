@@ -5,8 +5,12 @@
 		<link rel="stylesheet" type="text/css" href="{{ static }}master.css">
 	</head>
 
-	<body>
+	<body class="{% block bodyclass %}{% endblock %}">
+        <h1><a href="{% block siterooturl %}./{% endblock %}index.html">417 Mix Collection</a></h1>
+
 		{% block body %}
 		{% endblock %}
+
+        {% include "comments.html" %}
 	</body>
 </html>

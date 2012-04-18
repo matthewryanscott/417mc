@@ -1,6 +1,19 @@
-{% inherits "base.html" %}
+{% extends "base.html" %}
 
-{% block title %}List of DJs{% endblock %}
+{% block title %}DJs{% endblock %}
+
+{% block bodyclass %}dj list{% endblock %}
+
+{% block siterooturl %}../{% endblock %}
 
 {% block body %}
+
+  <h2>DJs</h2>
+
+  <ul>
+    {% for dj in object_list %}
+      <li><a href="{{ dj.slug }}.html">{{ dj.name }}</a></li>
+    {% endfor %}
+  </ul>
+
 {% endblock %}

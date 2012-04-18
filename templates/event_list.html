@@ -1,6 +1,19 @@
-{% inherits "base.html" %}
+{% extends "base.html" %}
 
-{% block title %}List of events{% endblock %}
+{% block title %}Events{% endblock %}
+
+{% block bodyclass %}event list{% endblock %}
+
+{% block siterooturl %}../{% endblock %}
 
 {% block body %}
+
+  <h2>Events</h2>
+
+  <ul>
+    {% for event in object_list %}
+      <li><a href="{{ event.slug }}.html">{{ event.name }}</a></li>
+    {% endfor %}
+  </ul>
+
 {% endblock %}

@@ -1,6 +1,48 @@
-{% inherits "base.html" %}
+{% extends "base.html" %}
 
-{% block title %}Recording{% endblock %}
+{% block title %}{{ obj.name }} - Recordings{% endblock %}
+
+{% block bodyclass %}recording{% endblock %}
+
+{% block siterooturl %}../{% endblock %}
 
 {% block body %}
+
+  <h2>Recording</h2>
+
+  <dl>
+
+    {% if obj.date %}
+      <dt>Date</dt>
+      <dd>{{ obj.date|dateformat }}</dd>
+    {% endif %}
+
+    {% if obj.name %}
+      <dt>Name</dt>
+      <dd>{{ obj.name }}</dd>
+    {% endif %}
+
+    {% if obj.djs %}
+      <dt>DJs</dt>
+      <dd>
+        <ul>
+          {% for dj in obj.djs %}
+            <li><a href="../dj/{{ dj }}.html">{{ dj|slugname('dj') }}</a></li>
+          {% endfor %}
+        </ul>
+      </dd>
+    {% endif %}
+
+    {% if obj.event %}
+      <dt>Event</dt>
+      <dd><a href="../event/{{ obj.event }}.html">{{ obj.event|slugname('event') }}</a></dd>
+    {% endif %}
+
+    {% if obj.genre %}
+      <dt>Genre</dt>
+      <dd><a href="../genre/{{ obj.genre }}.html">{{ obj.genre|slugname('genre') }}</a></dd>
+    {% endif %}
+
+  </dl>
+
 {% endblock %}

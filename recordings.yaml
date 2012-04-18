@@ -13,14 +13,17 @@
 # genre: "Optional name of genre"
 #
 # Slugs are auto-created using information about the recording.
-# Name audio files after the slug.
+# Name audio and graphics files after the slug.
 # Separate each element with an underscore:
 # Event slug, if available                             fresh-mode_
 # DJ slug ('multiple' if more than one DJ listed)      agent-traxxident_
 # Recording name slug                                  live-recording_
 # date                                                 2010-10-02
 # file extension                                       .mp3
+# e.g.
 # fresh-mode_agent-traxxident_live-recording_2010-10-02.mp3
+# fresh-mode_agent-traxxident_live-recording_2010-10-02.png
+# fresh-mode_agent-traxxident_live-recording_2010-10-02.thumbnail.png
 
 ---
 dj: "Agent Traxxident"
@@ -31,5 +34,6 @@ genre: "Hip Hop"
 dj: "Agent Traxxident"
 name: "Live recording"
 event: "Fresh Mode"
+city: "Springfield, MO"
 date: 2010-10-02
 genre: "Mashup"
