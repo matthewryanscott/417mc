@@ -18,7 +18,7 @@
 
     {% if obj.city %}
       <dt>City</dt>
-      <dd><a href="../city/{{ obj.city }}.html">{{ obj.city|slugname('city') }}</a></dd>
+      <dd><a href="{{root}}city/{{ obj.city }}.html">{{ obj.city|slugname('city') }}</a></dd>
     {% endif %}
 
     {% if obj.description %}
