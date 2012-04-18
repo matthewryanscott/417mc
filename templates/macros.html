@@ -7,7 +7,7 @@
       <th>Name</th>
       <th>DJs</th>
       <th>Event</th>
-      <th>Genre</th>
+      <th>Genres</th>
     </tr>
     </thead>
     <tbody>
@@ -23,8 +23,8 @@
         <th>
           {% if recording.djs %}
             <ul>
-              {% for dj in recording.djs %}
-                <li><a href="{{ root }}dj/{{ dj }}.html">{{ dj|slugname('dj') }}</a></li>
+              {% for slug in recording.djs %}
+                <li><a href="{{ root }}dj/{{ slug }}.html">{{ slug|slugname('dj') }}</a></li>
               {% endfor %}
             </ul>
           {% endif %}
@@ -35,8 +35,12 @@
           {% endif %}
         </th>
         <th>
-          {% if recording.genre %}
-            <a href="{{ root }}genre/{{ recording.genre }}.html">{{ recording.genre|slugname('genre') }}</a>
+          {% if recording.genres %}
+            <ul>
+              {% for slug in recording.genres %}
+                <li><a href="{{ root }}genre/{{ slug }}.html">{{ slug|slugname('genre') }}</a></li>
+              {% endfor %}
+            </ul>
           {% endif %}
         </th>
       </tr>

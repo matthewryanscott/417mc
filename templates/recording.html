@@ -49,9 +49,15 @@
       <dd><a href="{{ root }}event/{{ obj.event }}.html">{{ obj.event|slugname('event') }}</a></dd>
     {% endif %}
 
-    {% if obj.genre %}
-      <dt>Genre</dt>
-      <dd><a href="{{ root }}genre/{{ obj.genre }}.html">{{ obj.genre|slugname('genre') }}</a></dd>
+    {% if obj.genres %}
+      <dt>Genres</dt>
+      <dd>
+        <ul>
+          {% for slug in obj.genres %}
+            <li><a href="{{ root }}genre/{{ slug }}.html">{{ slug|slugname('genre') }}</a></li>
+          {% endfor %}
+        </ul>
+      </dd>
     {% endif %}
 
   </dl>

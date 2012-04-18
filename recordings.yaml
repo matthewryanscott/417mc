@@ -37,3 +37,20 @@ event: "Fresh Mode"
 city: "Springfield, MO"
 date: 2010-10-02
 genre: "Mashup"
+
+---
+dj: "Andrew Boie"
+name: "Bride Of FWD Fridays"
+genre: "Techno"
+
+---
+dj: "Andrew Boie"
+name: "Dead By Dawn"
+genre: "Techno"
+
+---
+dj: "Andrew Boie"
+name: "Your Place or Mine"
+genres:
+  - Deep House
+  - Techno
