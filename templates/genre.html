@@ -12,17 +12,6 @@
 
   <dl>
 
-    {% if obj.aliases %}
-      <dt>Aliases</dt>
-      <dd>
-        <ul>
-          {% for alias in obj.aliases %}
-            <li>{{ alias }}</li>
-          {% endfor %}
-        </ul>
-      </dd>
-    {% endif %}
-
     {% if obj.djs %}
       <dt>DJs</dt>
       <dd>

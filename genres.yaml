@@ -4,25 +4,15 @@ name: "Drum & Bass"
 
 ---
 name: "House"
-aliases:
-  - "Tech House"
-  - "Deep House"
-  - "Progressive House"
 
 ---
 name: "Electro"
 
 ---
 name: "Downtempo"
-aliases:
-  - "Trip-hop"
 
 ---
 name: "Hip Hop"
-aliases:
-  - "Soul"
-  - "Funk"
-  - "Disco"
 
 ---
 name: "Breaks"
