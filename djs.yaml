@@ -1,18 +1,12 @@
 ---
 name: "Agent Traxxident"
 city: "Springfield, MO"
-genres:
-  - Hip Hop
-  - Mashup
 links:
   - text: "Facebook"
     url: https://facebook.com/agenttraxxident
 
 ---
 name: "Andrew Boie"
-genres:
-  - Deep House
-  - Techno
 
 ---
 name: "Andy Szawsum"
