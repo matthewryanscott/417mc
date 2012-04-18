@@ -1,7 +1,9 @@
 ---
 name: "Agent Traxxident"
 city: "Springfield, MO"
-genre: "Mashup"
+genres:
+  - Hip Hop
+  - Mashup
 links:
   - text: "Facebook"
     url: https://facebook.com/agenttraxxident
