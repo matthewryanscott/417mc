@@ -7,9 +7,17 @@ links:
 
 ---
 name: "Andrew Boie"
+city: "Kansas City, MO"
+links:
+  - text: "Facebook"
+    url: https://www.facebook.com/andrew.boie
 
 ---
 name: "Andy Szawsum"
+city: "St Louis, MO"
+links:
+  - text: "Facebook"
+    url: https://www.facebook.com/AndySzawsum
 
 ---
 name: "Archon"
