@@ -25,7 +25,7 @@
       <dd>
         <ul>
           {% for slug in obj.djs %}
-            <li><a href="{{root}}dj/{{ slug }}.html">{{ slug|slugname('dj') }}</a></li>
+            <li><a href="{{ root }}dj/{{ slug }}.html">{{ slug|slugname('dj') }}</a></li>
           {% endfor %}
         </ul>
       </dd>
@@ -33,12 +33,12 @@
 
     {% if obj.event %}
       <dt>Event</dt>
-      <dd><a href="{{root}}event/{{ obj.event }}.html">{{ obj.event|slugname('event') }}</a></dd>
+      <dd><a href="{{ root }}event/{{ obj.event }}.html">{{ obj.event|slugname('event') }}</a></dd>
     {% endif %}
 
     {% if obj.genre %}
       <dt>Genre</dt>
-      <dd><a href="{{root}}genre/{{ obj.genre }}.html">{{ obj.genre|slugname('genre') }}</a></dd>
+      <dd><a href="{{ root }}genre/{{ obj.genre }}.html">{{ obj.genre|slugname('genre') }}</a></dd>
     {% endif %}
 
   </dl>

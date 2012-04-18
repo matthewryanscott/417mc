@@ -14,7 +14,7 @@
 
     {% if obj.city %}
       <dt>City</dt>
-      <dd><a href="{{root}}city/{{ obj.city }}.html">{{ obj.city|slugname('city') }}</a></dd>
+      <dd><a href="{{ root }}city/{{ obj.city }}.html">{{ obj.city|slugname('city') }}</a></dd>
     {% endif %}
 
     {% if obj.links %}
@@ -44,7 +44,7 @@
       <dd>
         <ul>
           {% for slug in obj.events %}
-            <li><a href="{{root}}event/{{ slug }}.html">{{ slug|slugname('event') }}</a></li>
+            <li><a href="{{ root }}event/{{ slug }}.html">{{ slug|slugname('event') }}</a></li>
           {% endfor %}
         </ul>
       </dd>

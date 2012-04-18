@@ -17,7 +17,7 @@
       <dd>
         <ul>
           {% for slug in obj.djs %}
-            <li><a href="{{root}}dj/{{ slug }}.html">{{ slug|slugname('dj') }}</a></li>
+            <li><a href="{{ root }}dj/{{ slug }}.html">{{ slug|slugname('dj') }}</a></li>
           {% endfor %}
         </ul>
       </dd>
@@ -28,7 +28,7 @@
       <dd>
         <ul>
           {% for slug in obj.events %}
-            <li><a href="{{root}}event/{{ slug }}.html">{{ slug|slugname('event') }}</a></li>
+            <li><a href="{{ root }}event/{{ slug }}.html">{{ slug|slugname('event') }}</a></li>
           {% endfor %}
         </ul>
       </dd>
