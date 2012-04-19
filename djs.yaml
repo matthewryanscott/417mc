@@ -88,6 +88,10 @@ city: tulsa-ok
 
 ---
 name: "Cidlix"
+city: columbia-mo
+links:
+  - text: "Facebook"
+    url: https://www.facebook.com/cidlix
 
 ---
 name: "Colby Price"
