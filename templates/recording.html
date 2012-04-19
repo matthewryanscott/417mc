@@ -8,6 +8,16 @@
 
   <h2>{{ obj.name }}</h2>
 
+  <p>
+    <img class="hide-if-broken" src="{{ root }}media/recording/{{ obj.slug }}.jpg" alt="Promotional image for recording: {{ obj.name }}">
+  </p>
+
+  {% if obj.description %}
+    <div class="description">
+      {{ obj.description }}
+    </div>
+  {% endif %}
+
   <dl>
 
     <dt>Free MP3</dt>
