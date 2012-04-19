@@ -62,7 +62,8 @@ name: "Brian Best"
 city: "St Louis, MO"
 
 ---
-name: "Br1nk-n-MattSkywalker"
+name: "Br1nk"
+city: "Springfield, MO"
 
 ---
 name: "Bully"
@@ -198,6 +199,10 @@ name: "Malkontent"
 
 ---
 name: "Malware"
+
+---
+name: "Matt Skywalker"
+city: "Springfield, MO"
 
 ---
 name: "Merl"

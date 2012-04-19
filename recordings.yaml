@@ -192,3 +192,47 @@ genre: "Breaks"
 dj: "Brian Best"
 name: "Heelflip"
 genre: "Breaks"
+
+---
+djs:
+  - "Br1nk"
+  - "Matt Skywalker"
+name: "Krylon Technicolor Type A2"
+genres:
+  - "Dubstep"
+  - "Drumstep"
+  - "DnB"
+date: 2012
+
+---
+djs:
+  - "Br1nk"
+  - "Matt Skywalker"
+name: "Mid-Tempo n' Stuff"
+genres:
+  - "Midtempo"
+  - "Dance"
+  - "Dubstep"
+date: 2012
+
+---
+djs:
+  - "Br1nk"
+  - "Matt Skywalker"
+name: "Project Brixer"
+genres:
+  - "Dubstep"
+  - "Hip Hop"
+  - "DnB"
+date: 2012
+
+---
+djs:
+  - "Br1nk"
+  - "Matt Skywalker"
+name: "Table Flippin'"
+genres:
+  - "Dubstep"
+  - "Drumstep"
+  - "DnB"
+date: 2012
