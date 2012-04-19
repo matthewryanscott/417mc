@@ -14,11 +14,15 @@
     {% for recording in object_list %}
       <tr>
         <th><a href="{{ root }}recording/{{ recording.slug }}.html">[Link]</a></th>
-        <th>{{ recording.date|dateformat }}</th>
         <th>
-          {% if recording.name %}
-            {{ recording.name }}
+          {% if recording.date %}
+            {{ recording.date|dateformat }}
+          {% else %}
+            --
           {% endif %}
+        </th>
+        <th>
+          {{ recording.name }}
         </th>
         <th>
           {% if recording.djs %}
@@ -27,11 +31,15 @@
                 <li><a href="{{ root }}dj/{{ slug }}.html">{{ slug|slugname('dj') }}</a></li>
               {% endfor %}
             </ul>
+          {% else %}
+            --
           {% endif %}
         </th>
         <th>
           {% if recording.event %}
             <a href="{{ root }}event/{{ recording.event }}.html">{{ recording.event|slugname('event') }}</a>
+          {% else %}
+            --
           {% endif %}
         </th>
         <th>
@@ -41,6 +49,8 @@
                 <li><a href="{{ root }}genre/{{ slug }}.html">{{ slug|slugname('genre') }}</a></li>
               {% endfor %}
             </ul>
+          {% else %}
+            --
           {% endif %}
         </th>
       </tr>
