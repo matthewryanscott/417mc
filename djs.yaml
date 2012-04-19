@@ -95,6 +95,12 @@ links:
 
 ---
 name: "Colby Price"
+city: springfield-mo
+links:
+  - text: "SoundCloud"
+    url: http://soundcloud.com/colby-price/
+  - text: "Facebook"
+    url: https://www.facebook.com/djcolbyprice
 
 ---
 name: "Control C"

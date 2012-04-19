@@ -7,7 +7,7 @@
 # djs:
 #   - "Name of DJ 1" / slug-of-dj-1
 #   - "Name of DJ 2" / slug-of-dj-2
-# name: "Optional Name of Recording"  (default: "Recording")
+# name: "Optional Name of Recording"  (default: "Live recording")
 # event: "Optional name of event" / slug-of-event
 # date: YYYY-MM-DD
 # genre: "Optional name of genre" / slug-of-genre
@@ -32,7 +32,6 @@ genre: hip-hop
 
 ---
 dj: agent-traxxident
-name: "Live recording"
 event: fresh-mode
 date: 2010-10-02
 genre: mashup
@@ -88,7 +87,6 @@ genre: electrohouse
 
 ---
 dj: atreus
-name: "Live recording"
 event: winter-meltdown
 date: 2011-01-22
 genre: dubstep
@@ -118,13 +116,11 @@ genres:
 
 ---
 dj: ben-armstrong
-name: "Live Recording"
 date: 2005-06-08
 genre: house
 
 ---
 dj: ben-armstrong
-name: "Live Recording"
 date: 2009-10
 genre: house
 
@@ -148,7 +144,6 @@ genre: mashup
 
 ---
 dj: bizar
-name: "Live recording"
 event: fresh-mode
 date: 2010-10-09
 genre: mashup
@@ -160,7 +155,6 @@ date: 2011
 
 ---
 dj: bizar
-name: "Live recording"
 event: urban-beats
 date: 2011-03-04
 
@@ -168,7 +162,6 @@ date: 2011-03-04
 djs:
   - bizar
   - eq
-name: "Live recording"
 event: fresh-mode
 date: 2012-03-17
 
@@ -299,7 +292,6 @@ date: 2011
 
 ---
 dj: chris-close
-name: "Live recording"
 event: fresh-mode
 date: 2010-09-25
 genres:
@@ -308,14 +300,46 @@ genres:
 
 ---
 dj: cidlix
-name: "Live recording"
 event: fresh-mode
 date: 2010-08-07
 genre: dubstep
 
 ---
 dj: cidlix
-name: "Live recording"
 event: urban-beats
 date: 2011-03-04
 genre: dubstep
+
+---
+dj: colby-price
+name: "Up Yours"
+genre: electro-house
+date: 2008
+
+---
+dj: colby-price
+name: "Summer 2010 DubStep Mixtape"
+genre: dubstep
+date: 2010
+
+---
+dj: colby-price
+event: fresh-mode
+date: 2010-09-18
+genre: dubstep
+
+---
+dj: colby-price
+event: fresh-mode
+date: 2011-01-15
+genre: dubstep
+
+---
+dj: colby-price
+event: sextacy-ball
+date: 2010-09-11
+
+---
+dj: colby-price
+event: fresh-mode
+date: 2012-03-24
