@@ -440,3 +440,11 @@ genre: techno
 ---
 dj: dj-balance
 name: "Damage Control"
+
+---
+dj: dj-kope
+event: sextacy-ball
+date: 2010-09-11
+genres:
+  - electro
+  - tech-house
