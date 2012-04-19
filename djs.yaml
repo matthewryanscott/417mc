@@ -148,9 +148,15 @@ links:
 
 ---
 name: "Disorderly Conduct"
+city: kansas-city-mo
+genre: dnb
+links:
+  - text: "dnbradio.com recordings"
+    url: http://www.dnbradio.com/index.php?page=1&pc=LiveMixes&search=disorderly+conduct+radio
 
 ---
 name: "DJ Balance"
+city: little-rock-ar
 
 ---
 name: "DJ eZe"
