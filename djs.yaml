@@ -104,6 +104,10 @@ links:
 
 ---
 name: "Control C"
+city: oklahoma-city-ok
+links:
+  - text: "Facebook"
+    url: https://www.facebook.com/chiefcloud
 
 ---
 name: "Dan Catron"
