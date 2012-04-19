@@ -25,7 +25,7 @@
 ---
 slug: fresh-mode
 name: "Fresh Mode Saturdays"
-city: "Springfield, MO"
+city: springfield-mo
 
 --- 
 slug: fractured
@@ -50,12 +50,14 @@ location: "Nathanael Greene Park"
 ---
 slug: party-in-the-park-10
 name: "Party In The Park 10: Down On The Farm"
-location: "DuSable Park, St. Louis, MO"
+location: "DuSable Park"
+city: st-louis-mo
 
 ---
 slug: last-flight
 name: "The Last Flight - Afterhours Shutdown Event"
 location: "Afterhours"
+city: springfield-mo
 
 ---
 name: "Frost"
@@ -98,6 +100,7 @@ name: "LC Moveout Party"
 description: >
   Several Springfield DJs (at the time)
   playing in one giant tag team.
+city: springfield-mo
 
 ---
 name: "Rave of the Living Dead"
