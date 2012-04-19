@@ -11,6 +11,9 @@
 # event: "Optional name of event" / slug-of-event
 # date: YYYY-MM-DD
 # genre: "Optional name of genre" / slug-of-genre
+# description: >
+#   Optional description
+#   goes here.
 #
 # Slugs are auto-created using information about the recording.
 # Name audio and graphics files after the slug.

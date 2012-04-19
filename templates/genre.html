@@ -10,6 +10,12 @@
 
   <h2>Genre: {{ obj.name }}</h2>
 
+  {% if obj.description %}
+    <div class="description">
+      {{ obj.description }}
+    </div>
+  {% endif %}
+
   <dl>
 
     {% if obj.djs %}

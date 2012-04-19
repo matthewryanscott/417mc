@@ -1,6 +1,9 @@
 # ---
 # slug: city-name-st
 # name: "City Name, State"
+# description: >
+#   Optional description
+#   goes here.
 
 ---
 slug: springfield-mo

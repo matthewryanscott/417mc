@@ -1,3 +1,10 @@
+# ---
+# slug: optional-slug    (useful for e.g. 'dnb')
+# name: "Genre Name"
+# description: >
+#   Optional description
+#   goes here.
+
 ---
 name: "Deep House"
 
