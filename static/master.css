@@ -25,7 +25,38 @@ a.brand {
     padding-bottom: 0px !important;
 }
 
+thead {
+    background-color: #404040;
+    border: 1px solid #404040;
+    color: white;
+}
+
+tbody {
+    border: 1px solid #b0b0b0;
+}
+
 th, td {
     padding-left: 5px;
     padding-right: 5px;
+    text-align: left;
+}
+
+tr {
+    border-bottom: 1px solid #b0b0b0;
+}
+
+#content ul {
+    margin-bottom: 0px;
+}
+
+#content table ul, #content dd ul {
+    margin-left: 0px;
+}
+
+#content table ul li, #content dd ul li {
+    list-style-type: none;
+}
+
+#content dd {
+    margin-bottom: 1em;;
 }
