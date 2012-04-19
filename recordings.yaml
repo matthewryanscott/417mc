@@ -427,3 +427,12 @@ dj: digital-love
 event: urban-beats
 date: 2011-03-04
 genre: dubstep
+
+---
+djs:
+  - digistar
+  - bargo
+name: "DigiStar vs Bargo"
+event: fresh-mode
+date: 2011-02-19
+genre: techno

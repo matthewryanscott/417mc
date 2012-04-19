@@ -134,6 +134,17 @@ links:
 
 ---
 name: "DigiStar"
+city: st-louis-mo
+links:
+  - text: "Facebook"
+    url: https://www.facebook.com/ladydigistar
+
+---
+name: "Bargo"
+city: st-louis-mo
+links:
+  - text: "Facebook"
+    url: https://www.facebook.com/djbargo
 
 ---
 name: "Disorderly Conduct"
