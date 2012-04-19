@@ -134,3 +134,41 @@ dj: "Ben Armstrong"
 name: "Aerosault Mix"
 date: 2010
 genre: "House"
+
+---
+dj: "Bizar"
+name: "May Promo Mix"
+date: 2008-05
+genre: "Mashup"
+
+---
+dj: "Bizar"
+name: "Heavy Brotation"
+date: 2009
+genre: "Mashup"
+
+---
+dj: "Bizar"
+name: "Live recording"
+event: "Fresh Mode"
+date: 2010-10-09
+genre: "Mashup"
+
+---
+dj: "Bizar"
+name: "Arkansacolypse"
+date: 2011
+
+---
+dj: "Bizar"
+name: "Live recording"
+event: "Urban Beats"
+date: 2011-03-04
+
+---
+djs:
+  - "Bizar"
+  - "EQ"
+name: "Live recording"
+event: "Fresh Mode"
+date: 2012-03-17
