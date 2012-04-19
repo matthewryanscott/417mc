@@ -546,3 +546,144 @@ dj: dj-sick-nick
 event: norman-music-festival-4
 date: 2011-04-30
 genre: latin-tech-house
+
+---
+dj: dj-spiral
+name: "Inward"
+date: 2002
+
+---
+dj: dj-spiral
+name: "Absolute Opposites"
+date: 2003
+
+---
+dj: dj-spiral
+name: "Symmetry"
+date: 2003
+
+---
+dj: dj-spiral
+name: "Order of Difference"
+date: 2004
+
+---
+dj: dj-spiral
+event: perpetual-12-park-party
+date: 2006-05-27
+
+---
+dj: dj-spiral
+name: "Wearing Masks"
+date: 2006-10-31
+
+---
+dj: dj-spiral
+name: "Gravity"
+date: 2008
+
+---
+dj: dj-spiral
+name: "Message Restated"
+genre: downtempo
+date: 2004
+
+---
+dj: dj-spiral
+name: "Understanding Om"
+genre: downtempo
+date: 2005
+
+---
+dj: dj-spiral
+name: "Downtempo Remedy"
+genre: downtempo
+date: 2006
+
+---
+dj: dj-spiral
+event: cusp
+genre: downtempo
+date: 2009
+
+---
+dj: dj-spiral
+name: "The Winery Mix"
+genre: downtempo
+date: 2009
+
+---
+dj: dj-spiral
+name: "There Is No CTRL+Z"
+genres:
+  - electro
+  - tech-house
+date: 2010
+
+---
+dj: dj-spiral
+event: fresh-mode
+date: 2010-10-16
+genres:
+  - electro
+  - tech-house
+
+---
+dj: dj-spiral
+event: fresh-mode
+date: 2011-02-19
+genres:
+  - electro
+  - tech-house
+
+---
+dj: dj-spiral
+event: fresh-mode
+date: 2011-03-12
+genres:
+  - electro
+  - tech-house
+
+---
+djs:
+  - dj-spiral
+  - miles-deem
+name: "Spiral vs. Miles Deem Part 1"
+event: fresh-mode
+date: 2011-03-19
+genres:
+  - electro
+  - techno
+
+---
+djs:
+  - dj-spiral
+  - miles-deem
+name: "Spiral vs. Miles Deem Part 2"
+event: fresh-mode
+date: 2011-03-19
+genres:
+  - electro
+  - techno
+
+---
+dj: dj-spiral
+name: "Totem"
+date: 2011
+genres:
+  - electro-house
+  - tech-house
+  - breaks
+
+---
+dj: dj-spiral
+name: "Mix for Vibalicious 5: Moon Boogie"
+date: 2011-09
+genres:
+  - electro-house
+  - breaks
+
+---
+dj: dj-spiral
+event: fresh-mode
+date: 2012-03-24

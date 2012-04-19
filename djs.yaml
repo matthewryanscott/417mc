@@ -192,6 +192,10 @@ links:
 
 ---
 name: "DJ Spiral"
+city: springfield-mo
+links:
+  - text: "Website"
+    url: http://djspiral.com/
 
 ---
 name: "DJ Sum1"
