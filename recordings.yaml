@@ -52,8 +52,8 @@ genre: "Techno"
 dj: "Andrew Boie"
 name: "Your Place or Mine"
 genres:
-  - Deep House
-  - Techno
+  - "Deep House"
+  - "Techno"
 
 ---
 dj: "Andy Szawsum"
@@ -100,3 +100,19 @@ name: "Dusted Groove (Promo Mix)"
 date: 2011
 genre: "Dubstep"
 
+---
+dj: "Bacchus"
+name: "Gerfuntencluken"
+genre: "Progressive"
+
+---
+dj: "Bacchus"
+name: "Message From The Caldera"
+genre: "Progressive"
+
+---
+dj: "Bacchus"
+name: "Shirtcockin USA"
+genres:
+  - "Funk"
+  - "House"
