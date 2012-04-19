@@ -1,35 +1,51 @@
----
-name: Springfield, MO
+# ---
+# slug: city-name-st
+# name: "City Name, State"
 
 ---
-name: Kansas City, MO
+slug: springfield-mo
+name: "Springfield, Missouri"
 
 ---
-name: St. Louis, MO
+slug: kansas-city-mo
+name: "Kansas City, Missouri"
 
 ---
-name: Columbia, MO
+slug: st-louis-mo
+name: "St. Louis, Missouri"
 
 ---
-name: Fayetteville, AR
+slug: columbia-mo
+name: "Columbia, Missouri"
 
 ---
-name: Little Rock, AR
+slug: fayetteville-ar
+name: "Fayetteville, Arkansas"
 
 ---
-name: Oklahoma City, OK
+slug: little-rock-ar
+name: "Little Rock, Arkansas"
 
 ---
-name: Norman, OK
+slug: oklahoma-city-ok
+name: "Oklahoma City, Oklahoma"
 
 ---
-name: Tulsa, OK
+slug: norman-ok
+name: "Norman, Oklahoma"
 
 ---
-name: Chicago, IL
+slug: tulsa-ok
+name: "Tulsa, Oklahoma"
 
 ---
-name: San Diego, CA
+slug: chicago-il
+name: "Chicago, Illinois"
 
 ---
-name: Louisville, KY
+slug: san-diego-ca
+name: "San Diego, California"
+
+---
+slug: louisville-ky
+name: "Louisville, Kentucky"
