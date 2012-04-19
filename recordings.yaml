@@ -35,8 +35,7 @@ genre: hip-hop
 
 ---
 dj: agent-traxxident
-event: fresh-mode
-date: 2010-10-02
+event: fresh-mode-2010-10-02
 genre: mashup
 
 ---
@@ -147,8 +146,7 @@ genre: mashup
 
 ---
 dj: bizar
-event: fresh-mode
-date: 2010-10-09
+event: fresh-mode-2010-10-09
 genre: mashup
 
 ---
@@ -165,8 +163,7 @@ date: 2011-03-04
 djs:
   - bizar
   - eq
-event: fresh-mode
-date: 2012-03-17
+event: fresh-mode-2012-03-17
 
 ---
 dj: brian-best
@@ -258,16 +255,14 @@ date: 2008
 ---
 dj: c-martin
 name: "Live recording (part 1)"
-event: fresh-mode
+event: fresh-mode-2011-04-02
 genre: house
-date: 2011-04-02
 
 ---
 dj: c-martin
 name: "Live recording (part 2)"
-event: fresh-mode
+event: fresh-mode-2011-04-02
 genre: house
-date: 2011-04-02
 
 ---
 dj: chris-adamantium
@@ -295,16 +290,14 @@ date: 2011
 
 ---
 dj: chris-close
-event: fresh-mode
-date: 2010-09-25
+event: fresh-mode-2010-09-25
 genres:
   - tech-house
   - electro
 
 ---
 dj: cidlix
-event: fresh-mode
-date: 2010-08-07
+event: fresh-mode-2010-08-07
 genre: dubstep
 
 ---
@@ -327,14 +320,12 @@ date: 2010
 
 ---
 dj: colby-price
-event: fresh-mode
-date: 2010-09-18
+event: fresh-mode-2010-09-18
 genre: dubstep
 
 ---
 dj: colby-price
-event: fresh-mode
-date: 2011-01-15
+event: fresh-mode-2011-01-15
 genre: dubstep
 
 ---
@@ -344,8 +335,7 @@ date: 2010-09-11
 
 ---
 dj: colby-price
-event: fresh-mode
-date: 2012-03-24
+event: fresh-mode-2012-03-24
 
 ---
 djs:
@@ -433,8 +423,7 @@ djs:
   - digistar
   - bargo
 name: "DigiStar vs Bargo"
-event: fresh-mode
-date: 2011-02-19
+event: fresh-mode-2011-02-19
 genre: techno
 
 ---
@@ -504,33 +493,28 @@ date: 2007
 ---
 dj: dj-phi
 name: "Live recording 1"
-event: fresh-mode
-date: 2010-09-18
+event: fresh-mode-2010-09-18
 genre: dnb
 
 ---
 dj: dj-phi
 name: "Live recording 2"
-event: fresh-mode
-date: 2010-09-18
+event: fresh-mode-2010-09-18
 genre: dnb
 
 ---
 dj: dj-phi
-event: fresh-mode
-date: 2010-12-04
+event: fresh-mode-2010-12-04
 genre: dnb
 
 ---
 dj: dj-phi
-event: fresh-mode
-date: 2011-01-22
+event: fresh-mode-2011-01-22
 genre: dnb
 
 ---
 dj: dj-phi
-event: fresh-mode
-date: 2011-02-19
+event: fresh-mode-2011-02-19
 genre: dnb
 
 ---
@@ -543,8 +527,7 @@ name: "GS2-040707"
 
 ---
 dj: dj-sick-nick
-event: norman-music-festival-4
-date: 2011-04-30
+event: norman-music-festival-4-2011-04-30
 genre: latin-tech-house
 
 ---
@@ -569,8 +552,7 @@ date: 2004
 
 ---
 dj: dj-spiral
-event: perpetual-12-park-party
-date: 2006-05-27
+event: perpetual-12-park-party-2006-05-27
 
 ---
 dj: dj-spiral
@@ -622,24 +604,21 @@ date: 2010
 
 ---
 dj: dj-spiral
-event: fresh-mode
-date: 2010-10-16
+event: fresh-mode-2010-10-16
 genres:
   - electro
   - tech-house
 
 ---
 dj: dj-spiral
-event: fresh-mode
-date: 2011-02-19
+event: fresh-mode-2011-02-19
 genres:
   - electro
   - tech-house
 
 ---
 dj: dj-spiral
-event: fresh-mode
-date: 2011-03-12
+event: fresh-mode-2011-03-12
 genres:
   - electro
   - tech-house
@@ -649,8 +628,7 @@ djs:
   - dj-spiral
   - miles-deem
 name: "Spiral vs. Miles Deem Part 1"
-event: fresh-mode
-date: 2011-03-19
+event: fresh-mode-2011-03-19
 genres:
   - electro
   - techno
@@ -660,8 +638,7 @@ djs:
   - dj-spiral
   - miles-deem
 name: "Spiral vs. Miles Deem Part 2"
-event: fresh-mode
-date: 2011-03-19
+event: fresh-mode-2011-03-19
 genres:
   - electro
   - techno
@@ -685,5 +662,4 @@ genres:
 
 ---
 dj: dj-spiral
-event: fresh-mode
-date: 2012-03-24
+event: fresh-mode-2012-03-24
