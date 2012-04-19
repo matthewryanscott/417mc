@@ -6,7 +6,7 @@
 
 {% block body %}
 
-  <h2>Recording</h2>
+  <h2>{{ obj.name }}</h2>
 
   <dl>
 
@@ -26,11 +26,6 @@
     {% if obj.date %}
       <dt>Date</dt>
       <dd>{{ obj.date|dateformat }}</dd>
-    {% endif %}
-
-    {% if obj.name %}
-      <dt>Name</dt>
-      <dd>{{ obj.name }}</dd>
     {% endif %}
 
     {% if obj.djs %}
