@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "macros.html" import recording_table %}
 
 {% block title %}Welcome{% endblock %}
 
@@ -37,5 +38,11 @@
       <a href="{{ root }}genre/index.html" class="thumbnail"><img src="{{ static }}by_genre.jpg" alt="By Genre"></a>
     </li>
   </ul>
+
+  <h2>Fresh Mixes</h2>
+
+  <p>Download the ten most recent mixes.</p>
+
+  {{ recording_table(list(reversed(recordings_by_date))[:10], root='./') }}
 
 {% endblock %}
