@@ -1,10 +1,10 @@
 # Format each event as follows:
 #
 # ---
+# slug: optional-slug
 # name: "Event name"
 # location: "Optional location"
 # city: "Optional city"
-# slug: optional-slug
 # description: >
 #   Optional description
 #   goes here.

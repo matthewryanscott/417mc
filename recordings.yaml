@@ -1,16 +1,16 @@
 # All recordings are kept in here.
 #
 # ---
-# dj: "Name of DJ"
+# slug: optional-recording-slug
+# dj: "Name of DJ" / slug-of-dj
 #   ~ or ~
 # djs:
-#   - "Name of DJ 1"
-#   - "Name of DJ 2"
+#   - "Name of DJ 1" / slug-of-dj-1
+#   - "Name of DJ 2" / slug-of-dj-2
 # name: "Optional Name of Recording"  (default: "Recording")
-# slug: optional-recording-slug
-# event: "Optional name of event"
+# event: "Optional name of event" / slug-of-event
 # date: YYYY-MM-DD
-# genre: "Optional name of genre"
+# genre: "Optional name of genre" / slug-of-genre
 #
 # Slugs are auto-created using information about the recording.
 # Name audio and graphics files after the slug.
@@ -26,273 +26,273 @@
 # fresh-mode_agent-traxxident_live-recording_2010-10-02.thumbnail.png
 
 ---
-dj: "Agent Traxxident"
+dj: agent-traxxident
 name: "You Were There Once"
-genre: "Hip Hop"
+genre: hip-hop
 
 ---
-dj: "Agent Traxxident"
+dj: agent-traxxident
 name: "Live recording"
-event: "Fresh Mode"
+event: fresh-mode
 date: 2010-10-02
-genre: "Mashup"
+genre: mashup
 
 ---
-dj: "Andrew Boie"
+dj: andrew-boie
 name: "Bride Of FWD Fridays"
-genre: "Techno"
+genre: techno
 
 ---
-dj: "Andrew Boie"
+dj: andrew-boie
 name: "Dead By Dawn"
-genre: "Techno"
+genre: techno
 
 ---
-dj: "Andrew Boie"
+dj: andrew-boie
 name: "Your Place or Mine"
 genres:
-  - "Deep House"
-  - "Techno"
+  - deep-house
+  - techno
 
 ---
-dj: "Andy Szawsum"
+dj: andy-szawsum
 name: "Back 2 Basics"
 
 ---
-dj: "Andy Szawsum"
+dj: andy-szawsum
 name: "Chicken Soup for the Raver Soul"
 
 ---
-dj: "Andy Szawsum"
+dj: andy-szawsum
 name: "Cobalt"
 
 ---
-dj: "Andy Szawsum"
+dj: andy-szawsum
 name: "Do Not Play"
 
 ---
-dj: "Andy Szawsum"
+dj: andy-szawsum
 name: "Martini Breakfast"
 
 ---
-dj: "Archon"
+dj: archon
 name: "Banshee"
 date: 2012
-genre: "Electrohouse"
+genre: electrohouse
 
 ---
-dj: "Archon"
+dj: archon
 name: "Grinder"
 date: 2011
-genre: "Electrohouse"
+genre: electrohouse
 
 ---
-dj: "Atreus"
+dj: atreus
 name: "Live recording"
-event: "Winter Meltdown"
+event: winter-meltdown
 date: 2011-01-22
-genre: "Dubstep"
+genre: dubstep
 
 ---
-dj: "Atreus"
+dj: atreus
 name: "Dusted Groove (Promo Mix)"
 date: 2011
-genre: "Dubstep"
+genre: dubstep
 
 ---
-dj: "Bacchus"
+dj: bacchus
 name: "Gerfuntencluken"
-genre: "Progressive"
+genre: progressive
 
 ---
-dj: "Bacchus"
+dj: bacchus
 name: "Message From The Caldera"
-genre: "Progressive"
+genre: progressive
 
 ---
-dj: "Bacchus"
+dj: bacchus
 name: "Shirtcockin USA"
 genres:
-  - "Funk"
-  - "House"
+  - funk
+  - house
 
 ---
-dj: "Ben Armstrong"
+dj: ben-armstrong
 name: "Live Recording"
 date: 2005-06-08
-genre: "House"
+genre: house
 
 ---
-dj: "Ben Armstrong"
+dj: ben-armstrong
 name: "Live Recording"
 date: 2009-10
-genre: "House"
+genre: house
 
 ---
-dj: "Ben Armstrong"
+dj: ben-armstrong
 name: "Aerosault Mix"
 date: 2010
-genre: "House"
+genre: house
 
 ---
-dj: "Bizar"
+dj: bizar
 name: "May Promo Mix"
 date: 2008-05
-genre: "Mashup"
+genre: mashup
 
 ---
-dj: "Bizar"
+dj: bizar
 name: "Heavy Brotation"
 date: 2009
-genre: "Mashup"
+genre: mashup
 
 ---
-dj: "Bizar"
+dj: bizar
 name: "Live recording"
-event: "Fresh Mode"
+event: fresh-mode
 date: 2010-10-09
-genre: "Mashup"
+genre: mashup
 
 ---
-dj: "Bizar"
+dj: bizar
 name: "Arkansacolypse"
 date: 2011
 
 ---
-dj: "Bizar"
+dj: bizar
 name: "Live recording"
-event: "Urban Beats"
+event: urban-beats
 date: 2011-03-04
 
 ---
 djs:
-  - "Bizar"
-  - "EQ"
+  - bizar
+  - eq
 name: "Live recording"
-event: "Fresh Mode"
+event: fresh-mode
 date: 2012-03-17
 
 ---
-dj: "Brian Best"
+dj: brian-best
 name: "Daydreaming 1"
-genre: "Breaks"
+genre: breaks
 
 ---
-dj: "Brian Best"
+dj: brian-best
 name: "Daydreaming 2"
-genre: "Breaks"
+genre: breaks
 
 ---
-dj: "Brian Best"
+dj: brian-best
 name: "Heaven Earth"
-genre: "Breaks"
+genre: breaks
 
 ---
-dj: "Brian Best"
+dj: brian-best
 name: "Heelflip"
-genre: "Breaks"
+genre: breaks
 
 ---
 djs:
-  - "Br1nk"
-  - "Matt Skywalker"
+  - br1nk
+  - matt-skywalker
 name: "Krylon Technicolor Type A2"
 genres:
-  - "Dubstep"
-  - "Drumstep"
-  - "DnB"
+  - dubstep
+  - drumstep
+  - dnb
 date: 2012
 
 ---
 djs:
-  - "Br1nk"
-  - "Matt Skywalker"
+  - br1nk
+  - matt-skywalker
 name: "Mid-Tempo n' Stuff"
 genres:
-  - "Midtempo"
-  - "Dance"
-  - "Dubstep"
+  - midtempo
+  - dance
+  - dubstep
 date: 2012
 
 ---
 djs:
-  - "Br1nk"
-  - "Matt Skywalker"
+  - br1nk
+  - matt-skywalker
 name: "Project Brixer"
 genres:
-  - "Dubstep"
-  - "Hip Hop"
-  - "DnB"
+  - dubstep
+  - hip-hop
+  - dnb
 date: 2012
 
 ---
 djs:
-  - "Br1nk"
-  - "Matt Skywalker"
+  - br1nk
+  - matt-skywalker
 name: "Table Flippin'"
 genres:
-  - "Dubstep"
-  - "Drumstep"
-  - "DnB"
+  - dubstep
+  - drumstep
+  - dnb
 date: 2012
 
 ---
-dj: "Bully"
+dj: bully
 name: "Drumcode 666"
-genre: "Techno"
+genre: techno
 
 ---
-dj: "C. Martin"
+dj: c-martin
 name: "2 Get Down"
-genre: "House"
+genre: house
 date: 2006
 
 ---
-dj: "C. Martin"
+dj: c-martin
 name: "Not From Chicago"
-genre: "House"
+genre: house
 date: 2006
 
 ---
-dj: "C. Martin"
+dj: c-martin
 name: "Jewel Demo"
-genre: "House"
+genre: house
 date: 2008
 
 ---
-dj: "C. Martin"
+dj: c-martin
 name: "Live recording (part 1)"
-event: "Fresh mode"
-genre: "House"
+event: fresh-mode
+genre: house
 date: 2011-04-02
 
 ---
-dj: "C. Martin"
+dj: c-martin
 name: "Live recording (part 2)"
-event: "Fresh mode"
-genre: "House"
+event: fresh-mode
+genre: house
 date: 2011-04-02
 
 ---
-dj: "Chris Adamantium"
+dj: chris-adamantium
 name: "Tales From The Creep"
-genre: "DnB"
+genre: dnb
 date: 2010
 
 ---
-dj: "Chris Adamantium"
+dj: chris-adamantium
 name: "Trendy"
-genre: "DnB"
+genre: dnb
 date: 2010
 
 ---
-dj: "Chris Adamantium"
+dj: chris-adamantium
 name: "Vibin on Ya"
-genre: "Progressive"
+genre: progressive
 date: 2010
 
 ---
-dj: "Chris Adamantium"
+dj: chris-adamantium
 name: "Transitions"
-genre: "DnB"
+genre: dnb
 date: 2011
