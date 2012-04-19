@@ -21,6 +21,10 @@ links:
 
 ---
 name: "Archon"
+city: "Louisville, KY"
+links:
+  - text: "Facebook"
+    url: https://www.facebook.com/discoaliens
 
 ---
 name: "Atreus"
