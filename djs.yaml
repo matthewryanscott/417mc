@@ -185,6 +185,10 @@ bio: >
 
 ---
 name: "DJ Sick Nick"
+city: tulsa-ok
+links:
+  - text: "Facebook"
+    url: https://www.facebook.com/sikniks
 
 ---
 name: "DJ Spiral"
