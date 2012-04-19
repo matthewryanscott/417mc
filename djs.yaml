@@ -38,6 +38,10 @@ links:
 
 ---
 name: "Atreus"
+city: "Columbia, MO"
+links:
+  - text: "Facebook"
+    url: https://www.facebook.com/pages/Atreus/121283863334
 
 ---
 name: "Bacchus"
