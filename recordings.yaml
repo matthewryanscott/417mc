@@ -116,3 +116,21 @@ name: "Shirtcockin USA"
 genres:
   - "Funk"
   - "House"
+
+---
+dj: "Ben Armstrong"
+name: "Live Recording"
+date: 2005-06-08
+genre: "House"
+
+---
+dj: "Ben Armstrong"
+name: "Live Recording"
+date: 2009-10
+genre: "House"
+
+---
+dj: "Ben Armstrong"
+name: "Aerosault Mix"
+date: 2010
+genre: "House"
