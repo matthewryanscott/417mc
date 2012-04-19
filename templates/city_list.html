@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "macros.html" import city_table %}
 
 {% block title %}Cities{% endblock %}
 
@@ -9,10 +10,6 @@
 
   <h2>Cities</h2>
 
-  <ul>
-    {% for city in object_list %}
-      <li><a href="{{ city.slug }}.html">{{ city.name }}</a></li>
-    {% endfor %}
-  </ul>
+  {{ city_table(object_list) }}
 
 {% endblock %}

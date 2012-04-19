@@ -1,4 +1,5 @@
 {% extends "base.html" %}
+{% from "macros.html" import dj_table %}
 
 {% block title %}DJs{% endblock %}
 
@@ -9,10 +10,6 @@
 
   <h2>DJs</h2>
 
-  <ul>
-    {% for dj in object_list %}
-      <li><a href="{{ dj.slug|maybealias('dj') }}.html">{{ dj.name }}</a></li>
-    {% endfor %}
-  </ul>
+  {{ dj_table(object_list) }}
 
 {% endblock %}

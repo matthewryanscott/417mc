@@ -1,3 +1,113 @@
+{% macro city_table(object_list, root="../") -%}
+  <table>
+    <thead>
+    <tr>
+      <th>Name</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for city in object_list %}
+      <tr>
+        <th><a href="{{ root }}city/{{ city.slug }}.html">{{ city.name }}</a></th>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+{%- endmacro %}
+
+{% macro dj_table(object_list, root="../") -%}
+  <table>
+    <thead>
+    <tr>
+      <th>Name</th>
+      <th>Genres</th>
+      <th>City</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for dj in object_list %}
+      <tr>
+        <th><a href="{{ root }}dj/{{ dj.slug }}.html">{{ dj.name }}</a></th>
+        <th>
+          {% if dj.genres %}
+            <ul>
+              {% for slug in dj.genres %}
+                <li><a href="{{ root }}genre/{{ slug }}.html">{{ slug|slugname('genre') }}</a></li>
+              {% endfor %}
+            </ul>
+          {% else %}
+            --
+          {% endif %}
+        </th>
+        <th>
+          {% if dj.city %}
+            <a href="{{ root }}city/{{ dj.city }}.html">{{ dj.city|slugname('city') }}</a>
+          {% endif %}
+        </th>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+{%- endmacro %}
+
+{% macro event_table(object_list, root="../") -%}
+  <table>
+    <thead>
+    <tr>
+      <th>Date</th>
+      <th>Name</th>
+      <th>City</th>
+      <th>Location</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for event in object_list %}
+      <tr>
+        <th>
+          {% if event.date %}
+            <a href="{{ root }}event/{{ event.slug }}.html">{{ event.date|dateformat }}</a>
+          {% else %}
+            --
+          {% endif %}
+        </th>
+        <th><a href="{{ root }}event/{{ event.slug }}.html">{{ event.name }}</a></th>
+        <th>
+          {% if event.city %}
+            <a href="{{ root }}city/{{ event.city }}.html">{{ event.city|slugname('city') }}</a>
+          {% else %}
+            --
+          {% endif %}
+        </th>
+        <th>
+          {% if event.location %}
+            {{ event.location }}
+          {% else %}
+            --
+          {% endif %}
+        </th>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+{%- endmacro %}
+
+{% macro genre_table(object_list, root="../") -%}
+  <table>
+    <thead>
+    <tr>
+      <th>Name</th>
+    </tr>
+    </thead>
+    <tbody>
+    {% for genre in object_list %}
+      <tr>
+        <td><a href="{{ root }}genre/{{ genre.slug }}.html">{{ genre.name }}</a></td>
+      </tr>
+    {% endfor %}
+    </tbody>
+  </table>
+{%- endmacro %}
+
 {% macro recording_table(object_list, root="../") -%}
   <table>
     <thead>
