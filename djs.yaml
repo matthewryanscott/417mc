@@ -172,6 +172,10 @@ aliases:
 
 ---
 name: "DJ Phi"
+city: springfield-mo
+links:
+  - text: "Facebook"
+    url: http://www.facebook.com/pages/Dj-Phi/217411748301749
 
 ---
 name: "DJ Reverend Rob"
