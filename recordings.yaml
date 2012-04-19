@@ -241,3 +241,35 @@ date: 2012
 dj: "Bully"
 name: "Drumcode 666"
 genre: "Techno"
+
+---
+dj: "C. Martin"
+name: "2 Get Down"
+genre: "House"
+date: 2006
+
+---
+dj: "C. Martin"
+name: "Not From Chicago"
+genre: "House"
+date: 2006
+
+---
+dj: "C. Martin"
+name: "Jewel Demo"
+genre: "House"
+date: 2008
+
+---
+dj: "C. Martin"
+name: "Live recording (part 1)"
+event: "Fresh mode"
+genre: "House"
+date: 2011-04-02
+
+---
+dj: "C. Martin"
+name: "Live recording (part 2)"
+event: "Fresh mode"
+genre: "House"
+date: 2011-04-02
