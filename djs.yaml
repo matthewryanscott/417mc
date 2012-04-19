@@ -1,3 +1,13 @@
+# ---
+# name: "Name of DJ"
+# aliases:
+#   - "Optional alias"
+#   - "Another alias"
+# city: "Optional City, ST"
+# links:
+#   - text: "Facebook"
+#     url: https://facebook.com/example
+
 ---
 name: "Agent Traxxident"
 city: "Springfield, MO"
