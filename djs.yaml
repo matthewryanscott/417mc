@@ -125,6 +125,12 @@ aliases:
 
 ---
 name: "Digital Love"
+city: little-rock-ar
+links:
+  - text: "SoundCloud"
+    url: http://soundcloud.com/dldubstep
+  - text: "Facebook"
+    url: https://www.facebook.com/Jasin.DigitalLove.Hulsey
 
 ---
 name: "DigiStar"
