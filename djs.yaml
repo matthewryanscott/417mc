@@ -77,6 +77,10 @@ links:
 
 ---
 name: "Chris Adamantium"
+city: "Springfield, MO"
+links:
+  - text: "Facebook"
+    url: https://www.facebook.com/Chris.adamantium
 
 ---
 name: "Chris Close"
