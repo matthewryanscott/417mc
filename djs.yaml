@@ -423,6 +423,12 @@ links:
 
 ---
 name: "Scotty Mac"
+city: st-louis-mo
+links:
+  - "Black Science": http://www.blackscience.com/
+  - "Kinky Disco": http://www.kinkydisco.com/
+  - "Fly": http://www.stlfly.com/
+  - "Facebook": http://www.facebook.com/BlackScience1200
 
 ---
 name: "Shagee"
