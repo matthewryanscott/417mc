@@ -445,6 +445,9 @@ city: springfield-mo
 
 ---
 name: "Sqyttles"
+city: springfield-mo
+links:
+  - "Facebook": https://www.facebook.com/sqyttles
 
 ---
 name: "St Thomas"
