@@ -1784,3 +1784,11 @@ genre: goa
 dj: shagee
 name: "Yellow Solar Human"
 genre: goa
+
+---
+djs:
+  - dj-spiral
+  - bacchus
+  - daniel-j
+name: "Tagset"
+genre: tweep
