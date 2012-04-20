@@ -210,6 +210,9 @@ links:
 
 ---
 name: "ence"
+city: springfield-mo
+links:
+  - "Facebook": http://www.facebook.com/nicholas.cloyd
 
 ---
 name: "EQ"

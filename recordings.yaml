@@ -760,3 +760,21 @@ genre: electro
 ---
 dj: echozaurora
 event: winter-meltdown-2011-01-22
+
+---
+dj: ence
+name: "Decadence 1.1"
+genre: progressive
+
+---
+dj: ence
+name: "Live at Club 608"
+genre: progressive
+
+---
+djs:
+  - ence
+  - solegroove
+name: "Ence vs. Solegroove"
+event: fractured-2011-01-19
+genre: house
