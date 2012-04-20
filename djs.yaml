@@ -48,6 +48,12 @@ name: "Audio Agent"
 name: "Bacchus"
 
 ---
+name: "Bargo"
+city: st-louis-mo
+links:
+  - "Facebook": https://www.facebook.com/djbargo
+
+---
 name: "Ben Armstrong"
 city: fayetteville-ar
 
@@ -126,12 +132,6 @@ name: "DigiStar"
 city: st-louis-mo
 links:
   - "Facebook": https://www.facebook.com/ladydigistar
-
----
-name: "Bargo"
-city: st-louis-mo
-links:
-  - "Facebook": https://www.facebook.com/djbargo
 
 ---
 name: "Disorderly Conduct"
@@ -215,6 +215,9 @@ links:
   - "Facebook": https://www.facebook.com/echozaurora
 
 ---
+name: "Empress"
+
+---
 name: "ence"
 city: springfield-mo
 links:
@@ -255,6 +258,9 @@ name: "Gozu Lamonde"
 city: springfield-mo
 links:
   - "Facebook": https://www.facebook.com/gozulamonde
+
+---
+name: "Hypertronic"
 
 ---
 name: "Ironix"
@@ -457,6 +463,9 @@ name: "St Thomas"
 
 ---
 name: "Stretch"
+
+---
+name: "Stuart Perkins"
 
 ---
 name: "The Preacher"

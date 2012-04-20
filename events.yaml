@@ -263,15 +263,6 @@ location: "Afterhours"
 city: springfield-mo
 
 ---
-name: "Frost"
-
----
-name: "Purple"
-
----
-name: "Defender"
-
----
 name: "SUMO"
 date: 2006-02-11
 
@@ -280,31 +271,13 @@ name: "SUMO"
 date: 2006-03-11
 
 ---
-name: "Afterburn"
-
----
-name: "Gut Check"
-
----
-name: "Intelements"
-
----
-slug: cusp-2009
+slug: cusp-2009-06-21
 name: "Cusp Park Party"
-date: 2009
-
----
-name: "Initiate Sequence"
+date: 2009-06-21
 
 ---
 name: "Summer Scratch"
-date: 2010
-
----
-name: "Cause 4 Concern"
-
---- 
-name: "Drum & Bass House Party"
+date: 2010-07-24
 
 ---
 name: "LC Moveout Party"
@@ -377,3 +350,38 @@ date: 2003
 
 ---
 name: "I Luv House"
+
+---
+name: "The Last Flight"
+date: 2002-07-27
+
+---
+name: "Intelements"
+date: 2009-03-21
+
+---
+name: "Initiate Sequence"
+date: 2009-09-12
+
+---
+name: "Purple"
+date: 2003-03-22
+
+---
+name: "Gut Check"
+date: 2009-03-07
+
+---
+name: "Defender"
+date: 2005-05-31
+
+---
+name: "Afterburn"
+date: 2008-07-04
+
+---
+name: "Frost"
+date: 2002-12-07
+
+---
+name: "Cause 4 Concern"

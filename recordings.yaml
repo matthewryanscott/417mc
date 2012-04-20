@@ -581,7 +581,7 @@ date: 2006
 
 ---
 dj: dj-spiral
-event: cusp-2009
+event: cusp-2009-06-21
 genre: downtempo
 
 ---
@@ -736,7 +736,7 @@ date: 2009
 
 ---
 dj: double-helix
-event: summer-scratch-2010
+event: summer-scratch-2010-07-24
 
 ---
 dj: echozaurora
@@ -825,7 +825,7 @@ genre: dnb
 
 ---
 dj: francis-rizzudo
-event: cusp-2009
+event: cusp-2009-06-21
 
 ---
 dj: fstz
@@ -1240,7 +1240,7 @@ date: 2009
 djs:
   - plunkie
   - dj-hayze
-event: summer-scratch-2010
+event: summer-scratch-2010-07-24
 genre: dubstep
 
 ---
@@ -1511,7 +1511,7 @@ genre: dnb
 
 ---
 dj: tj-aether
-event: cusp-2009
+event: cusp-2009-06-21
 
 ---
 djs:
@@ -1555,7 +1555,7 @@ date: 2009
 
 ---
 dj: wodie-stylez
-event: cusp-2009
+event: cusp-2009-06-21
 
 ---
 dj: wodie-stylez
@@ -1812,3 +1812,98 @@ genre: hard-house
 dj: the-preacher
 name: "Vol. 1"
 genre: breaks
+
+---
+event: the-last-flight-2002-07-27
+# TODO: djs
+# TODO: genres
+
+---
+event: frost-2002-12-07
+# TODO: djs
+# TODO: genres
+
+---
+event: purple-2003-03-22
+# TODO: djs
+# TODO: genres
+
+---
+event: defender-2005-05-31
+# TODO: djs
+# TODO: genres
+
+---
+event: afterburn-2008-07-04
+# TODO: djs
+# TODO: genres
+
+---
+event: gut-check-2009-03-07
+# TODO: djs
+# TODO: genres
+
+---
+event: intelements-2009-03-21
+# TODO: djs
+# TODO: genres
+
+---
+event: cusp-2009-06-21
+# TODO: djs
+# TODO: genres
+
+---
+event: initiate-sequence-2009-09-12
+# TODO: djs
+# TODO: genres
+
+---
+event: summer-scratch-2010-07-24
+# TODO: djs
+# TODO: genres
+
+---
+event: cause-4-concern
+dj: presto
+
+---
+event: cause-4-concern
+djs:
+  - shagee
+  - zack-smith
+name: "Shagee vs. Zack Smith"
+
+---
+event: cause-4-concern
+dj: stuart-perkins
+name: "Live recording (Part 1)"
+
+---
+event: cause-4-concern
+dj: stuart-perkins
+name: "Live recording (Part 2)"
+
+---
+name: "Drum & Bass House Party"
+djs:
+  - fenomenon
+  - scot free
+  - st thomas
+
+---
+event: lc-moveout-party
+# TODO: djs
+# TODO: genres
+
+---
+event: rave-of-the-living-dead
+dj: empress
+
+---
+event: fresh-mode-2010-11-20
+name: "Multi-DJ Tag Set"
+
+---
+event: fresh-mode-2010-12-04
+dj: hypertronic
