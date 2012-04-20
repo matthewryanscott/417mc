@@ -416,6 +416,10 @@ links:
 
 ---
 name: "Scot Free"
+city: springfield-mo
+links:
+  - "This Guy That Guy": https://www.facebook.com/thisguythatguy
+  - "Facebook": http://www.facebook.com/djscotfree
 
 ---
 name: "Scotty Mac"
