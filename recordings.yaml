@@ -156,8 +156,7 @@ date: 2011
 
 ---
 dj: bizar
-event: urban-beats
-date: 2011-03-04
+event: urban-beats-2011-03-04
 
 ---
 djs:
@@ -302,8 +301,7 @@ genre: dubstep
 
 ---
 dj: cidlix
-event: urban-beats
-date: 2011-03-04
+event: urban-beats-2011-03-04
 genre: dubstep
 
 ---
@@ -414,8 +412,7 @@ date: 2010-09-11
 
 ---
 dj: digital-love
-event: urban-beats
-date: 2011-03-04
+event: urban-beats-2011-03-04
 genre: dubstep
 
 ---
@@ -1187,3 +1184,15 @@ genre: dnb
 dj: mr-solve
 name: "Year of the Dragon"
 genre: dnb
+
+---
+dj: nero
+name: "Love Hz"
+genre: dnb
+
+---
+djs:
+  - nero
+  - mc-precision
+name: "DJ Nero & MC Precision LIVE"
+event: urban-beats-2011-03-04

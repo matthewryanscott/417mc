@@ -308,6 +308,9 @@ name: "Matt Skywalker"
 city: springfield-mo
 
 ---
+name: "MC Precision"
+
+---
 name: "Merl"
 city: fayetteville-ar
 links:
@@ -337,6 +340,7 @@ links:
 
 ---
 name: "Nero"
+city: st-louis-mo
 
 ---
 name: "Nolo"
