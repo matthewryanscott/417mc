@@ -225,6 +225,9 @@ name: "Evolve"
 
 ---
 name: "Fenomenon"
+city: springfield-mo
+links:
+  - "Facebook": https://www.facebook.com/pages/Fenomenon/188665951154248
 
 ---
 name: "Francis Rizzudo"
