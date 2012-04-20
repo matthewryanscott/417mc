@@ -385,7 +385,12 @@ links:
   - "Facebook": http://www.facebook.com/djrachelfair
 
 ---
-name: "Ragga Scum (svs)"
+name: "Ragga Scum"
+aliases:
+  - "svs"
+city: kansas-city-mo
+links:
+  - "Facebook": https://www.facebook.com/raggascum
 
 ---
 name: "Randal Soeung"
