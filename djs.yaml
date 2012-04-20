@@ -487,15 +487,18 @@ links:
 
 ---
 name: "Whikkit"
+
+---
+name: "Whish"
 city: st-louis-mo
 links:
   - "Facebook": https://www.facebook.com/whish
 
 ---
-name: "Whish"
-
----
 name: "William Stylus"
+city: springfield-mo
+links:
+  - "Facebook": https://www.facebook.com/willtehdj
 
 ---
 name: "X-Kwizit"
