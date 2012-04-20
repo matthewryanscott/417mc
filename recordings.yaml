@@ -89,7 +89,7 @@ genre: electrohouse
 
 ---
 dj: atreus
-event: winter-meltdown
+event: winter-meltdown-2011-01-22
 date: 2011-01-22
 genre: dubstep
 
@@ -741,3 +741,22 @@ date: 2009
 ---
 dj: double-helix
 event: summer-scratch-2010
+
+---
+dj: echozaurora
+name: "Electrofunkygroovesauce"
+genre: electro
+
+---
+dj: echozaurora
+name: "Mashadelic Meltdown"
+genre: electro
+
+---
+dj: echozaurora
+event: fresh-mode-2010-09-04
+genre: electro
+
+---
+dj: echozaurora
+event: winter-meltdown-2011-01-22
