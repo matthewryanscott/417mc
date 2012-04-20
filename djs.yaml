@@ -271,6 +271,9 @@ name: "Jersey John"
 
 ---
 name: "Jimmy C"
+city: springfield-mo
+links:
+  - "417Vibe": http://417vibe.com/
 
 ---
 name: "Julie Winters"
