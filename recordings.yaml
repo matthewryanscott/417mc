@@ -328,8 +328,7 @@ genre: dubstep
 
 ---
 dj: colby-price
-event: sextacy-ball
-date: 2010-09-11
+event: sextacy-ball-2010-09-11
 
 ---
 dj: colby-price
@@ -406,11 +405,6 @@ name: "Year End Session"
 date: 2008
 
 ---
-dj: daniel-j
-event: sextacy-ball
-date: 2010-09-11
-
----
 dj: digital-love
 event: urban-beats-2011-03-04
 genre: dubstep
@@ -429,8 +423,7 @@ name: "Damage Control"
 
 ---
 dj: dj-kope
-event: sextacy-ball
-date: 2010-09-11
+event: sextacy-ball-2010-09-11
 genres:
   - electro
   - tech-house
@@ -1119,7 +1112,6 @@ date: 2010
 dj: merl
 event: fresh-mode-2011-02-05
 genre: dnb
-date: 2011
 
 ---
 djs:
@@ -1145,13 +1137,6 @@ dj: mike-dileo
 name: "UMove Mixtape 57"
 genre: progressive-house
 date: 2010
-
----
-djs:
-  - mike-dileo
-  - lc
-event: fresh-mode-2011-01-29
-genre: house
 
 ---
 dj: miles-deem
@@ -1925,3 +1910,200 @@ djs:
   - dj-phi
   - dj-spiral
   - scot-free
+
+---
+event: fresh-mode-2011-01-29
+djs:
+  - jimmy-c
+  - lc
+  - mike-dileo
+
+---
+event: fresh-mode-2011-02-05
+dj: dj-phi
+
+---
+event: fresh-mode-2011-07-23
+dj: kindred-groove
+
+---
+event: fresh-mode-2011-07-23
+dj: doohickey
+
+---
+event: fresh-mode-2011-07-23
+dj: maddcatt
+
+---
+event: fresh-mode-2011-08-06
+djs:
+  - zack smith
+  - miles deem
+name: "Zack Smith vs. Miles Deem"
+
+---
+event: fresh-mode-2011-08-13
+dj: lc
+
+---
+event: fresh-mode-2011-08-27
+dj: this-guy-that-guy
+name: "Set 1"
+
+---
+event: fresh-mode-2011-08-27
+djs:
+  - dj-spiral
+  - wodie-stylez
+name: "Set 1"
+
+---
+event: fresh-mode-2011-08-27
+dj: this-guy-that-guy
+name: "Set 2"
+
+---
+event: fresh-mode-2011-08-27
+djs:
+  - dj-spiral
+  - wodie-stylez
+name: "Set 2"
+
+---
+event: fresh-mode-2011-10-29
+dj: dj-phi
+
+---
+event: fresh-mode-2011-10-29
+dj: merl
+
+---
+event: fresh-mode-2011-10-29
+dj: domewrekka
+
+---
+event: fresh-mode-2011-12-24
+dj: c-martin
+
+---
+event: fresh-mode-2011-12-24
+djs:
+  - this-guy-that-guy
+  - st-thomas
+  - fenomenon
+
+---
+event: fresh-mode-2011-12-31
+dj: dj-phi
+
+---
+event: fresh-mode-2011-12-31
+dj: scot-free
+
+---
+event: fresh-mode-2011-12-31
+dj: ragga-scum
+
+---
+event: fresh-mode-2012-01-14
+dj: control-c
+
+---
+event: fresh-mode-2012-01-14
+dj: dj-sick-nick
+
+---
+event: fresh-mode-2012-02-18
+dj: scot-free
+
+---
+event: fresh-mode-2012-02-18
+dj: dvs
+
+---
+event: fresh-mode-2012-02-18
+dj: dj-sum1
+
+---
+event: sextacy-ball-2010-09-11
+dj: longcat
+
+---
+event: sextacy-ball-2010-09-11
+dj: psycho-bitch
+
+---
+event: sextacy-ball-2010-09-11
+dj: forest-green
+
+---
+event: sextacy-ball-2010-09-11
+# ideally would say "kichen" instead but cannot yet link to dj alias here
+dj: daniel-j
+
+---
+event: winter-meltdown-2011-01-22
+djs:
+  - 6blocc
+  - prolific
+
+---
+event: urban-beats-2011-03-04
+dj: jungle-asylum
+
+---
+event: urban-beats-2011-03-04
+djs:
+  - bizar
+  - goldenchild
+name: "Bizar vs. Goldenchild"
+
+---
+event: fahrenheit-2011-07-23
+dj: this-guy-that-guy
+
+---
+event: fahrenheit-2011-07-23
+dj: c-martin
+
+---
+event: fahrenheit-2011-07-23
+dj: ence
+
+---
+event: fahrenheit-2011-07-23
+dj: echozaurora
+
+---
+event: fahrenheit-2011-07-23
+dj: wodie-stylez
+
+---
+event: party-in-the-park-10-2011-08-13
+dj: ragerrabbit
+
+---
+event: party-in-the-park-10-2011-08-13
+dj: dj-spiral
+
+---
+event: party-in-the-park-10-2011-08-13
+dj: missj
+
+---
+event: party-in-the-park-10-2011-08-13
+dj: vic-damone
+
+---
+event: party-in-the-park-10-2011-08-13
+dj: kookie
+
+---
+event: party-in-the-park-10-2011-08-13
+dj: dj-andy-b
+
+---
+event: party-in-the-park-10-2011-08-13
+djs:
+  - david-fields
+  - beau-lemaster

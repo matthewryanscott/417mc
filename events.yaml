@@ -235,6 +235,7 @@ date: 2011-01-19
 ---
 name: "Sextacy Ball"
 location: "The Fireman's Banquet Hall"
+date: 2010-09-11
 
 ---
 name: "Winter Meltdown"
@@ -247,14 +248,17 @@ location: "Remmingtons"
 date: 2011-03-04
 
 ---
-name: "Fahrenheit"
+slug: fahrenheit-2011-07-23
+name: "Fahrenheit Park Party"
 location: "Nathanael Greene Park"
+date: 2011-07-23
 
 ---
-slug: party-in-the-park-10
+slug: party-in-the-park-10-2011-08-13
 name: "Party In The Park 10: Down On The Farm"
 location: "DuSable Park"
 city: st-louis-mo
+date: 2011-08-13
 
 ---
 slug: last-flight

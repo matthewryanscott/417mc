@@ -12,6 +12,9 @@
 #   goes here.
 
 ---
+name: "6Blocc"
+
+---
 name: "Agent Traxxident"
 city: springfield-mo
 links:
@@ -54,6 +57,9 @@ links:
   - "Facebook": https://www.facebook.com/djbargo
 
 ---
+name: "Beau LeMaster"
+
+---
 name: "Ben Armstrong"
 city: fayetteville-ar
 
@@ -73,6 +79,7 @@ city: springfield-mo
 
 ---
 name: "Bully"
+city: kansas-city-mo
 
 ---
 name: "C. Martin"
@@ -119,6 +126,12 @@ aliases:
   - "Deviant Sound System"
   - "dietheory"
   - "kichen"
+city: little-rock-ar
+links:
+  - "Facebook": https://www.facebook.com/daniel.kichen
+
+---
+name: "David Fields"
 
 ---
 name: "Digital Love"
@@ -139,6 +152,9 @@ city: kansas-city-mo
 genre: dnb
 links:
   - "dnbradio.com recordings": http://www.dnbradio.com/index.php?page=1&pc=LiveMixes&search=disorderly+conduct+radio
+
+---
+name: "DJ Andy B"
 
 ---
 name: "DJ Balance"
@@ -200,6 +216,9 @@ name: "DJ Wysh"
 city: springfield-mo
 
 ---
+name: "Domewrekka"
+
+---
 name: "Doohickey"
 city: fayetteville-ar
 links:
@@ -207,6 +226,10 @@ links:
 
 ---
 name: "Double Helix"
+city: springfield-mo
+
+---
+name: "DVS"
 
 ---
 name: "EchozAurora"
@@ -237,6 +260,9 @@ name: "Fenomenon"
 city: springfield-mo
 links:
   - "Facebook": https://www.facebook.com/pages/Fenomenon/188665951154248
+
+---
+name: "Forest Green"
 
 ---
 name: "Francis Rizzudo"
@@ -291,16 +317,31 @@ links:
 name: "Julie Winters"
 
 ---
+name: "Jungle Asylum"
+
+---
 name: "Kid Nexus"
 city: springfield-mo
 links:
   - "Black Box Revue": http://www.facebook.com/BLACKBOXREVUE
 
 ---
+name: "Kindred Groove"
+
+---
+name: "Kookie"
+
+---
 name: "LC"
 city: kansas-city-mo
 links:
   - "Facebook": http://www.facebook.com/lorenzo.chavez1
+
+---
+name: "LongCat"
+
+---
+name: "MaddCatt"
 
 ---
 name: "Malkontent"
@@ -348,6 +389,9 @@ name: "Miles Deem"
 city: springfield-mo
 
 ---
+name: "MissJ"
+
+---
 name: "Mr. Solve"
 city: kansas-city-mo
 links:
@@ -389,6 +433,15 @@ links:
 
 ---
 name: "Presto"
+
+---
+name: "Prolific"
+
+---
+name: "Psycho Bitch"
+
+---
+name: "RagerRabbit"
 
 ---
 name: "Rachel Fair"
@@ -486,6 +539,9 @@ links:
   - "Facebook": http://www.facebook.com/D.E.D.Productions
 
 ---
+name: "Vic Damone"
+
+---
 name: "Wes Luker"
 city: fayetteville-ar
 links:
@@ -509,6 +565,8 @@ links:
 ---
 name: "William Stylus"
 city: springfield-mo
+aliases:
+  - "Just Will"
 links:
   - "Facebook": https://www.facebook.com/willtehdj
 
