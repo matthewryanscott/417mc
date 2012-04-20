@@ -331,6 +331,9 @@ city: springfield-mo
 
 ---
 name: "Mr. Solve"
+city: kansas-city-mo
+links:
+  - "Facebook": https://www.facebook.com/disorder.crew.kc
 
 ---
 name: "Nero"
