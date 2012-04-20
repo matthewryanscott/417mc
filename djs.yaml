@@ -286,6 +286,9 @@ links:
 
 ---
 name: "LC"
+city: kansas-city-mo
+links:
+  - "Facebook": http://www.facebook.com/lorenzo.chavez1
 
 ---
 name: "Malkontent"
