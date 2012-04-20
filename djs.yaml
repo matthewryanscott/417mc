@@ -309,6 +309,9 @@ city: springfield-mo
 
 ---
 name: "Merl"
+city: fayetteville-ar
+links:
+  - "Facebook": http://www.facebook.com/djmerl
 
 ---
 name: "Mike P"
