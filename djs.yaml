@@ -216,6 +216,9 @@ links:
 
 ---
 name: "EQ"
+city: fayetteville-ar
+links:
+  - "Facebook": http://www.facebook.com/mbolez
 
 ---
 name: "Evolve"

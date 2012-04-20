@@ -778,3 +778,10 @@ djs:
 name: "Ence vs. Solegroove"
 event: fractured-2011-01-19
 genre: house
+
+---
+dj: eq
+event: fresh-mode-2010-10-09
+genres:
+  - tech-house
+  - electro
