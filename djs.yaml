@@ -15,36 +15,31 @@
 name: "Agent Traxxident"
 city: springfield-mo
 links:
-  - text: "Facebook"
-    url: https://facebook.com/agenttraxxident
+  - "Facebook": https://facebook.com/agenttraxxident
 
 ---
 name: "Andrew Boie"
 city: kansas-city-mo
 links:
-  - text: "Facebook"
-    url: https://www.facebook.com/andrew.boie
+  - "Facebook": https://www.facebook.com/andrew.boie
 
 ---
 name: "Andy Szawsum"
 city: st-louis-mo
 links:
-  - text: "Facebook"
-    url: https://www.facebook.com/AndySzawsum
+  - "Facebook": https://www.facebook.com/AndySzawsum
 
 ---
 name: "Archon"
 city: louisville-ky
 links:
-  - text: "Facebook"
-    url: https://www.facebook.com/discoaliens
+  - "Facebook": https://www.facebook.com/discoaliens
 
 ---
 name: "Atreus"
 city: columbia-mo
 links:
-  - text: "Facebook"
-    url: https://www.facebook.com/pages/Atreus/121283863334
+  - "Facebook": https://www.facebook.com/pages/Atreus/121283863334
 
 ---
 name: "Bacchus"
@@ -57,8 +52,7 @@ city: fayetteville-ar
 name: "Bizar"
 city: fayetteville-ar
 links:
-  - text: "Facebook"
-    url: https://www.facebook.com/chazbizar
+  - "Facebook": https://www.facebook.com/chazbizar
 
 ---
 name: "Brian Best"
@@ -75,15 +69,13 @@ name: "Bully"
 name: "C. Martin"
 city: springfield-mo
 links:
-  - text: "Facebook"
-    url: https://www.facebook.com/hipertronic
+  - "Facebook": https://www.facebook.com/hipertronic
 
 ---
 name: "Chris Adamantium"
 city: springfield-mo
 links:
-  - text: "Facebook"
-    url: https://www.facebook.com/Chris.adamantium
+  - "Facebook": https://www.facebook.com/Chris.adamantium
 
 ---
 name: "Chris Close"
@@ -93,24 +85,20 @@ city: tulsa-ok
 name: "Cidlix"
 city: columbia-mo
 links:
-  - text: "Facebook"
-    url: https://www.facebook.com/cidlix
+  - "Facebook": https://www.facebook.com/cidlix
 
 ---
 name: "Colby Price"
 city: springfield-mo
 links:
-  - text: "SoundCloud"
-    url: http://soundcloud.com/colby-price/
-  - text: "Facebook"
-    url: https://www.facebook.com/djcolbyprice
+  - "SoundCloud": http://soundcloud.com/colby-price/
+  - "Facebook": https://www.facebook.com/djcolbyprice
 
 ---
 name: "Control C"
 city: oklahoma-city-ok
 links:
-  - text: "Facebook"
-    url: https://www.facebook.com/chiefcloud
+  - "Facebook": https://www.facebook.com/chiefcloud
 
 ---
 name: "Dan Catron"
@@ -127,32 +115,27 @@ aliases:
 name: "Digital Love"
 city: little-rock-ar
 links:
-  - text: "SoundCloud"
-    url: http://soundcloud.com/dldubstep
-  - text: "Facebook"
-    url: https://www.facebook.com/Jasin.DigitalLove.Hulsey
+  - "SoundCloud": http://soundcloud.com/dldubstep
+  - "Facebook": https://www.facebook.com/Jasin.DigitalLove.Hulsey
 
 ---
 name: "DigiStar"
 city: st-louis-mo
 links:
-  - text: "Facebook"
-    url: https://www.facebook.com/ladydigistar
+  - "Facebook": https://www.facebook.com/ladydigistar
 
 ---
 name: "Bargo"
 city: st-louis-mo
 links:
-  - text: "Facebook"
-    url: https://www.facebook.com/djbargo
+  - "Facebook": https://www.facebook.com/djbargo
 
 ---
 name: "Disorderly Conduct"
 city: kansas-city-mo
 genre: dnb
 links:
-  - text: "dnbradio.com recordings"
-    url: http://www.dnbradio.com/index.php?page=1&pc=LiveMixes&search=disorderly+conduct+radio
+  - "dnbradio.com recordings": http://www.dnbradio.com/index.php?page=1&pc=LiveMixes&search=disorderly+conduct+radio
 
 ---
 name: "DJ Balance"
@@ -174,8 +157,7 @@ aliases:
 name: "DJ Phi"
 city: springfield-mo
 links:
-  - text: "Facebook"
-    url: http://www.facebook.com/pages/Dj-Phi/217411748301749
+  - "Facebook": http://www.facebook.com/pages/Dj-Phi/217411748301749
 
 ---
 name: "DJ Reverend Rob"
@@ -187,15 +169,13 @@ bio: >
 name: "DJ Sick Nick"
 city: tulsa-ok
 links:
-  - text: "Facebook"
-    url: https://www.facebook.com/sikniks
+  - "Facebook": https://www.facebook.com/sikniks
 
 ---
 name: "DJ Spiral"
 city: springfield-mo
 links:
-  - text: "Website"
-    url: http://djspiral.com/
+  - "Website": http://djspiral.com/
 
 ---
 name: "DJ Sum1"
@@ -271,7 +251,7 @@ name: "Malware"
 
 ---
 name: "Matt Skywalker"
-city: "Springfield, MO"
+city: springfield-mo
 
 ---
 name: "Merl"
