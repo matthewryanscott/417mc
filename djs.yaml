@@ -307,6 +307,9 @@ links:
   - "Facebook": https://www.facebook.com/malwaremusic
 
 ---
+name: "Matt Beatz"
+
+---
 name: "Matt Skywalker"
 city: springfield-mo
 
@@ -484,6 +487,9 @@ links:
 
 ---
 name: "Whikkit"
+city: st-louis-mo
+links:
+  - "Facebook": https://www.facebook.com/whish
 
 ---
 name: "Whish"
