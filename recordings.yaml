@@ -1750,3 +1750,37 @@ genre: electro
 dj: presto
 name: "Transmissions"
 genre: tech-house
+
+---
+djs:
+  - shagee
+  - nolo
+name: "Shagee vs. Nolo"
+genres:
+  - goa
+  - electro
+
+---
+dj: shagee
+name: "Halloween Mix"
+genre: goa
+
+---
+dj: shagee
+name: "Chest Pains"
+genre: goa
+
+---
+dj: shagee
+name: "Tribute"
+genre: goa
+
+---
+dj: shagee
+name: "Triocular"
+genre: goa
+
+---
+dj: shagee
+name: "Yellow Solar Human"
+genre: goa
