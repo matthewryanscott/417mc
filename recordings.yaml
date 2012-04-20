@@ -1290,3 +1290,38 @@ dj: randal-soeung
 name: "Aerosault Mix"
 genre: house
 year: 2009
+
+---
+dj: richie-relax
+name: "Disco133"
+genre: progressive
+date: 2009
+
+---
+djs:
+  - richie-relax
+  - ence
+name: "Richie Relax vs. Ence"
+event: fremont-lounge-2009
+genre: progressive
+
+---
+dj: richie-relax
+event: latin-vibe-2008
+genre: progressive
+
+---
+dj: richie-relax
+event: latin-vibe-2009
+genre: progressive
+
+---
+dj: richie-relax
+name: "On the Fly133"
+genre: progressive
+
+---
+dj: richie-relax
+name: "On the Fly at LV"
+genre: progressive
+date: 2009

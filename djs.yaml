@@ -400,6 +400,9 @@ links:
 
 ---
 name: "Richie Relax"
+city: springfield-mo
+links:
+  - "Facebook": http://www.facebook.com/richierelax
 
 ---
 name: "Robe Flax"
