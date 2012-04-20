@@ -199,6 +199,9 @@ links:
 
 ---
 name: "DJ Sum1"
+city: springfield-mo
+links:
+  - "Facebook": https://www.facebook.com/DJSum1
 
 ---
 name: "DJ Wycon"
