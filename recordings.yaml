@@ -581,7 +581,7 @@ date: 2006
 
 ---
 dj: dj-spiral
-event: cusp-park-party-2009
+event: cusp-2009
 genre: downtempo
 
 ---
@@ -825,7 +825,7 @@ genre: dnb
 
 ---
 dj: francis-rizzudo
-event: cusp-park-party-2009
+event: cusp-2009
 
 ---
 dj: fstz
@@ -1508,3 +1508,25 @@ dj: this-guy-that-guy
 event: fresh-mode-2011-03-19
 name: "Live Recording (Part 2)"
 genre: dnb
+
+---
+dj: tj-aether
+event: cusp-2009
+
+---
+djs:
+  - tj-aether
+  - solegroove
+event: fractured-2010-10-27
+name: "TJ AEther vs. Solegroove"
+
+---
+dj: tj-aether
+event: fractured-2011-01-19
+
+---
+djs:
+  - tj-aether
+  - plunkie
+event: winter-meltdown-2011-01-22
+name: "TJ AEther vs. DJ Plunkie"
