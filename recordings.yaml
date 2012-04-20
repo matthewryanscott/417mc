@@ -1325,3 +1325,59 @@ dj: richie-relax
 name: "On the Fly at LV"
 genre: progressive
 date: 2009
+
+---
+dj: robe-flax
+name: "Funk To Punch Yr Junk"
+genres:
+  - funk
+  - disco
+
+---
+dj: robe-flax
+name: "Banana Mix"
+genre: experimental
+
+---
+dj: robe-flax
+name: "7\" of Soul - All 45inch Mix"
+genres:
+  - soul
+  - rb
+date: 2008
+
+---
+dj: robe-flax
+name: "Electro Schmelectro"
+genre: classic-electro
+date: 2008
+
+---
+dj: robe-flax
+name: "Battle On Funk Mountain"
+date: 2008
+
+---
+dj: robe-flax
+name: "DJ EJ's Wheels of Steel Presents"
+date: 2008
+
+---
+dj: robe-flax
+name: "Cracks The Stacks"
+genres:
+  - funk
+  - disco
+  - house
+date: 2008
+
+---
+dj: robe-flax
+name: "Breaking The Round Barrier"
+date: 2008
+
+---
+dj: robe-flax
+name: "4/06/06 Mix"
+genre: dnb
+date: 2006-04-06
