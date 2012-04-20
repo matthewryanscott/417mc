@@ -1637,3 +1637,36 @@ genre: progressive
 dj: x-kwizit
 name: "Untitled"
 genre: progressive
+
+---
+dj: zack-smith
+name: "Mental Floss Vol. 1"
+genre: techno
+date: 2000
+
+---
+dj: zack-smith
+name: "Transition"
+genre: techno
+date: 2000
+
+---
+dj: zack-smith
+name: "For Masako"
+genre: techno
+date: 2004
+
+---
+dj: zack-smith
+event: chunky-funky-2006
+genre: techno
+
+---
+dj: zack-smith
+event: full-throttle-2003
+genre: techno
+
+---
+dj: zack-smith
+name: "Afterhours Mix Session"
+genre: techno
