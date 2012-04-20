@@ -8,7 +8,7 @@
     <tbody>
     {% for city in object_list %}
       <tr>
-        <th><a href="{{ root }}city/{{ city.slug }}.html">{{ city.name }}</a></th>
+        <td><a href="{{ root }}city/{{ city.slug }}.html">{{ city.name }}</a></td>
       </tr>
     {% endfor %}
     </tbody>
@@ -27,8 +27,8 @@
     <tbody>
     {% for dj in object_list %}
       <tr>
-        <th><a href="{{ root }}dj/{{ dj.slug }}.html">{{ dj.name }}</a></th>
-        <th>
+        <td><a href="{{ root }}dj/{{ dj.slug }}.html">{{ dj.name }}</a></td>
+        <td>
           {% if dj.genres %}
             <ul>
               {% for slug in dj.genres %}
@@ -38,12 +38,12 @@
           {% else %}
             --
           {% endif %}
-        </th>
-        <th>
+        </td>
+        <td>
           {% if dj.city %}
             <a href="{{ root }}city/{{ dj.city }}.html">{{ dj.city|slugname('city') }}</a>
           {% endif %}
-        </th>
+        </td>
       </tr>
     {% endfor %}
     </tbody>
@@ -63,28 +63,28 @@
     <tbody>
     {% for event in object_list %}
       <tr>
-        <th>
+        <td>
           {% if event.date %}
             <a href="{{ root }}event/{{ event.slug }}.html">{{ event.date|dateformat }}</a>
           {% else %}
             --
           {% endif %}
-        </th>
-        <th><a href="{{ root }}event/{{ event.slug }}.html">{{ event.name }}</a></th>
-        <th>
+        </td>
+        <td><a href="{{ root }}event/{{ event.slug }}.html">{{ event.name }}</a></td>
+        <td>
           {% if event.city %}
             <a href="{{ root }}city/{{ event.city }}.html">{{ event.city|slugname('city') }}</a>
           {% else %}
             --
           {% endif %}
-        </th>
-        <th>
+        </td>
+        <td>
           {% if event.location %}
             {{ event.location }}
           {% else %}
             --
           {% endif %}
-        </th>
+        </td>
       </tr>
     {% endfor %}
     </tbody>
@@ -123,18 +123,18 @@
     <tbody>
     {% for recording in object_list %}
       <tr>
-        <th><a href="{{ root }}recording/{{ recording.slug }}.html">[Link]</a></th>
-        <th>
+        <td><a href="{{ root }}recording/{{ recording.slug }}.html">[Link]</a></td>
+        <td>
           {% if recording.date %}
             {{ recording.date|dateformat }}
           {% else %}
             --
           {% endif %}
-        </th>
-        <th>
+        </td>
+        <td>
           {{ recording.name }}
-        </th>
-        <th>
+        </td>
+        <td>
           {% if recording.djs %}
             <ul>
               {% for slug in recording.djs %}
@@ -144,15 +144,15 @@
           {% else %}
             --
           {% endif %}
-        </th>
-        <th>
+        </td>
+        <td>
           {% if recording.event %}
             <a href="{{ root }}event/{{ recording.event }}.html">{{ recording.event|slugname('event') }}</a>
           {% else %}
             --
           {% endif %}
-        </th>
-        <th>
+        </td>
+        <td>
           {% if recording.genres %}
             <ul>
               {% for slug in recording.genres %}
@@ -162,7 +162,7 @@
           {% else %}
             --
           {% endif %}
-        </th>
+        </td>
       </tr>
     {% endfor %}
     </tbody>
