@@ -321,6 +321,9 @@ links:
 
 ---
 name: "Mike DiLeo"
+city: kansas-city-mo
+links:
+  - "Facebook": https://www.facebook.com/mdileo
 
 ---
 name: "Miles Deem"
