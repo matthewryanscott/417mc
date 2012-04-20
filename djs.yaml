@@ -148,6 +148,9 @@ city: little-rock-ar
 name: "DJ eZe"
 
 ---
+name: "DJ Hayze"
+
+---
 name: "DJ Kope"
 city: springfield-mo
 
@@ -368,6 +371,9 @@ links:
 
 ---
 name: "Plunkie"
+city: springfield-mo
+links:
+  - "Facebook": https://www.facebook.com/Plunkiedub
 
 ---
 name: "Presto"

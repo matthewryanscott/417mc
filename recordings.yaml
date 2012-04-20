@@ -1229,3 +1229,16 @@ name: "Headstrong"
 ---
 dj: phillip-dixon
 name: "Nocturnal Thursday"
+
+---
+dj: plunkie
+name: "rdp1"
+genre: dubstep
+date: 2009
+
+---
+djs:
+  - plunkie
+  - dj-hayze
+event: summer-scratch-2010
+genre: dubstep
