@@ -42,6 +42,9 @@ links:
   - "Facebook": https://www.facebook.com/pages/Atreus/121283863334
 
 ---
+name: "Audio Agent"
+
+---
 name: "Bacchus"
 
 ---
@@ -296,6 +299,9 @@ city: springfield-mo
 
 ---
 name: "Malware"
+city: st-louis-mo
+links:
+  - "Facebook": https://www.facebook.com/malwaremusic
 
 ---
 name: "Matt Skywalker"

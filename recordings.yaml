@@ -1076,3 +1076,32 @@ dj: malkontent
 name: "Pale Vs. Ale"
 event: fractured-2010-10-27
 genre: psytrance
+
+---
+dj: malware
+name: "All Malware Dubs Set - LIVE On DnB Radio"
+date: 2011-09-02
+
+---
+dj: malware
+name: "Dubstep Mashup Mix 2012"
+date: 2012
+
+---
+dj: malware
+name: "Dubstep Mashup Mix 320"
+
+---
+dj: malware
+name: "Kill"
+
+---
+dj: malware
+name: "Paint The World Purple 2012 UKG Mix"
+date: 2012
+
+---
+djs:
+  - malware
+  - audio-agent
+name: "Malware Vs. Audio Agent - Full Release Blaze Down Vol 1"
