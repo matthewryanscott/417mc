@@ -246,6 +246,9 @@ city: springfield-mo
 
 ---
 name: "Gozu Lamonde"
+city: springfield-mo
+links:
+  - "Facebook": https://www.facebook.com/gozulamonde
 
 ---
 name: "Ironix"
