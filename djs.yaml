@@ -350,6 +350,9 @@ name: "Omnihil"
 
 ---
 name: "OpMode"
+city: kalamazoo-mi
+links:
+  - "Facebook": https://www.facebook.com/opmode
 
 ---
 name: "PatNice"
