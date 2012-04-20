@@ -315,6 +315,9 @@ links:
 
 ---
 name: "Mike P"
+city: san-diego-ca
+links:
+  - "Soundcloud": http://soundcloud.com/mike-p
 
 ---
 name: "Mike DiLeo"

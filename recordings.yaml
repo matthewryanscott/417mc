@@ -1123,3 +1123,23 @@ dj: merl
 event: fresh-mode-2011-02-05
 genre: dnb
 date: 2011
+
+---
+djs:
+  - mike-p
+  - lc
+name: "Mike P vs. LC"
+date: 2009-01-30
+genre: house
+
+---
+dj: mike-p
+name: "Daytrip"
+genre: trip-hop
+
+---
+dj: mike-p
+name: "Sunday Groove"
+genre: trip-hop
+date: 2009
+
