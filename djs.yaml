@@ -195,6 +195,9 @@ city: springfield-mo
 
 ---
 name: "Doohickey"
+city: fayetteville-ar
+links:
+  - "Facebook": https://www.facebook.com/djdoohickey
 
 ---
 name: "Double Helix"
@@ -207,6 +210,9 @@ name: "ence"
 
 ---
 name: "EQ"
+
+---
+name: "Evolve"
 
 ---
 name: "Fenomenon"

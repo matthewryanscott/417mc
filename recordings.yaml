@@ -691,3 +691,53 @@ dj: dj-wysh
 name: "Another Tequila Night"
 date: 2011-01-08
 genre: dark-psytrance
+
+---
+dj: doohickey
+event: ritualizer-2004
+
+---
+dj: doohickey
+name: "Full Circle"
+
+---
+djs:
+  - doohickey
+  - evolve
+name: "Doohickey vs. Evolve"
+event: fresh-mode-2011-02-26
+genre: multi-genre
+
+---
+dj: double-helix
+name: "The Pilot Episode"
+date: 2006
+
+---
+dj: double-helix
+name: "Point of Origin"
+date: 2007
+
+---
+dj: double-helix
+name: "Pulsar"
+date: 2007
+
+---
+dj: double-helix
+name: "Paradox"
+date: 2008
+
+---
+dj: double-helix
+name: "Pause For Effect"
+date: 2009
+
+---
+dj: double-helix
+name: "Mix for Leo Productions 'El Diablo 2'"
+date: 2009
+
+---
+dj: double-helix
+event: summer-scratch-2010

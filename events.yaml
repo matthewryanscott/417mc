@@ -281,6 +281,7 @@ name: "Initiate Sequence"
 
 ---
 name: "Summer Scratch"
+date: 2010
 
 ---
 name: "Cause 4 Concern"
@@ -305,3 +306,8 @@ date: 2011-04-30
 ---
 name: "Perpetual 1.2 Park Party"
 date: 2006-05-27
+
+---
+name: "Ritualizer"
+date: 2004
+location: "Hog Ridge Hollow"
