@@ -1059,3 +1059,20 @@ date: 2004
 dj: lc
 genre: house
 date: 2011-03-22
+
+---
+dj: malkontent
+name: "Nobody Parties On Monday"
+
+---
+dj: malkontent
+event: fresh-mode-2010-12-25
+genres:
+  - psytrance
+  - ebm
+
+---
+dj: malkontent
+name: "Pale Vs. Ale"
+event: fractured-2010-10-27
+genre: psytrance
