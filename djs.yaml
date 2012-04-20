@@ -460,6 +460,9 @@ name: "The Preacher"
 
 ---
 name: "This Guy That Guy"
+city: springfield-mo
+links:
+  - "Facebook": http://www.facebook.com/thisguythatguy
 
 ---
 name: "TJ AEther"
