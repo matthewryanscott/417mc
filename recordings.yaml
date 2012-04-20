@@ -1680,3 +1680,43 @@ genre: breaks
 dj: dj-eze
 name: "Po Dunk Funk Vol 2"
 genre: breaks
+
+---
+dj: jersey-john
+name: "Turn Up That Stereo"
+genre: house
+
+---
+dj: julie-winters
+name: "Julie Does Jungle"
+genre: dnb
+
+---
+dj: julie-winters
+name: "Untitled"
+genre: dnb
+
+---
+dj: omnihil
+name: "Balance"
+genres:
+  - idm
+  - live-pa
+
+---
+dj: omnihil
+name: "hypnotiqsubsoniq"
+
+---
+dj: omnihil
+name: "Nocturne"
+genres:
+  - idm
+  - live-pa
+
+---
+dj: omnihil
+name: "Pass the Beats2"
+genres:
+  - idm
+  - live-pa
