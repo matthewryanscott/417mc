@@ -43,6 +43,6 @@
 
   <p>Download the ten most recent mixes.</p>
 
-  {{ recording_table(list(reversed(recordings_by_date))[:10], root='./') }}
+  {{ recording_table(list(reversed(recordings_by_date))[:10], root=root, static=static) }}
 
 {% endblock %}
