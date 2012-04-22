@@ -20,8 +20,8 @@
     <thead>
     <tr>
       <th>Name</th>
-      <th>Genres</th>
-      <th>City</th>
+      <th class="hidden-phone">Genres</th>
+      <th class="hidden-phone">City</th>
     </tr>
     </thead>
     <tbody>
@@ -33,7 +33,7 @@
       {% endif %}
       <tr>
         <td><a href="{{ root }}dj/{{ djslug }}.html">{{ dj.name }}</a></td>
-        <td>
+        <td class="hidden-phone">
           {% if dj.genres %}
             <ul>
               {% for slug in dj.genres %}
@@ -44,7 +44,7 @@
             --
           {% endif %}
         </td>
-        <td>
+        <td class="hidden-phone">
           {% if dj.city %}
             <a href="{{ root }}city/{{ dj.city }}.html">{{ dj.city|slugname('city') }}</a>
           {% endif %}
@@ -61,8 +61,8 @@
     <tr>
       <th>Date</th>
       <th>Name</th>
-      <th>City</th>
-      <th>Location</th>
+      <th class="hidden-phone">City</th>
+      <th class="hidden-phone">Location</th>
     </tr>
     </thead>
     <tbody>
@@ -76,14 +76,14 @@
           {% endif %}
         </td>
         <td><a href="{{ root }}event/{{ event.slug }}.html">{{ event.name }}</a></td>
-        <td>
+        <td class="hidden-phone">
           {% if event.city %}
             <a href="{{ root }}city/{{ event.city }}.html">{{ event.city|slugname('city') }}</a>
           {% else %}
             --
           {% endif %}
         </td>
-        <td>
+        <td class="hidden-phone">
           {% if event.location %}
             {{ event.location }}
           {% else %}
@@ -120,9 +120,9 @@
       <th>&nbsp;</th>
       <th>Date</th>
       <th>Name</th>
-      <th>DJs</th>
-      <th>Event</th>
-      <th>Genres</th>
+      <th class="hidden-phone">DJs</th>
+      <th class="hidden-phone">Event</th>
+      <th class="hidden-phone">Genres</th>
     </tr>
     </thead>
     <tbody>
@@ -154,7 +154,7 @@
         <td>
           <a href="{{ root }}recording/{{ recording.slug }}.html">{{ recording.name }}</a>
         </td>
-        <td>
+        <td class="hidden-phone">
           {% if recording.djs %}
             <ul>
               {% for slug in recording.djs %}
@@ -165,14 +165,14 @@
             --
           {% endif %}
         </td>
-        <td>
+        <td class="hidden-phone">
           {% if recording.event %}
             <a href="{{ root }}event/{{ recording.event }}.html">{{ recording.event|slugname('event') }}</a>
           {% else %}
             --
           {% endif %}
         </td>
-        <td>
+        <td class="hidden-phone">
           {% if recording.genres %}
             <ul>
               {% for slug in recording.genres %}
