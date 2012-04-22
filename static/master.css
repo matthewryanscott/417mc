@@ -1,9 +1,5 @@
 /* @override file:///Users/gldnspud/env/fosmc/src/output/static/master.css */
 
-#content {
-	padding-top: 60px;
-}
-
 div.hero-unit {
     padding: 30px;
 }
@@ -47,4 +43,8 @@ a.brand {
     }
 }
 
-th.
+@media (min-width: 980px) {
+    #content {
+    	padding-top: 60px;
+    }
+}
