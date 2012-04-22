@@ -118,9 +118,9 @@
     <thead>
     <tr>
       <th>&nbsp;</th>
-      <th>Date</th>
+      <th class="hidden-phone">Date</th>
       <th>Name</th>
-      <th class="hidden-phone">DJs</th>
+      <th>DJs</th>
       <th class="hidden-phone">Event</th>
       <th class="hidden-phone">Genres</th>
     </tr>
@@ -144,7 +144,7 @@
             <a class="btn" href="{{ mp3url }}">Listen</a>
           </div>
         </td>
-        <td>
+        <td class="hidden-phone">
           {% if recording.date %}
             <a href="{{ root }}recording/{{ recording.slug }}.html">{{ recording.date|dateformat }}</a>
           {% else %}
@@ -154,7 +154,7 @@
         <td>
           <a href="{{ root }}recording/{{ recording.slug }}.html">{{ recording.name }}</a>
         </td>
-        <td class="hidden-phone">
+        <td>
           {% if recording.djs %}
             <ul>
               {% for slug in recording.djs %}
