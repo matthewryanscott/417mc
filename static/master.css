@@ -40,3 +40,9 @@ a.brand {
 #content dd {
     margin-bottom: 1em;;
 }
+
+@media (max-width: 480px) {
+    img.promo {
+        width: 100%;
+    }
+}
