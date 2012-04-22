@@ -76,7 +76,7 @@
         });
         // hide non-mobile, show mobile if on mobile browser.
         var uagent = navigator.userAgent.toLowerCase();
-        if (uagent.search('iphone') > -1 || uagent.search('ipod') > -1 || uagent.search('ipad') > -1) {
+        if (uagent.search('android') || uagent.search('iphone') > -1 || uagent.search('ipod') > -1 || uagent.search('ipad') > -1) {
           $('.non-mobile').addClass('hidden');
           $('.mobile').removeClass('hidden');
         }
