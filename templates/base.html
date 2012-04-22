@@ -58,8 +58,9 @@
     <script type="text/javascript" src="{{ static }}bootstrap/js/bootstrap.js"></script>
     <script type="text/javascript" src="{{ static }}bootstrap/js/bootstrap-collapse.js"></script>
     <script type="text/javascript">
-      // hide broken images
+      // document load
       $(function () {
+        // hide broken images
         $('img.hide-if-broken').each(function () {
           var $image = $(this);
         $.ajax({
@@ -74,6 +75,12 @@
             }
           });
         });
+        // hide non-mobile, show mobile if on mobile browser.
+        var uagent = navigator.userAgent.toLowerCase();
+        if (uagent.search('iphone') > -1 || uagent.search('ipod') > -1 || uagent.search('ipad') > -1) {
+          $('.non-mobile').addClass('hidden');
+          $('.mobile').removeClass('hidden');
+        }
       });
     </script>
   </body>
