@@ -32,7 +32,7 @@
     {% if obj.recordings %}
       <dt>Recordings</dt>
       <dd>
-        {{ recording_table(obj.recordings|slugobjects('recording')) }}
+        {{ recording_table(obj.recordings|slugobjects('recording')|datesorted|reversed) }}
         <div><a class="btn btn-small" href="{{ obj.slug }}.xml"><img src="{{ static }}feed-icon-14x14.png"> Subscribe</a></div>
       </dd>
     {% endif %}

@@ -10,6 +10,6 @@
 
   <h2>Events</h2>
 
-  {{ event_table(object_list) }}
+  {{ event_table(object_list|datesorted|reversed) }}
 
 {% endblock %}
