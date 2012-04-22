@@ -44,5 +44,6 @@
   <p>Download the ten most recent mixes.</p>
 
   {{ recording_table(list(reversed(recordings_by_date))[:10], root=root, static=static) }}
+  <div><a class="btn btn-small" href="index.xml"><img src="{{ static }}feed-icon-14x14.png"> Subscribe</a></div>
 
 {% endblock %}

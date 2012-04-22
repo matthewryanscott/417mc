@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+  <channel>
+    <title>{{ title }} - 417mixcollection.com</title>
+    <link>http://417mixcollection.com/</link>
+    <lastBuildDate>{{ now.strftime('%a, %d %b %Y %H:%M:%S %z') }}</lastBuildDate>
+    <generator>fosmc</generator>
+    {% for recording in object_list %}
+      {% if recording.mp3 == 'auto' %}
+        {% set mp3url = root + 'media/recording/' + recordingslug + '.mp3' %}
+      {% else %}
+        {% set mp3url = recording.mp3 %}
+      {% endif %}
+      <item>
+        <title>{{ recording.name }}</title>
+        <link>{{ root }}recording/{{ recording.slug }}.html</link>
+        {% if recording.date %}
+          <pubDate>{{ recording.date|dateformat }}</pubDate>
+        {% endif %}
+        <guid>{{ root }}recording/{{ recording.slug }}.html</guid>
+        <enclosure url="{{ mp3url }}" type="audio/mpeg" />
+      </item>
+    {% endfor %}
+  </channel>
+</rss>
