@@ -43,6 +43,13 @@ a.brand {
     }
 }
 
+@media (max-width: 767px) {
+    .container-fluid {
+        padding-left: 0px !important;
+        padding-right: 0px !important;
+    }
+}
+
 @media (min-width: 980px) {
     #content {
     	padding-top: 60px;
