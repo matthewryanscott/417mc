@@ -1,5 +1,5 @@
 {% extends "base.html" %}
-{% from "macros.html" import recording_table %}
+{% from "macros.html" import dj_table, recording_table %}
 
 {% block title %}{{ obj.name }} - Events{% endblock %}
 
@@ -30,6 +30,13 @@
     {% if obj.city %}
       <dt>City</dt>
       <dd><a href="{{ root }}city/{{ obj.city }}.html">{{ obj.city|slugname('city') }}</a></dd>
+    {% endif %}
+
+    {% if obj.djs %}
+      <dt>DJs</dt>
+      <dd>
+        {{ dj_table(obj.djs|slugobjects('dj')) }}
+      </dd>
     {% endif %}
 
     {% if obj.recordings %}
