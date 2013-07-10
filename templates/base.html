@@ -42,8 +42,13 @@
 
     <div id="content" class="container-fluid">
       <div class="row-fluid">
-        {% block body %}
-        {% endblock %}
+        <div class="span10">
+          {% block body %}
+          {% endblock %}
+        </div>
+        <div class="span2">
+          {% include "sidebar.html" %}
+        </div>
       </div>
       <hr>
       {% include "footer.html" %}
