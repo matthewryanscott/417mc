@@ -29,8 +29,6 @@ links:
 ---
 name: "Andy Szawsum"
 city: st-louis-mo
-links:
-  - "Facebook": https://www.facebook.com/AndySzawsum
 
 ---
 name: "Archon"
@@ -42,7 +40,7 @@ links:
 name: "Atreus"
 city: columbia-mo
 links:
-  - "Facebook": https://www.facebook.com/pages/Atreus/121283863334
+  - "Facebook": https://www.facebook.com/AtreusMusic
 
 ---
 name: "Audio Agent"
@@ -53,8 +51,6 @@ name: "Bacchus"
 ---
 name: "Bargo"
 city: st-louis-mo
-links:
-  - "Facebook": https://www.facebook.com/djbargo
 
 ---
 name: "Beau LeMaster"
@@ -128,7 +124,7 @@ aliases:
   - "kichen"
 city: little-rock-ar
 links:
-  - "Facebook": https://www.facebook.com/daniel.kichen
+  - "Facebook": https://www.facebook.com/IMKICHEN
 
 ---
 name: "David Fields"
@@ -179,7 +175,7 @@ aliases:
 name: "DJ Phi"
 city: springfield-mo
 links:
-  - "Facebook": http://www.facebook.com/pages/Dj-Phi/217411748301749
+  - "Facebook": https://www.facebook.com/djphi
 
 ---
 name: "DJ Reverend Rob"
@@ -202,8 +198,6 @@ links:
 ---
 name: "DJ Sum1"
 city: springfield-mo
-links:
-  - "Facebook": https://www.facebook.com/DJSum1
 
 ---
 name: "DJ Wycon"
@@ -310,8 +304,6 @@ name: "Jersey John"
 ---
 name: "Jimmy C"
 city: springfield-mo
-links:
-  - "417Vibe": http://417vibe.com/
 
 ---
 name: "Julie Winters"
@@ -416,20 +408,16 @@ links:
 ---
 name: "Pat Nice"
 city: kansas-city-mo
-links:
-  - "Facebook": https://www.facebook.com/profile.php?id=675538390
 
 ---
 name: "Phillip Dixon"
 city: little-rock-ar
-links:
-  - "Facebook": https://www.facebook.com/phillipddixon
 
 ---
 name: "Plunkie"
 city: springfield-mo
 links:
-  - "Facebook": https://www.facebook.com/Plunkiedub
+  - "Facebook": https://www.facebook.com/plunkieofficial
 
 ---
 name: "Presto"
