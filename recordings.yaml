@@ -1954,31 +1954,31 @@ mp3: /music/local_mixes/Zack_Smith-Afterhours-Mix-Session_dl.mp3
 dj: dj-eze
 name: "Po Dunk Funk Vol 1"
 genre: breaks
-mp3: http://www.417mixcollection.com/music/local_mixes/dj-eze_podunkfunk-vol1_dl.mp3
+mp3: /music/local_mixes/dj-eze_podunkfunk-vol1_dl.mp3
 
 ---
 dj: dj-eze
 name: "Po Dunk Funk Vol 2"
 genre: breaks
-mp3: http://www.417mixcollection.com/music/local_mixes/dj-eze_podunkfunk-vol2_dl.mp3
+mp3: /music/local_mixes/dj-eze_podunkfunk-vol2_dl.mp3
 
 ---
 dj: jersey-john
 name: "Turn Up That Stereo"
 genre: house
-mp3: http://www.417mixcollection.com/music/local_mixes/Jersey-John_Turn-Up-That-Stereo_dl.mp3
+mp3: /music/local_mixes/Jersey-John_Turn-Up-That-Stereo_dl.mp3
 
 ---
 dj: julie-winters
 name: "Julie Does Jungle"
 genre: dnb
-mp3: http://www.417mixcollection.com/music/local_mixes/julie-winters_julie-does-jungle_dl.mp3
+mp3: /music/local_mixes/julie-winters_julie-does-jungle_dl.mp3
 
 ---
 dj: julie-winters
 name: "Untitled"
 genre: dnb
-mp3: http://www.417mixcollection.com/music/local_mixes/julie-winters_untitled_dl.mp3
+mp3: /music/local_mixes/julie-winters_untitled_dl.mp3
 
 ---
 dj: omnihil
@@ -1986,12 +1986,12 @@ name: "Balance"
 genres:
   - idm
   - live-pa
-mp3: http://www.417mixcollection.com/music/local_mixes/omnihil_balance_dl.mp3
+mp3: /music/local_mixes/omnihil_balance_dl.mp3
 
 ---
 dj: omnihil
 name: "hypnotiqsubsoniq"
-mp3: http://www.417mixcollection.com/music/local_mixes/omnihil_hypnotiq-subsoniq_dl.mp3
+mp3: /music/local_mixes/omnihil_hypnotiq-subsoniq_dl.mp3
 
 ---
 dj: omnihil
@@ -1999,7 +1999,7 @@ name: "Nocturne"
 genres:
   - idm
   - live-pa
-mp3: http://www.417mixcollection.com/music/local_mixes/omnihil_nocturne_dl.mp3
+mp3: /music/local_mixes/omnihil_nocturne_dl.mp3
 
 ---
 dj: omnihil
@@ -2007,43 +2007,43 @@ name: "Pass the Beats2"
 genres:
   - idm
   - live-pa
-mp3: http://www.417mixcollection.com/music/local_mixes/omnihil_pass-the-beats2_dl.mp3
+mp3: /music/local_mixes/omnihil_pass-the-beats2_dl.mp3
 
 ---
 dj: nolo
 name: "Shadowchaser"
 genre: electro
-mp3: http://www.417mixcollection.com/music/local_mixes/nolo_shadowchaser_dl.mp3
+mp3: /music/local_mixes/nolo_shadowchaser_dl.mp3
 
 ---
 dj: nolo
 name: "Synergetic"
 genre: electro
-mp3: http://www.417mixcollection.com/music/local_mixes/nolo_synergetic_dl.mp3
+mp3: /music/local_mixes/nolo_synergetic_dl.mp3
 
 ---
 dj: nolo
 name: "Unlabeled"
 genre: electro
-mp3: http://www.417mixcollection.com/music/local_mixes/nolo_unlabeled_dl.mp3
+mp3: /music/local_mixes/nolo_unlabeled_dl.mp3
 
 ---
 dj: nolo
 name: "Unlock"
 genre: electro
-mp3: http://www.417mixcollection.com/music/local_mixes/nolo_unlock_dl.mp3
+mp3: /music/local_mixes/nolo_unlock_dl.mp3
 
 ---
 dj: nolo
 name: "Relishing the Gradient"
 genre: electro
-mp3: http://www.417mixcollection.com/music/local_mixes/Nolo_Relishing_the_Gradient_dl.mp3
+mp3: /music/local_mixes/Nolo_Relishing_the_Gradient_dl.mp3
 
 ---
 dj: presto
 name: "Transmissions"
 genre: tech-house
-mp3: http://www.417mixcollection.com/music/local_mixes/presto_transmissions_dl.mp3
+mp3: /music/local_mixes/presto_transmissions_dl.mp3
 
 ---
 djs:
@@ -2053,37 +2053,37 @@ name: "Shagee vs. Nolo"
 genres:
   - goa
   - electro
-mp3: http://www.417mixcollection.com/music/local_mixes/shagee-vs-nolo_dl.mp3
+mp3: /music/local_mixes/shagee-vs-nolo_dl.mp3
 
 ---
 dj: shagee
 name: "Halloween Mix"
 genre: goa
-mp3: http://www.417mixcollection.com/music/local_mixes/shagee-halloween_mix_dl.mp3
+mp3: /music/local_mixes/shagee-halloween_mix_dl.mp3
 
 ---
 dj: shagee
 name: "Chest Pains"
 genre: goa
-mp3: http://www.417mixcollection.com/music/local_mixes/shagee_chest-pains_dl.mp3
+mp3: /music/local_mixes/shagee_chest-pains_dl.mp3
 
 ---
 dj: shagee
 name: "Tribute"
 genre: goa
-mp3: http://www.417mixcollection.com/music/local_mixes/shagee_tribute_dl.mp3
+mp3: /music/local_mixes/shagee_tribute_dl.mp3
 
 ---
 dj: shagee
 name: "Triocular"
 genre: goa
-mp3: http://www.417mixcollection.com/music/local_mixes/shagee_triocular_dl.mp3
+mp3: /music/local_mixes/shagee_triocular_dl.mp3
 
 ---
 dj: shagee
 name: "Yellow Solar Human"
 genre: goa
-mp3: http://www.417mixcollection.com/music/local_mixes/shagee_yellow-solar-human_dl.mp3
+mp3: /music/local_mixes/shagee_yellow-solar-human_dl.mp3
 
 ---
 djs:
@@ -2092,96 +2092,96 @@ djs:
   - daniel-j
 name: "Tagset"
 genre: tweep
-mp3: http://www.417mixcollection.com/music/local_mixes/dj_Spiral_vs_Bacchus_vs_Daniel_J_dl.mp3
+mp3: /music/local_mixes/dj_Spiral_vs_Bacchus_vs_Daniel_J_dl.mp3
 
 ---
 dj: st-thomas
 name: "Beauty of the Beast"
 genre: dnb
-mp3: http://www.417mixcollection.com/music/local_mixes/st_thomas-beauty-of-the-beast_dl.mp3
+mp3: /music/local_mixes/st_thomas-beauty-of-the-beast_dl.mp3
 
 ---
 dj: stretch
 name: "Tactical Analysis"
 genre: hard-house
-mp3: http://www.417mixcollection.com/music/local_mixes/stretch-tactical_analysis_dl.mp3
+mp3: /music/local_mixes/stretch-tactical_analysis_dl.mp3
 
 ---
 dj: stretch
 event: i-luv-house
 genre: hard-house
-mp3: http://www.417mixcollection.com/music/local_mixes/stretch-live_at_i-luv-house_dl.mp3
+mp3: /music/local_mixes/stretch-live_at_i-luv-house_dl.mp3
 
 ---
 dj: the-preacher
 name: "Vol. 1"
 genre: breaks
-mp3: http://www.417mixcollection.com/music/local_mixes/the-preacher_vol1_dl.mp3
+mp3: /music/local_mixes/the-preacher_vol1_dl.mp3
 
 ---
 event: the-last-flight-2002-07-27
 # TODO: djs
 # TODO: genres
-mp3: http://www.417mixcollection.com/music/shows/afterhours_final_flight_2002_dl.mp3
+mp3: /music/shows/afterhours_final_flight_2002_dl.mp3
 
 ---
 event: frost-2002-12-07
 # TODO: djs
 # TODO: genres
-mp3: http://www.417mixcollection.com/music/shows/frost_12-7-2002_dl.mp3
+mp3: /music/shows/frost_12-7-2002_dl.mp3
 
 ---
 event: purple-2003-03-22
 # TODO: djs
 # TODO: genres
-mp3: http://www.417mixcollection.com/music/shows/purple_3-22-03_dl.mp3
+mp3: /music/shows/purple_3-22-03_dl.mp3
 
 ---
 event: defender-2005-05-31
 # TODO: djs
 # TODO: genres
-mp3: http://www.417mixcollection.com/music/shows/defender_5.31.05_dl.mp3
+mp3: /music/shows/defender_5.31.05_dl.mp3
 
 ---
 event: afterburn-2008-07-04
 # TODO: djs
 # TODO: genres
-mp3: http://www.417mixcollection.com/music/shows/afterburn_july_4_08_house_party_dl.mp3
+mp3: /music/shows/afterburn_july_4_08_house_party_dl.mp3
 
 ---
 event: gut-check-2009-03-07
 # TODO: djs
 # TODO: genres
-mp3: http://www.417mixcollection.com/music/shows/gut_check_3-7-09_dl.mp3
+mp3: /music/shows/gut_check_3-7-09_dl.mp3
 
 ---
 event: intelements-2009-03-21
 # TODO: djs
 # TODO: genres
-mp3: http://www.417mixcollection.com/music/shows/intelements_3-21-2009_dl.mp3
+mp3: /music/shows/intelements_3-21-2009_dl.mp3
 
 ---
 event: cusp-2009-06-21
 # TODO: djs
 # TODO: genres
-mp3: http://www.417mixcollection.com/music/shows/cusp_128_dl.mp3
+mp3: /music/shows/cusp_128_dl.mp3
 
 ---
 event: initiate-sequence-2009-09-12
 # TODO: djs
 # TODO: genres
-mp3: http://www.417mixcollection.com/music/shows/initiate_sequence_9-12-2009_dl.mp3
+mp3: /music/shows/initiate_sequence_9-12-2009_dl.mp3
 
 ---
 event: summer-scratch-2010-07-24
 # TODO: djs
 # TODO: genres
-mp3: http://www.417mixcollection.com/music/shows/summerscratch/2010-07-24_SummerScratch.mp3
+mp3: /music/shows/summerscratch/2010-07-24_SummerScratch.mp3
 
 ---
 event: cause-4-concern
 dj: presto
-mp3: http://www.417mixcollection.com/music/local_mixes/c4c_presto_dl.mp3
+mp3: /music/local_mixes/c4c_presto_dl.mp3
 
 ---
 event: cause-4-concern
@@ -2189,19 +2189,19 @@ djs:
   - shagee
   - zack-smith
 name: "Shagee vs. Zack Smith"
-mp3: http://www.417mixcollection.com/music/local_mixes/c4c_shagee_vs_zack_smith_dl.mp3
+mp3: /music/local_mixes/c4c_shagee_vs_zack_smith_dl.mp3
 
 ---
 event: cause-4-concern
 dj: stuart-perkins
 name: "Live recording (Part 1)"
-mp3: http://www.417mixcollection.com/music/local_mixes/c4c_stu-pt1_dl.mp3
+mp3: /music/local_mixes/c4c_stu-pt1_dl.mp3
 
 ---
 event: cause-4-concern
 dj: stuart-perkins
 name: "Live recording (Part 2)"
-mp3: http://www.417mixcollection.com/music/local_mixes/c4c_stu-pt2_dl.mp3
+mp3: /music/local_mixes/c4c_stu-pt2_dl.mp3
 
 ---
 name: "Drum & Bass House Party"
@@ -2209,13 +2209,13 @@ djs:
   - fenomenon
   - scot free
   - st thomas
-mp3: http://www.417mixcollection.com/music/local_mixes/scot-free-fenomenon-and-st-thomas_jam-at-tom-and-ethans_dl.mp3
+mp3: /music/local_mixes/scot-free-fenomenon-and-st-thomas_jam-at-tom-and-ethans_dl.mp3
 
 ---
 event: lc-moveout-party
 # TODO: djs
 # TODO: genres
-mp3: http://www.417mixcollection.com/music/local_mixes/lc_move-out_party_dl.mp3
+mp3: /music/local_mixes/lc_move-out_party_dl.mp3
 
 ---
 event: rave-of-the-living-dead
@@ -2225,19 +2225,19 @@ mp3: /music/shows/128k/empress_live-rave-of-the-living-dead-10-30-10_128k.mp3
 ---
 event: fresh-mode-2010-11-20
 name: "Multi-DJ Tag Set"
-mp3: http://www.417mixcollection.com/music/shows/fresh_mode/FM2010-11-20_DJSum1_MultiDJTag/FM-11-20-10_Multi-DJ-Tag_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-11-20_DJSum1_MultiDJTag/FM-11-20-10_Multi-DJ-Tag_dl.mp3
 # TODO: djs
 # TODO: genres
 
 ---
 event: fresh-mode-2010-12-04
 dj: hypertronic
-mp3: http://www.417mixcollection.com/music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04-10_Hypertronic_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04-10_Hypertronic_dl.mp3
 
 ---
 event: fresh-mode-2010-12-11
 dj: miles-deem
-mp3: http://www.417mixcollection.com/music/shows/fresh_mode/FM2010-12-11_DJWycon/FM-12-11-10_Miles-Deem_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-11_DJWycon/FM-12-11-10_Miles-Deem_dl.mp3
 
 ---
 event: fresh-mode-2010-12-25
@@ -2245,7 +2245,7 @@ djs:
   - micky-mick
   - this-guy-that-guy
 name: "Micky Mick vs. This Guy That Guy"
-mp3: http://www.417mixcollection.com/music/shows/fresh_mode/FM2010-12-25_JimmyC_Malkontent_Mick-Vs-TGTG/FM-12-25-10_Mick-Vs-TGTG_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-25_JimmyC_Malkontent_Mick-Vs-TGTG/FM-12-25-10_Mick-Vs-TGTG_dl.mp3
 
 ---
 event: fresh-mode-2010-12-31
@@ -2266,7 +2266,7 @@ mp3: /music/shows/fresh_mode/FM2011-01-29_JimmyC_LC_Mike_DiLeo/FM-01-29-11_Jimmy
 ---
 event: fresh-mode-2011-02-05
 dj: dj-phi
-mp3: http://www.417mixcollection.com/music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/FM-02-05-11_DJ-Phi_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/FM-02-05-11_DJ-Phi_dl.mp3
 
 ---
 event: fresh-mode-2011-07-23
@@ -2395,23 +2395,23 @@ mp3: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_03_DJ
 ---
 event: sextacy-ball-2010-09-11
 dj: longcat
-mp3: http://www.417mixcollection.com/music/shows/sextacy_ball_09-11-10/01_Longcat-LIVEatSextacyBall_9-11-10.mp3
+mp3: /music/shows/sextacy_ball_09-11-10/01_Longcat-LIVEatSextacyBall_9-11-10.mp3
 
 ---
 event: sextacy-ball-2010-09-11
 dj: psycho-bitch
-mp3: http://www.417mixcollection.com/music/shows/sextacy_ball_09-11-10/04_PsychoBitch-LIVEatSextacyBall_9-11-10.mp3
+mp3: /music/shows/sextacy_ball_09-11-10/04_PsychoBitch-LIVEatSextacyBall_9-11-10.mp3
 
 ---
 event: sextacy-ball-2010-09-11
 dj: forest-green
-mp3: http://www.417mixcollection.com/music/shows/sextacy_ball_09-11-10/05_ForestGreen-LIVEatSextacyBall_9-11-10.mp3
+mp3: /music/shows/sextacy_ball_09-11-10/05_ForestGreen-LIVEatSextacyBall_9-11-10.mp3
 
 ---
 event: sextacy-ball-2010-09-11
 # ideally would say "kichen" instead but cannot yet link to dj alias here
 dj: daniel-j
-mp3: http://www.417mixcollection.com/music/shows/sextacy_ball_09-11-10/03_Kichen-LIVEatSextacyBall_9-11-10.mp3
+mp3: /music/shows/sextacy_ball_09-11-10/03_Kichen-LIVEatSextacyBall_9-11-10.mp3
 
 ---
 event: winter-meltdown-2011-01-22
