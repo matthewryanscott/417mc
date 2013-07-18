@@ -32,25 +32,25 @@
 dj: agent-traxxident
 name: "You Were There Once"
 genre: hip-hop
-mp3: http://417mixcollection.com/music/local_mixes/agent_traxxident-you_were-there-once_dl.mp3
+mp3: /music/local_mixes/agent_traxxident-you_were-there-once_dl.mp3
 
 ---
 dj: agent-traxxident
 event: fresh-mode-2010-10-02
 genre: mashup
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-10-02_JimmyC-AgentTraxxident/FM-10-02-10_Agent-Traxxident_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-02_JimmyC-AgentTraxxident/FM-10-02-10_Agent-Traxxident_dl.mp3
 
 ---
 dj: andrew-boie
 name: "Bride Of FWD Fridays"
 genre: techno
-mp3: http://417mixcollection.com/music/non_local_mixes/andrew_boie-bride_of_fwd_fridays_dl.mp3
+mp3: /music/non_local_mixes/andrew_boie-bride_of_fwd_fridays_dl.mp3
 
 ---
 dj: andrew-boie
 name: "Dead By Dawn"
 genre: techno
-mp3: http://417mixcollection.com/music/non_local_mixes/andrew_boie-dead_by_dawn_dl.mp3
+mp3: /music/non_local_mixes/andrew_boie-dead_by_dawn_dl.mp3
 
 ---
 dj: andrew-boie
@@ -58,72 +58,72 @@ name: "Your Place or Mine"
 genres:
   - deep-house
   - techno
-mp3: http://417mixcollection.com/music/non_local_mixes/andrew_boie_YourPlaceOrMine_dl.mp3
+mp3: /music/non_local_mixes/andrew_boie_YourPlaceOrMine_dl.mp3
 
 ---
 dj: andy-szawsum
 name: "Back 2 Basics"
-mp3: http://417mixcollection.com/music/non_local_mixes/andy-szawsum-back-2-basics_dl.mp3
+mp3: /music/non_local_mixes/andy-szawsum-back-2-basics_dl.mp3
 
 ---
 dj: andy-szawsum
 name: "Chicken Soup for the Raver Soul"
-mp3: http://417mixcollection.com/music/non_local_mixes/andy-szawsum-chicken-soup-for-the-raver-soul_dl.mp3
+mp3: /music/non_local_mixes/andy-szawsum-chicken-soup-for-the-raver-soul_dl.mp3
 
 ---
 dj: andy-szawsum
 name: "Cobalt"
-mp3: http://417mixcollection.com/music/non_local_mixes/andy-szawsum-cobalt_dl.mp3
+mp3: /music/non_local_mixes/andy-szawsum-cobalt_dl.mp3
 
 ---
 dj: andy-szawsum
 name: "Do Not Play"
-mp3: http://417mixcollection.com/music/non_local_mixes/andy-szawsum-do-not-play_dl.mp3
+mp3: /music/non_local_mixes/andy-szawsum-do-not-play_dl.mp3
 
 ---
 dj: andy-szawsum
 name: "Martini Breakfast"
-mp3: http://417mixcollection.com/music/non_local_mixes/andy-szawsum-martini-breakfast_dl.mp3
+mp3: /music/non_local_mixes/andy-szawsum-martini-breakfast_dl.mp3
 
 ---
 dj: archon
 name: "Banshee"
 date: 2012
 genre: electrohouse
-mp3: http://417mixcollection.com/music/non_local_mixes/archon_banshee_dl.mp3
+mp3: /music/non_local_mixes/archon_banshee_dl.mp3
 
 ---
 dj: archon
 name: "Grinder"
 date: 2011
 genre: electrohouse
-mp3: http://417mixcollection.com/music/non_local_mixes/archon_grinder_dl.mp3
+mp3: /music/non_local_mixes/archon_grinder_dl.mp3
 
 ---
 dj: atreus
 event: winter-meltdown-2011-01-22
 date: 2011-01-22
 genre: dubstep
-mp3: http://417mixcollection.com/music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_03_Atreus_dl.mp3
+mp3: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_03_Atreus_dl.mp3
 
 ---
 dj: atreus
 name: "Dusted Groove (Promo Mix)"
 date: 2011
 genre: dubstep
-mp3: http://417mixcollection.com/music/non_local_mixes/Atreus_DustedGroove-DJPromoMix_dl.mp3
+mp3: /music/non_local_mixes/Atreus_DustedGroove-DJPromoMix_dl.mp3
 
 ---
 dj: bacchus
 name: "Gerfuntencluken"
 genre: progressive
-mp3: http://417mixcollection.com/music/local_mixes/bacchus_gerfuntencluken_dl.mp3
+mp3: /music/local_mixes/bacchus_gerfuntencluken_dl.mp3
 
 ---
 dj: bacchus
 name: "Message From The Caldera"
 genre: progressive
-mp3: http://417mixcollection.com/music/local_mixes/bacchus_message_from_the_caldera_dl.mp3
+mp3: /music/local_mixes/bacchus_message_from_the_caldera_dl.mp3
 
 ---
 dj: bacchus
@@ -131,88 +131,88 @@ name: "Shirtcockin USA"
 genres:
   - funk
   - house
-mp3: http://417mixcollection.com/music/local_mixes/bacchus_shirtcockin_usa_dl.mp3
+mp3: /music/local_mixes/bacchus_shirtcockin_usa_dl.mp3
 
 ---
 dj: ben-armstrong
 date: 2005-06-08
 genre: house
-mp3: http://417mixcollection.com/music/non_local_mixes/ben-armstrong_live_6805_dl.mp3
+mp3: /music/non_local_mixes/ben-armstrong_live_6805_dl.mp3
 
 ---
 dj: ben-armstrong
 date: 2009-10
 genre: house
-mp3: http://417mixcollection.com/music/non_local_mixes/ben-armstrong_oct09_pt1_dl.mp3
+mp3: /music/non_local_mixes/ben-armstrong_oct09_pt1_dl.mp3
 
 ---
 dj: ben-armstrong
 name: "Aerosault Mix"
 date: 2010
 genre: house
-mp3: http://417mixcollection.com/music/non_local_mixes/Ben_Armstrong_Jan_2010_Mix_dl.mp3
+mp3: /music/non_local_mixes/Ben_Armstrong_Jan_2010_Mix_dl.mp3
 
 ---
 dj: bizar
 name: "May Promo Mix"
 date: 2008-05
 genre: mashup
-mp3: http://417mixcollection.com/music/non_local_mixes/Bizar-May_2008_Promo_Mix_dl.mp3
+mp3: /music/non_local_mixes/Bizar-May_2008_Promo_Mix_dl.mp3
 
 ---
 dj: bizar
 name: "Heavy Brotation"
 date: 2009
 genre: mashup
-mp3: http://417mixcollection.com/music/non_local_mixes/Bizar_Heavy_Brotation_Vol1_dl.mp3
+mp3: /music/non_local_mixes/Bizar_Heavy_Brotation_Vol1_dl.mp3
 
 ---
 dj: bizar
 event: fresh-mode-2010-10-09
 genre: mashup
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/FM-10-09-10_Bizar_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/FM-10-09-10_Bizar_dl.mp3
 
 ---
 dj: bizar
 name: "Arkansacolypse"
 date: 2011
-mp3: http://417mixcollection.com/music/non_local_mixes/Bizar-Arkansacolypse-January2011PromoMix.mp3
+mp3: /music/non_local_mixes/Bizar-Arkansacolypse-January2011PromoMix.mp3
 
 ---
 dj: bizar
 event: urban-beats-2011-03-04
-mp3: http://417mixcollection.com/music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_01_Bizar_dl.mp3
+mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_01_Bizar_dl.mp3
 
 ---
 djs:
   - bizar
   - eq
 event: fresh-mode-2012-03-17
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2012-03-17_Bizar_EQ/FM_3-17-2012_Bizar_EQ_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-03-17_Bizar_EQ/FM_3-17-2012_Bizar_EQ_dl.mp3
 
 ---
 dj: brian-best
 name: "Daydreaming 1"
 genre: breaks
-mp3: http://417mixcollection.com/music/local_mixes/brian-best_daydreaming1_dl.mp3
+mp3: /music/local_mixes/brian-best_daydreaming1_dl.mp3
 
 ---
 dj: brian-best
 name: "Daydreaming 2"
 genre: breaks
-mp3: http://417mixcollection.com/music/local_mixes/brian-best_daydreaming2_dl.mp3
+mp3: /music/local_mixes/brian-best_daydreaming2_dl.mp3
 
 ---
 dj: brian-best
 name: "Heaven Earth"
 genre: breaks
-mp3: http://417mixcollection.com/music/local_mixes/brian-best_heaven_earth_dl.mp3
+mp3: /music/local_mixes/brian-best_heaven_earth_dl.mp3
 
 ---
 dj: brian-best
 name: "Heelflip"
 genre: breaks
-mp3: http://417mixcollection.com/music/local_mixes/brian-best_heelflip_dl.mp3
+mp3: /music/local_mixes/brian-best_heelflip_dl.mp3
 
 ---
 djs:
@@ -224,7 +224,7 @@ genres:
   - drumstep
   - dnb
 date: 2012
-mp3: http://417mixcollection.com/music/local_mixes/br1nk-n-mattskywalker_KrylonTechnicolorTypeA2_dl.mp3
+mp3: /music/local_mixes/br1nk-n-mattskywalker_KrylonTechnicolorTypeA2_dl.mp3
 
 ---
 djs:
@@ -236,7 +236,7 @@ genres:
   - dance
   - dubstep
 date: 2012
-mp3: http://417mixcollection.com/music/local_mixes/br1nk-n-mattskywalker_MidTempoNStuff_dl.mp3
+mp3: /music/local_mixes/br1nk-n-mattskywalker_MidTempoNStuff_dl.mp3
 
 ---
 djs:
@@ -248,7 +248,7 @@ genres:
   - hip-hop
   - dnb
 date: 2012
-mp3: http://417mixcollection.com/music/local_mixes/br1nk-n-mattskywalker_ProjectBrixer_dl.mp3
+mp3: /music/local_mixes/br1nk-n-mattskywalker_ProjectBrixer_dl.mp3
 
 ---
 djs:
@@ -260,76 +260,76 @@ genres:
   - drumstep
   - dnb
 date: 2012
-mp3: http://417mixcollection.com/music/local_mixes/br1nk-n-mattskywalker_TableFlippin_dl.mp3
+mp3: /music/local_mixes/br1nk-n-mattskywalker_TableFlippin_dl.mp3
 
 ---
 dj: bully
 name: "Drumcode 666"
 genre: techno
-mp3: http://417mixcollection.com/music/non_local_mixes/Bully-Drumcode666_dl.mp3
+mp3: /music/non_local_mixes/Bully-Drumcode666_dl.mp3
 
 ---
 dj: c-martin
 name: "2 Get Down"
 genre: house
 date: 2006
-mp3: http://417mixcollection.com/music/local_mixes/C-Martin_2-Get-Down_dl.mp3
+mp3: /music/local_mixes/C-Martin_2-Get-Down_dl.mp3
 
 ---
 dj: c-martin
 name: "Not From Chicago"
 genre: house
 date: 2006
-mp3: http://417mixcollection.com/music/local_mixes/C-Martin_Not-From-Chicago_dl.mp3
+mp3: /music/local_mixes/C-Martin_Not-From-Chicago_dl.mp3
 
 ---
 dj: c-martin
 name: "Jewel Demo"
 genre: house
 date: 2008
-mp3: http://417mixcollection.com/music/local_mixes/C-Martin_Jewel-Demo_dl.mp3
+mp3: /music/local_mixes/C-Martin_Jewel-Demo_dl.mp3
 
 ---
 dj: c-martin
 name: "Live recording (part 1)"
 event: fresh-mode-2011-04-02
 genre: house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM-04-02-11_C_Martin_Set1_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM-04-02-11_C_Martin_Set1_dl.mp3
 
 ---
 dj: c-martin
 name: "Live recording (part 2)"
 event: fresh-mode-2011-04-02
 genre: house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM-04-02-11_C_Martin_Set2_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM-04-02-11_C_Martin_Set2_dl.mp3
 
 ---
 dj: chris-adamantium
 name: "Tales From The Creep"
 genre: dnb
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/chris_adamantium-tales_from_the_creep_dl.mp3
+mp3: /music/local_mixes/chris_adamantium-tales_from_the_creep_dl.mp3
 
 ---
 dj: chris-adamantium
 name: "Trendy"
 genre: dnb
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/Chris_Adamantium_Trendy_dl.mp3
+mp3: /music/local_mixes/Chris_Adamantium_Trendy_dl.mp3
 
 ---
 dj: chris-adamantium
 name: "Vibin on Ya"
 genre: progressive
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/Chris-Adamantium_Vibin_on_Ya_dl.mp3
+mp3: /music/local_mixes/Chris-Adamantium_Vibin_on_Ya_dl.mp3
 
 ---
 dj: chris-adamantium
 name: "Transitions"
 genre: dnb
 date: 2011
-mp3: http://417mixcollection.com/music/local_mixes/Chris_Adamantium_Transitions_dl.mp3
+mp3: /music/local_mixes/Chris_Adamantium_Transitions_dl.mp3
 
 ---
 dj: chris-close
@@ -337,55 +337,55 @@ event: fresh-mode-2010-09-25
 genres:
   - tech-house
   - electro
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-09-25_JimmyC-ChrisClose/FM-09-25-10_chris-close_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-09-25_JimmyC-ChrisClose/FM-09-25-10_chris-close_dl.mp3
 
 ---
 dj: cidlix
 event: fresh-mode-2010-08-07
 genre: dubstep
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-08-07_CidLix/FM-08-07-10_CidLix_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-08-07_CidLix/FM-08-07-10_CidLix_dl.mp3
 
 ---
 dj: cidlix
 event: urban-beats-2011-03-04
 genre: dubstep
-mp3: http://417mixcollection.com/music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_03_CidLix_dl.mp3
+mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_03_CidLix_dl.mp3
 
 ---
 dj: colby-price
 name: "Up Yours"
 genre: electro-house
 date: 2008
-mp3: http://417mixcollection.com/music/local_mixes/dj-colby-dioddityz_upyours_dl.mp3
+mp3: /music/local_mixes/dj-colby-dioddityz_upyours_dl.mp3
 
 ---
 dj: colby-price
 name: "Summer 2010 DubStep Mixtape"
 genre: dubstep
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/dj-colby-price_summer_2010_dubstep_mixtape_dl.mp3
+mp3: /music/local_mixes/dj-colby-price_summer_2010_dubstep_mixtape_dl.mp3
 
 ---
 dj: colby-price
 event: fresh-mode-2010-09-18
 genre: dubstep
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_Colby-Price_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_Colby-Price_dl.mp3
 
 ---
 dj: colby-price
 event: fresh-mode-2011-01-15
 genre: dubstep
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/FM-01-15-11_Colby-Price_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/FM-01-15-11_Colby-Price_dl.mp3
 
 ---
 dj: colby-price
 event: sextacy-ball-2010-09-11
-mp3: http://417mixcollection.com/music/shows/sextacy_ball_09-11-10/02_ColbyPrice-LIVEatSextacyBall_9-11-10.mp3
+mp3: /music/shows/sextacy_ball_09-11-10/02_ColbyPrice-LIVEatSextacyBall_9-11-10.mp3
 
 ---
 dj: colby-price
 event: fresh-mode-2012-03-24
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/FM-03-24-2012_03_colbyprice_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/FM-03-24-2012_03_colbyprice_dl.mp3
 
 ---
 djs:
@@ -394,7 +394,7 @@ djs:
 name: "Control C vs Ben Armstrong"
 genre: house
 date: 2010-07
-mp3: http://417mixcollection.com/music/non_local_mixes/Control-C_vs-Ben-Armstrong_July_2010_dl.mp3
+mp3: /music/non_local_mixes/Control-C_vs-Ben-Armstrong_July_2010_dl.mp3
 
 ---
 djs:
@@ -403,23 +403,23 @@ djs:
 name: "Control C vs Ben Armstrong"
 genre: house
 date: 2010-08
-mp3: http://417mixcollection.com/music/non_local_mixes/Control-C_vs-Ben-Armstrong_aug_2010_dl.mp3
+mp3: /music/non_local_mixes/Control-C_vs-Ben-Armstrong_aug_2010_dl.mp3
 
 ---
 dj: dan-catron
 name: "KKS vol 3"
-mp3: http://417mixcollection.com/music/non_local_mixes/dan-catron_kks-vol3_dl.mp3
+mp3: /music/non_local_mixes/dan-catron_kks-vol3_dl.mp3
 
 ---
 dj: daniel-j
 date: 2004-05-06
-mp3: http://417mixcollection.com/music/local_mixes/daniel-j-5.6.04_dl.mp3
+mp3: /music/local_mixes/daniel-j-5.6.04_dl.mp3
 
 ---
 dj: daniel-j
 name: "Down to Earth Again"
 date: 2004
-mp3: http://417mixcollection.com/music/local_mixes/daniel-j-down-to-earth-again_dl.mp3
+mp3: /music/local_mixes/daniel-j-down-to-earth-again_dl.mp3
 
 ---
 djs:
@@ -427,55 +427,55 @@ djs:
   - dj-spiral
 name: "Daniel J vs. DJ Spiral"
 date: 2004
-mp3: http://417mixcollection.com/music/local_mixes/daniel-j_vs_dj-spiral-04-04-04_dl.mp3
+mp3: /music/local_mixes/daniel-j_vs_dj-spiral-04-04-04_dl.mp3
 
 ---
 dj: daniel-j
 date: 2008-01
-mp3: http://417mixcollection.com/music/local_mixes/deviant_sound_system-jan08_dl.mp3
+mp3: /music/local_mixes/deviant_sound_system-jan08_dl.mp3
 
 ---
 dj: daniel-j
 name: "Mixtape Vol. 2"
-mp3: http://417mixcollection.com/music/local_mixes/deviantsound_mixtape-vol2_dl.mp3
+mp3: /music/local_mixes/deviantsound_mixtape-vol2_dl.mp3
 
 ---
 dj: daniel-j
 name: "April Mix"
 date: 2008-04
-mp3: http://417mixcollection.com/music/local_mixes/deviant-sound-system-april-mix2008_dl.mp3
+mp3: /music/local_mixes/deviant-sound-system-april-mix2008_dl.mp3
 
 ---
 dj: daniel-j
 name: "Minimal Mix"
-mp3: http://417mixcollection.com/music/local_mixes/deviantsoundsystem_minimal_dl.mp3
+mp3: /music/local_mixes/deviantsoundsystem_minimal_dl.mp3
 
 ---
 dj: daniel-j
 name: "Podcast 004"
-mp3: http://417mixcollection.com/music/local_mixes/dietheory_podcast004_dl.mp3
+mp3: /music/local_mixes/dietheory_podcast004_dl.mp3
 
 ---
 dj: daniel-j
 name: "Podcast 005"
-mp3: http://417mixcollection.com/music/local_mixes/dietheory_podcast005_dl.mp3
+mp3: /music/local_mixes/dietheory_podcast005_dl.mp3
 
 ---
 dj: daniel-j
 name: "Podcast 006"
-mp3: http://417mixcollection.com/music/local_mixes/dietheory_podcast006_dl.mp3
+mp3: /music/local_mixes/dietheory_podcast006_dl.mp3
 
 ---
 dj: daniel-j
 name: "Year End Session"
 date: 2008
-mp3: http://417mixcollection.com/music/local_mixes/kichen_year-end-session2008_dl.mp3
+mp3: /music/local_mixes/kichen_year-end-session2008_dl.mp3
 
 ---
 dj: digital-love
 event: urban-beats-2011-03-04
 genre: dubstep
-mp3: http://417mixcollection.com/music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_06_DigitalLove_dl.mp3
+mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_06_DigitalLove_dl.mp3
 
 ---
 djs:
@@ -484,12 +484,12 @@ djs:
 name: "DigiStar vs Bargo"
 event: fresh-mode-2011-02-19
 genre: techno
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/FM-02-19-11_Digistar-Bargo_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/FM-02-19-11_Digistar-Bargo_dl.mp3
 
 ---
 dj: dj-balance
 name: "Damage Control"
-mp3: http://417mixcollection.com/music/non_local_mixes/dj-balance_damage-control_dl.mp3
+mp3: /music/non_local_mixes/dj-balance_damage-control_dl.mp3
 
 ---
 dj: dj-kope
@@ -497,191 +497,191 @@ event: sextacy-ball-2010-09-11
 genres:
   - electro
   - tech-house
-mp3: http://417mixcollection.com/music/shows/sextacy_ball_09-11-10/06_DJKope-LIVEatSextacyBall_9-11-10.mp3
+mp3: /music/shows/sextacy_ball_09-11-10/06_DJKope-LIVEatSextacyBall_9-11-10.mp3
 
 ---
 dj: dj-lx
 name: "January 7th Mix 1"
 genre: dubstep
-mp3: http://417mixcollection.com/music/local_mixes/DJLX_Jan7-2011mix.mp3
+mp3: /music/local_mixes/DJLX_Jan7-2011mix.mp3
 
 ---
 dj: dj-lx
 name: "January 7th Mix 2"
 genre: dubstep
-mp3: http://417mixcollection.com/music/local_mixes/DJLX_DubMix-2.mp3
+mp3: /music/local_mixes/DJLX_DubMix-2.mp3
 
 ---
 dj: dj-phi
 name: "Maximized!"
 genre: dnb
 date: 2011
-mp3: http://417mixcollection.com/music/local_mixes/dj_Phi_Maximized!_dl.mp3
+mp3: /music/local_mixes/dj_Phi_Maximized!_dl.mp3
 
 ---
 dj: dj-phi
 name: "Mini Mix"
 genre: dnb
 date: 2011
-mp3: http://417mixcollection.com/music/local_mixes/dj_Phi_Mini_Mix_dl.mp3
+mp3: /music/local_mixes/dj_Phi_Mini_Mix_dl.mp3
 
 ---
 dj: dj-phi
 name: "Sigil Sounds"
 genre: dnb
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/dj_Phi_Sigil_Sounds_dl.mp3
+mp3: /music/local_mixes/dj_Phi_Sigil_Sounds_dl.mp3
 
 ---
 dj: dj-phi
 name: "Hail Satan"
 genre: dnb
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/dj_Phi_Hail_Satan_dl.mp3
+mp3: /music/local_mixes/dj_Phi_Hail_Satan_dl.mp3
 
 ---
 dj: dj-phi
 name: "Modulations"
 genre: dnb
 date: 2009
-mp3: http://417mixcollection.com/music/local_mixes/dj_Phi_Modulations_dl.mp3
+mp3: /music/local_mixes/dj_Phi_Modulations_dl.mp3
 
 ---
 dj: dj-phi
 name: "Cruisecontrol"
 genre: dnb
 date: 2008
-mp3: http://417mixcollection.com/music/local_mixes/dj_Phi_Cruise_Control_dl.mp3
+mp3: /music/local_mixes/dj_Phi_Cruise_Control_dl.mp3
 
 ---
 dj: dj-phi
 name: "Ebb & Flow"
 genre: dnb
 date: 2007
-mp3: http://417mixcollection.com/music/local_mixes/dj_Phi_Ebb_Flow_dl.mp3
+mp3: /music/local_mixes/dj_Phi_Ebb_Flow_dl.mp3
 
 ---
 dj: dj-phi
 name: "Live recording 1"
 event: fresh-mode-2010-09-18
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_DJ-Phi-1_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_DJ-Phi-1_dl.mp3
 
 ---
 dj: dj-phi
 name: "Live recording 2"
 event: fresh-mode-2010-09-18
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_DJ-Phi-2_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_DJ-Phi-2_dl.mp3
 
 ---
 dj: dj-phi
 event: fresh-mode-2010-12-04
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04-10_DJ-Phi_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04-10_DJ-Phi_dl.mp3
 
 ---
 dj: dj-phi
 event: fresh-mode-2011-01-22
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-11_DJ-Phi_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-11_DJ-Phi_dl.mp3
 
 ---
 dj: dj-phi
 event: fresh-mode-2011-02-19
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/FM-02-19-11_DJ-Phi_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/FM-02-19-11_DJ-Phi_dl.mp3
 
 ---
 dj: dj-reverend-rob
 name: "Mix 2"
-mp3: http://417mixcollection.com/music/non_local_mixes/DJReverendRob-mix2_dl.mp3
+mp3: /music/non_local_mixes/DJReverendRob-mix2_dl.mp3
 
 ---
 dj: dj-reverend-rob
 name: "GS2-040707"
-mp3: http://417mixcollection.com/music/non_local_mixes/DJRevRob-GS2-040707_dl.mp3
+mp3: /music/non_local_mixes/DJRevRob-GS2-040707_dl.mp3
 
 ---
 dj: dj-sick-nick
 event: norman-music-festival-4-2011-04-30
 genre: latin-tech-house
-mp3: http://417mixcollection.com/music/non_local_mixes/DJ_Sick_Nick-Norman_Music_Festival_4-April-30-2011_dl.mp3
+mp3: /music/non_local_mixes/DJ_Sick_Nick-Norman_Music_Festival_4-April-30-2011_dl.mp3
 
 ---
 dj: dj-spiral
 name: "Inward"
 date: 2002
-mp3: http://417mixcollection.com/music/local_mixes/dj-spiral_inward_dl.mp3
+mp3: /music/local_mixes/dj-spiral_inward_dl.mp3
 
 ---
 dj: dj-spiral
 name: "Absolute Opposites"
 date: 2003
-mp3: http://417mixcollection.com/music/local_mixes/dj-spiral_absolute_opposites_dl.mp3
+mp3: /music/local_mixes/dj-spiral_absolute_opposites_dl.mp3
 
 ---
 dj: dj-spiral
 name: "Symmetry"
 date: 2003
-mp3: http://417mixcollection.com/music/local_mixes/dj-spiral_symmetry_dl.mp3
+mp3: /music/local_mixes/dj-spiral_symmetry_dl.mp3
 
 ---
 dj: dj-spiral
 name: "Order of Difference"
 date: 2004
-mp3: http://417mixcollection.com/music/local_mixes/dj-spiral_order_of_difference_dl.mp3
+mp3: /music/local_mixes/dj-spiral_order_of_difference_dl.mp3
 
 ---
 dj: dj-spiral
 event: perpetual-12-park-party-2006-05-27
-mp3: http://417mixcollection.com/music/local_mixes/dj-spiral_live-5-27-06_dl.mp3
+mp3: /music/local_mixes/dj-spiral_live-5-27-06_dl.mp3
 
 ---
 dj: dj-spiral
 name: "Wearing Masks"
 date: 2006-10-31
-mp3: http://417mixcollection.com/music/local_mixes/dj-spiral_halloween06_dl.mp3
+mp3: /music/local_mixes/dj-spiral_halloween06_dl.mp3
 
 ---
 dj: dj-spiral
 name: "Gravity"
 date: 2008
-mp3: http://417mixcollection.com/music/local_mixes/dj-spiral_gravity_dl.mp3
+mp3: /music/local_mixes/dj-spiral_gravity_dl.mp3
 
 ---
 dj: dj-spiral
 name: "Message Restated"
 genre: downtempo
 date: 2004
-mp3: http://417mixcollection.com/music/local_mixes/dj-spiral_message-restated_dl.mp3
+mp3: /music/local_mixes/dj-spiral_message-restated_dl.mp3
 
 ---
 dj: dj-spiral
 name: "Understanding Om"
 genre: downtempo
 date: 2005
-mp3: http://417mixcollection.com/music/local_mixes/dj-spiral_understanding_om_dl.mp3
+mp3: /music/local_mixes/dj-spiral_understanding_om_dl.mp3
 
 ---
 dj: dj-spiral
 name: "Downtempo Remedy"
 genre: downtempo
 date: 2006
-mp3: http://417mixcollection.com/music/local_mixes/dj-spiral_downtempo-remedy_dl.mp3
+mp3: /music/local_mixes/dj-spiral_downtempo-remedy_dl.mp3
 
 ---
 dj: dj-spiral
 event: cusp-2009-06-21
 genre: downtempo
-mp3: http://417mixcollection.com/music/local_mixes/cusp01-dj_spiral_dl.mp3
+mp3: /music/local_mixes/cusp01-dj_spiral_dl.mp3
 
 ---
 dj: dj-spiral
 name: "The Winery Mix"
 genre: downtempo
 date: 2009
-mp3: http://417mixcollection.com/music/local_mixes/dj-spiral_the_winery_mix_dl.mp3
+mp3: /music/local_mixes/dj-spiral_the_winery_mix_dl.mp3
 
 ---
 dj: dj-spiral
@@ -690,7 +690,7 @@ genres:
   - electro
   - tech-house
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/dj-spiral_there_is_no_ctrl_z_dl.mp3
+mp3: /music/local_mixes/dj-spiral_there_is_no_ctrl_z_dl.mp3
 
 ---
 dj: dj-spiral
@@ -698,7 +698,7 @@ event: fresh-mode-2010-10-16
 genres:
   - electro
   - tech-house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-10-16_ScotFree-djSpiral/FM-10-16-10_dj-Spiral_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-16_ScotFree-djSpiral/FM-10-16-10_dj-Spiral_dl.mp3
 
 ---
 dj: dj-spiral
@@ -706,7 +706,7 @@ event: fresh-mode-2011-02-19
 genres:
   - electro
   - tech-house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/FM-02-19-11_dj-Spiral_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/FM-02-19-11_dj-Spiral_dl.mp3
 
 ---
 dj: dj-spiral
@@ -714,7 +714,7 @@ event: fresh-mode-2011-03-12
 genres:
   - electro
   - tech-house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-03-12_Fenomenon/FM-03-12-11_dj-Spiral_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-12_Fenomenon/FM-03-12-11_dj-Spiral_dl.mp3
 
 ---
 djs:
@@ -725,7 +725,7 @@ event: fresh-mode-2011-03-19
 genres:
   - electro
   - techno
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Miles-Deem_dj-Spiral_A_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Miles-Deem_dj-Spiral_A_dl.mp3
 
 ---
 djs:
@@ -736,7 +736,7 @@ event: fresh-mode-2011-03-19
 genres:
   - electro
   - techno
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Miles-Deem_dj-Spiral_B_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Miles-Deem_dj-Spiral_B_dl.mp3
 
 ---
 dj: dj-spiral
@@ -746,7 +746,7 @@ genres:
   - electro-house
   - tech-house
   - breaks
-mp3: http://417mixcollection.com/music/local_mixes/djspiral_totem_dl.mp3
+mp3: /music/local_mixes/djspiral_totem_dl.mp3
 
 ---
 dj: dj-spiral
@@ -755,55 +755,55 @@ date: 2011-09
 genres:
   - electro-house
   - breaks
-mp3: http://417mixcollection.com/music/local_mixes/djspiral_vibe5moonboogie_dl.mp3
+mp3: /music/local_mixes/djspiral_vibe5moonboogie_dl.mp3
 
 ---
 dj: dj-spiral
 event: fresh-mode-2012-03-24
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/FM-03-24-2012_02_djspiral_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/FM-03-24-2012_02_djspiral_dl.mp3
 
 ---
 dj: dj-sum1
 name: "Frost Mini Mix"
 date: 2010
 genre: trance
-mp3: http://417mixcollection.com/music/local_mixes/Dj-Sum1_Frost-MiniMix_dl.mp3
+mp3: /music/local_mixes/Dj-Sum1_Frost-MiniMix_dl.mp3
 
 ---
 dj: dj-sum1
 event: fresh-mode-2010-11-20
 genre: trance
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-11-20_DJSum1_MultiDJTag/FM-11-20-10_DJ-Sum1_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-11-20_DJSum1_MultiDJTag/FM-11-20-10_DJ-Sum1_dl.mp3
 
 ---
 dj: dj-wycon
 name: "The W"
 date: 2009
 genre: dnb
-mp3: http://417mixcollection.com/music/local_mixes/dj-wycon_the-w_dl.mp3
+mp3: /music/local_mixes/dj-wycon_the-w_dl.mp3
 
 ---
 dj: dj-wycon
 event: fresh-mode-2010-12-11
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-12-11_DJWycon/FM-12-11-10_DJ-Wycon_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-11_DJWycon/FM-12-11-10_DJ-Wycon_dl.mp3
 
 ---
 dj: dj-wysh
 name: "Another Tequila Night"
 date: 2011-01-08
 genre: dark-psytrance
-mp3: http://417mixcollection.com/music/local_mixes/Dj-Wysh-Another-Tequila-Night-01-08-11_dl.mp3
+mp3: /music/local_mixes/Dj-Wysh-Another-Tequila-Night-01-08-11_dl.mp3
 
 ---
 dj: doohickey
 event: ritualizer-2004
-mp3: http://417mixcollection.com/music/non_local_mixes/doohickey-ritualizer-6.5.04_dl.mp3
+mp3: /music/non_local_mixes/doohickey-ritualizer-6.5.04_dl.mp3
 
 ---
 dj: doohickey
 name: "Full Circle"
-mp3: http://417mixcollection.com/music/non_local_mixes/Doohickey_Full_Circle_dl.mp3
+mp3: /music/non_local_mixes/Doohickey_Full_Circle_dl.mp3
 
 ---
 djs:
@@ -812,83 +812,83 @@ djs:
 name: "Doohickey vs. Evolve"
 event: fresh-mode-2011-02-26
 genre: multi-genre
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-02-26_Evolve_Doohickey/FM-02-26-11_Doohickey_Evolve_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-26_Evolve_Doohickey/FM-02-26-11_Doohickey_Evolve_dl.mp3
 
 ---
 dj: double-helix
 name: "The Pilot Episode"
 date: 2006
-mp3: http://417mixcollection.com/music/local_mixes/double-helix_the-pilot-episode_dl.mp3
+mp3: /music/local_mixes/double-helix_the-pilot-episode_dl.mp3
 
 ---
 dj: double-helix
 name: "Point of Origin"
 date: 2007
-mp3: http://417mixcollection.com/music/local_mixes/double-helix_point_of_origin_dl.mp3
+mp3: /music/local_mixes/double-helix_point_of_origin_dl.mp3
 
 ---
 dj: double-helix
 name: "Pulsar"
 date: 2007
-mp3: http://417mixcollection.com/music/local_mixes/double-helix_pulsar_dl.mp3
+mp3: /music/local_mixes/double-helix_pulsar_dl.mp3
 
 ---
 dj: double-helix
 name: "Paradox"
 date: 2008
-mp3: http://417mixcollection.com/music/local_mixes/double-helix_paradox_dl.mp3
+mp3: /music/local_mixes/double-helix_paradox_dl.mp3
 
 ---
 dj: double-helix
 name: "Pause For Effect"
 date: 2009
-mp3: http://417mixcollection.com/music/local_mixes/double-helix_pause_for_effect_dl.mp3
+mp3: /music/local_mixes/double-helix_pause_for_effect_dl.mp3
 
 ---
 dj: double-helix
 name: "Mix for Leo Productions 'El Diablo 2'"
 date: 2009
-mp3: http://417mixcollection.com/music/local_mixes/double-helix_el-diablo2_dl.mp3
+mp3: /music/local_mixes/double-helix_el-diablo2_dl.mp3
 
 ---
 dj: double-helix
 event: summer-scratch-2010-07-24
-mp3: http://417mixcollection.com/music/shows/summerscratch/SummerScratch_03_DoubleHelix_dl.mp3
+mp3: /music/shows/summerscratch/SummerScratch_03_DoubleHelix_dl.mp3
 
 ---
 dj: echozaurora
 name: "Electrofunkygroovesauce"
 genre: electro
-mp3: http://417mixcollection.com/music/local_mixes/echoz_aurora-electrofunkygroovesauce_dl.mp3
+mp3: /music/local_mixes/echoz_aurora-electrofunkygroovesauce_dl.mp3
 
 ---
 dj: echozaurora
 name: "Mashadelic Meltdown"
 genre: electro
-mp3: http://417mixcollection.com/music/local_mixes/EchozAurora-Mashadelic-Meltdown_dl.mp3
+mp3: /music/local_mixes/EchozAurora-Mashadelic-Meltdown_dl.mp3
 
 ---
 dj: echozaurora
 event: fresh-mode-2010-09-04
 genre: electro
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-09-04_EchozAurora/FM-09-04-10_EchozAurora_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-09-04_EchozAurora/FM-09-04-10_EchozAurora_dl.mp3
 
 ---
 dj: echozaurora
 event: winter-meltdown-2011-01-22
-mp3: http://417mixcollection.com/music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_01_EchozAurora_dl.mp3
+mp3: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_01_EchozAurora_dl.mp3
 
 ---
 dj: ence
 name: "Decadence 1.1"
 genre: progressive
-mp3: http://417mixcollection.com/music/local_mixes/ence_decadence_dl.mp3
+mp3: /music/local_mixes/ence_decadence_dl.mp3
 
 ---
 dj: ence
 name: "Live at Club 608"
 genre: progressive
-mp3: http://417mixcollection.com/music/local_mixes/ence_live-at-608_dl.mp3
+mp3: /music/local_mixes/ence_live-at-608_dl.mp3
 
 ---
 djs:
@@ -897,7 +897,7 @@ djs:
 name: "Ence vs. Solegroove"
 event: fractured-2011-01-19
 genre: house
-mp3: http://417mixcollection.com/music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/Fractured2011-01-19_03_Solegroove-Vs-Ence_dl.mp3
+mp3: /music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/Fractured2011-01-19_03_Solegroove-Vs-Ence_dl.mp3
 
 ---
 dj: eq
@@ -905,157 +905,157 @@ event: fresh-mode-2010-10-09
 genres:
   - tech-house
   - electro
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/FM-10-09-10_EQ_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/FM-10-09-10_EQ_dl.mp3
 
 ---
 dj: fenomenon
 name: "Cityspeak"
 genre: dnb
 date: 2002
-mp3: http://417mixcollection.com/music/local_mixes/fenomenon_cityspeak_dl.mp3
+mp3: /music/local_mixes/fenomenon_cityspeak_dl.mp3
 
 ---
 dj: fenomenon
 name: "Ground To Dust"
 genre: dnb
 date: 2003
-mp3: http://417mixcollection.com/music/local_mixes/fenomenon_ground_to_dust_dl.mp3
+mp3: /music/local_mixes/fenomenon_ground_to_dust_dl.mp3
 
 ---
 dj: fenomenon
 name: "Images... With Your Host, John B"
 genre: dnb
 date: 2003
-mp3: http://417mixcollection.com/music/local_mixes/Fenomenon_Images_dl.mp3
+mp3: /music/local_mixes/Fenomenon_Images_dl.mp3
 
 ---
 dj: fenomenon
 name: "The Suspect"
 genre: dnb
 date: 2005
-mp3: http://417mixcollection.com/music/local_mixes/fenomenon_the_suspect_dl.mp3
+mp3: /music/local_mixes/fenomenon_the_suspect_dl.mp3
 
 ---
 dj: fenomenon
 name: "The Killer"
 genre: dnb
 date: 2005
-mp3: http://417mixcollection.com/music/local_mixes/fenomenon_the_killer_dl.mp3
+mp3: /music/local_mixes/fenomenon_the_killer_dl.mp3
 
 ---
 dj: fenomenon
 name: "Arcane Angel"
 genre: dnb
 date: 2008
-mp3: http://417mixcollection.com/music/local_mixes/fenomenon_arcane_angel_dl.mp3
+mp3: /music/local_mixes/fenomenon_arcane_angel_dl.mp3
 
 ---
 dj: fenomenon
 event: fresh-mode-2011-03-12
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-03-12_Fenomenon/FM-03-12-11_Fenomenon_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-12_Fenomenon/FM-03-12-11_Fenomenon_dl.mp3
 
 ---
 dj: francis-rizzudo
 event: cusp-2009-06-21
-mp3: http://417mixcollection.com/music/local_mixes/cusp03-francis_rizzudo_dl.mp3
+mp3: /music/local_mixes/cusp03-francis_rizzudo_dl.mp3
 
 ---
 dj: fstz
 name: "Hyperlink Vol 2"
 genre: dubstep
-mp3: http://417mixcollection.com/music/non_local_mixes/fstz_hyperlink_vol_1_dl.mp3
+mp3: /music/non_local_mixes/fstz_hyperlink_vol_1_dl.mp3
 
 ---
 dj: goldenchild
 name: "Mixtape 2001"
 genre: dnb
 date: 2001
-mp3: http://417mixcollection.com/music/local_mixes/goldenchild_mixtape2001_dl.mp3
+mp3: /music/local_mixes/goldenchild_mixtape2001_dl.mp3
 
 ---
 dj: goldenchild
 name: "Mental Floss 2001"
 genre: dnb
 date: 2001
-mp3: http://417mixcollection.com/music/local_mixes/goldenchild_Mental-Floss2001_dl.mp3
+mp3: /music/local_mixes/goldenchild_Mental-Floss2001_dl.mp3
 
 ---
 dj: gozu-lamonde
 event: fresh-mode-2010-12-04
 genre: techno
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04-10_Gozu-Lamonde_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04-10_Gozu-Lamonde_dl.mp3
 
 ---
 dj: ironix
 name: "A Few Favorites - Volume 1"
 genre: dnb
 date: 2011
-mp3: http://417mixcollection.com/music/non_local_mixes/ironix_a-few-favorites_vol-1_dl.mp3
+mp3: /music/non_local_mixes/ironix_a-few-favorites_vol-1_dl.mp3
 
 ---
 dj: jen-z
 name: "Get Your Dirty Off The Wall"
 date: 2010
-mp3: http://417mixcollection.com/music/non_local_mixes/JenZ_GetYourDirtyOffTheWall_dl.mp3
+mp3: /music/non_local_mixes/JenZ_GetYourDirtyOffTheWall_dl.mp3
 
 ---
 dj: jen-z
 name: "Clutch & Grind"
 date: 2010
-mp3: http://417mixcollection.com/music/non_local_mixes/JenZ_Clutch-Grind_dl.mp3
+mp3: /music/non_local_mixes/JenZ_Clutch-Grind_dl.mp3
 
 ---
 dj: jen-z
 name: "Conundrum"
 date: 2010
-mp3: http://417mixcollection.com/music/non_local_mixes/JenZ_Conundrum_dl.mp3
+mp3: /music/non_local_mixes/JenZ_Conundrum_dl.mp3
 
 ---
 dj: jen-z
 name: "JenStep"
 date: 2012
 genre: dubstep
-mp3: http://417mixcollection.com/music/non_local_mixes/JenZ_JenStep_dl.mp3
+mp3: /music/non_local_mixes/JenZ_JenStep_dl.mp3
 
 ---
 dj: jeremy-doty
 name: "December Promo Mix"
-mp3: http://417mixcollection.com/music/non_local_mixes/jeremy-doty_december_promo_mix_dl.mp3
+mp3: /music/non_local_mixes/jeremy-doty_december_promo_mix_dl.mp3
 
 ---
 dj: jimmy-c
 name: "Open Up"
 genre: deep-house
 date: 2002
-mp3: http://417mixcollection.com/music/local_mixes/jimmy-c_open-up_dl.mp3
+mp3: /music/local_mixes/jimmy-c_open-up_dl.mp3
 
 ---
 dj: jimmy-c
 name: "Perfect Strangers"
 genre: house
 date: 2003
-mp3: http://417mixcollection.com/music/local_mixes/jimmy-c-perfect_strangers_dl.mp3
+mp3: /music/local_mixes/jimmy-c-perfect_strangers_dl.mp3
 
 ---
 dj: jimmy-c
 name: "Fourfourplay"
 genre: house
 date: 2004
-mp3: http://417mixcollection.com/music/local_mixes/jimmy-c-fourfourplay_dl.mp3
+mp3: /music/local_mixes/jimmy-c-fourfourplay_dl.mp3
 
 ---
 dj: jimmy-c
 name: "I'm Going Home"
 genre: deep-house
 date: 2005
-mp3: http://417mixcollection.com/music/local_mixes/jimmy-c-im-going-home-2-4-05_dl.mp3
+mp3: /music/local_mixes/jimmy-c-im-going-home-2-4-05_dl.mp3
 
 ---
 dj: jimmy-c
 event: sumo-2006-02-11
 genre: house
-mp3: http://417mixcollection.com/music/local_mixes/Jimmy-C_Live-SUMO_2-11-06_dl.mp3
+mp3: /music/local_mixes/Jimmy-C_Live-SUMO_2-11-06_dl.mp3
 
 ---
 djs:
@@ -1063,68 +1063,68 @@ djs:
   - lc
 event: sumo-2006-03-11
 genre: house
-mp3: http://417mixcollection.com/music/shows/Jimmy-C-LC-Live-Sumo-03_11_06_dl.mp3
+mp3: /music/shows/Jimmy-C-LC-Live-Sumo-03_11_06_dl.mp3
 
 ---
 dj: jimmy-c
 name: "Impromptu Jam Session"
 genre: house
 date: 2009
-mp3: http://417mixcollection.com/music/local_mixes/Jimmy-C_Impromptu-Jam-Session_dl.mp3
+mp3: /music/local_mixes/Jimmy-C_Impromptu-Jam-Session_dl.mp3
 
 ---
 dj: jimmy-c
 name: "Live Recording part 1"
 event: fresh-mode-2010-09-18
 genre: house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_Jimmy-C-1_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_Jimmy-C-1_dl.mp3
 
 ---
 dj: jimmy-c
 name: "Live Recording part 2"
 event: fresh-mode-2010-09-18
 genre: house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_Jimmy-C-2_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_Jimmy-C-2_dl.mp3
 
 ---
 dj: jimmy-c
 event: fresh-mode-2010-09-25
 genre: house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-09-25_JimmyC-ChrisClose/FM-09-25-10_jimmy-c_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-09-25_JimmyC-ChrisClose/FM-09-25-10_jimmy-c_dl.mp3
 
 ---
 dj: jimmy-c
 event: fresh-mode-2010-10-02
 genre: house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-10-02_JimmyC-AgentTraxxident/FM-10-02-10_Jimmy-C_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-02_JimmyC-AgentTraxxident/FM-10-02-10_Jimmy-C_dl.mp3
 
 ---
 dj: jimmy-c
 event: fresh-mode-2010-10-23
 genre: house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-10-23_JimmyC-JustWill/FM-10-23-10_Jimmy-C_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-23_JimmyC-JustWill/FM-10-23-10_Jimmy-C_dl.mp3
 
 ---
 dj: jimmy-c
 event: fresh-mode-2011-01-15
 genre: house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/FM-01-15-11_Jimmy-C_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/FM-01-15-11_Jimmy-C_dl.mp3
 
 ---
 dj: jimmy-c
 event: fresh-mode-2011-01-22
 genre: house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-11_Jimmy-C_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-11_Jimmy-C_dl.mp3
 
 ---
 dj: kid-nexus
 name: "ADD & MP3s"
-mp3: http://417mixcollection.com/music/local_mixes/kid-nexus_add-mp3s_dl.mp3
+mp3: /music/local_mixes/kid-nexus_add-mp3s_dl.mp3
 
 ---
 dj: kid-nexus
 name: "Deathstar Disco"
-mp3: http://417mixcollection.com/music/local_mixes/kid-nexus_deathstar-disco_aug07_dl.mp3
+mp3: /music/local_mixes/kid-nexus_deathstar-disco_aug07_dl.mp3
 
 ---
 dj: lc
@@ -1158,85 +1158,85 @@ mp3: http://www.umove.net/podcasts/umove_mixtape_035.mp3
 dj: lc
 genre: house
 date: 2009-07-29
-mp3: http://417mixcollection.com/music/local_mixes/LC_mixed-live-7-29-09_dl.mp3
+mp3: /music/local_mixes/LC_mixed-live-7-29-09_dl.mp3
 
 ---
 dj: lc
 genre: house
 date: 2009-10-01
-mp3: http://417mixcollection.com/music/local_mixes/LC_mixed-live_10-01-09_dl.mp3
+mp3: /music/local_mixes/LC_mixed-live_10-01-09_dl.mp3
 
 ---
 dj: lc
 genre: house
 date: 2008-08-15
-mp3: http://417mixcollection.com/music/local_mixes/LC_8-15-08_dl.mp3
+mp3: /music/local_mixes/LC_8-15-08_dl.mp3
 
 ---
 dj: lc
 name: "Easy Now"
 genre: house
-mp3: http://417mixcollection.com/music/local_mixes/LC_easy-now_dl.mp3
+mp3: /music/local_mixes/LC_easy-now_dl.mp3
 
 ---
 dj: lc
 name: "Mixed Live May 15"
 genre: house
-mp3: http://417mixcollection.com/music/local_mixes/LC_may-15_dl.mp3
+mp3: /music/local_mixes/LC_may-15_dl.mp3
 
 ---
 dj: lc
 name: "Mixed Live 11.01"
 genre: house
-mp3: http://417mixcollection.com/music/local_mixes/LC_mixed-live-11-01_dl.mp3
+mp3: /music/local_mixes/LC_mixed-live-11-01_dl.mp3
 
 ---
 dj: lc
 name: "Mixed Live 11.20"
 genre: house
-mp3: http://417mixcollection.com/music/local_mixes/LC_mixed-live-11-20_dl.mp3
+mp3: /music/local_mixes/LC_mixed-live-11-20_dl.mp3
 
 ---
 dj: lc
 genre: house
 date: 2007-05-13
-mp3: http://417mixcollection.com/music/local_mixes/LC_Mixed-Live_5-13-07_dl.mp3
+mp3: /music/local_mixes/LC_Mixed-Live_5-13-07_dl.mp3
 
 ---
 dj: lc
 name: "Mixed Live Jan04"
 genre: house
-mp3: http://417mixcollection.com/music/local_mixes/LC_mixed-live-jan04_dl.mp3
+mp3: /music/local_mixes/LC_mixed-live-jan04_dl.mp3
 
 ---
 dj: lc
 name: "Mixed Live Jan19"
 genre: house
-mp3: http://417mixcollection.com/music/local_mixes/LC_mixed-live-jan19_dl.mp3
+mp3: /music/local_mixes/LC_mixed-live-jan19_dl.mp3
 
 ---
 dj: lc
 name: "Phocas Mix 9.05"
 genre: house
-mp3: http://417mixcollection.com/music/local_mixes/LC_phocas-mix-9-05_dl.mp3
+mp3: /music/local_mixes/LC_phocas-mix-9-05_dl.mp3
 
 ---
 dj: lc
 name: "Winter Mix 2004"
 genre: dnb
 date: 2004
-mp3: http://417mixcollection.com/music/local_mixes/LC_winter-mix-04_dl.mp3
+mp3: /music/local_mixes/LC_winter-mix-04_dl.mp3
 
 ---
 dj: lc
 genre: house
 date: 2011-03-22
-mp3: http://417mixcollection.com/music/local_mixes/LC_3-22-11_dl.mp3
+mp3: /music/local_mixes/LC_3-22-11_dl.mp3
 
 ---
 dj: malkontent
 name: "Nobody Parties On Monday"
-mp3: http://417mixcollection.com/music/local_mixes/malkontent_nobody-parties-on-monday_dl.mp3
+mp3: /music/local_mixes/malkontent_nobody-parties-on-monday_dl.mp3
 
 ---
 dj: malkontent
@@ -1244,69 +1244,69 @@ event: fresh-mode-2010-12-25
 genres:
   - psytrance
   - ebm
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-12-25_JimmyC_Malkontent_Mick-Vs-TGTG/FM-12-25-10_Malkontent_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-25_JimmyC_Malkontent_Mick-Vs-TGTG/FM-12-25-10_Malkontent_dl.mp3
 
 ---
 dj: malkontent
 name: "Pale Vs. Ale"
 event: fractured-2010-10-27
 genre: psytrance
-mp3: http://417mixcollection.com/music/shows/fractured/fractured2010-10-27_TJAether-SoleGroove_PaleVsAle/Fractured2010-10-27_02_Pale-Vs-Ale_dl.mp3
+mp3: /music/shows/fractured/fractured2010-10-27_TJAether-SoleGroove_PaleVsAle/Fractured2010-10-27_02_Pale-Vs-Ale_dl.mp3
 
 ---
 dj: malware
 name: "All Malware Dubs Set - LIVE On DnB Radio"
 date: 2011-09-02
-mp3: http://417mixcollection.com/music/non_local_mixes/malware_-_all_malware_dubs_set-live-on-dnbradio-090211_dl.mp3
+mp3: /music/non_local_mixes/malware_-_all_malware_dubs_set-live-on-dnbradio-090211_dl.mp3
 
 ---
 dj: malware
 name: "Dubstep Mashup Mix 2012"
 date: 2012
-mp3: http://417mixcollection.com/music/non_local_mixes/malware_-_dubstep_mashup_mix_2012_dl.mp3
+mp3: /music/non_local_mixes/malware_-_dubstep_mashup_mix_2012_dl.mp3
 
 ---
 dj: malware
 name: "Dubstep Mashup Mix 320"
-mp3: http://417mixcollection.com/music/non_local_mixes/malware_-_dubstep_mashup_mix-320_dl.mp3
+mp3: /music/non_local_mixes/malware_-_dubstep_mashup_mix-320_dl.mp3
 
 ---
 dj: malware
 name: "Kill"
-mp3: http://417mixcollection.com/music/non_local_mixes/malware_-_kill_dl.mp3
+mp3: /music/non_local_mixes/malware_-_kill_dl.mp3
 
 ---
 dj: malware
 name: "Paint The World Purple 2012 UKG Mix"
 date: 2012
-mp3: http://417mixcollection.com/music/non_local_mixes/malware_-_paint_the_world_purple-2012-ukg-mix_dl.mp3
+mp3: /music/non_local_mixes/malware_-_paint_the_world_purple-2012-ukg-mix_dl.mp3
 
 ---
 djs:
   - malware
   - audio-agent
 name: "Malware Vs. Audio Agent - Full Release Blaze Down Vol 1"
-mp3: http://417mixcollection.com/music/non_local_mixes/Malware_vs_Audio_Agent_-_Full_Release_Blaze_Down_Vol_1_dl.mp3
+mp3: /music/non_local_mixes/Malware_vs_Audio_Agent_-_Full_Release_Blaze_Down_Vol_1_dl.mp3
 
 ---
 dj: merl
 name: "Birds of a Feather"
 genre: dnb
 date: 2009
-mp3: http://417mixcollection.com/music/non_local_mixes/Merl_Birds_of_a_Feather_dl.mp3
+mp3: /music/non_local_mixes/Merl_Birds_of_a_Feather_dl.mp3
 
 ---
 dj: merl
 name: "March House Mix"
 genre: house
 date: 2010
-mp3: http://417mixcollection.com/music/non_local_mixes/Merl_March_House_Mix_dl.mp3
+mp3: /music/non_local_mixes/Merl_March_House_Mix_dl.mp3
 
 ---
 dj: merl
 event: fresh-mode-2011-02-05
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/FM-02-05-11_DJ-Merl_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/FM-02-05-11_DJ-Merl_dl.mp3
 
 ---
 djs:
@@ -1315,20 +1315,20 @@ djs:
 name: "Mike P vs. LC"
 date: 2009-01-30
 genre: house
-mp3: http://417mixcollection.com/music/non_local_mixes/LC_mike-p_01-30-09_dl.mp3
+mp3: /music/non_local_mixes/LC_mike-p_01-30-09_dl.mp3
 
 ---
 dj: mike-p
 name: "Daytrip"
 genre: trip-hop
-mp3: http://417mixcollection.com/music/non_local_mixes/mike-p_daytrip_dl.mp3
+mp3: /music/non_local_mixes/mike-p_daytrip_dl.mp3
 
 ---
 dj: mike-p
 name: "Sunday Groove"
 genre: trip-hop
 date: 2009
-mp3: http://417mixcollection.com/music/non_local_mixes/mike-p_sunday-groove-11-8-09_dl.mp3
+mp3: /music/non_local_mixes/mike-p_sunday-groove-11-8-09_dl.mp3
 
 ---
 dj: mike-dileo
@@ -1342,44 +1342,44 @@ dj: miles-deem
 name: "Gi? la testa... hombre"
 genre: techno
 date: 2010-10-10
-mp3: http://417mixcollection.com/music/local_mixes/miles_deem_giu_la_testa_dl.mp3
+mp3: /music/local_mixes/miles_deem_giu_la_testa_dl.mp3
 
 ---
 dj: mr-solve
 name: "Invader"
 genre: dnb
-mp3: http://417mixcollection.com/music/local_mixes/mr-solve_invader_dl.mp3
+mp3: /music/local_mixes/mr-solve_invader_dl.mp3
 
 ---
 dj: mr-solve
 name: "NYE 2002"
 genre: dnb
 date: 2002
-mp3: http://417mixcollection.com/music/local_mixes/mr-solve_nye2002_dl.mp3
+mp3: /music/local_mixes/mr-solve_nye2002_dl.mp3
 
 ---
 dj: mr-solve
 name: "Rollin Hard"
 genre: dnb
-mp3: http://417mixcollection.com/music/local_mixes/mr-solve_rollin-hard_dl.mp3
+mp3: /music/local_mixes/mr-solve_rollin-hard_dl.mp3
 
 ---
 dj: mr-solve
 name: "Technology"
 genre: dnb
-mp3: http://417mixcollection.com/music/local_mixes/mr-solve_technology_dl.mp3
+mp3: /music/local_mixes/mr-solve_technology_dl.mp3
 
 ---
 dj: mr-solve
 name: "Year of the Dragon"
 genre: dnb
-mp3: http://417mixcollection.com/music/local_mixes/mr-solve_year-of-the-dragon_dl.mp3
+mp3: /music/local_mixes/mr-solve_year-of-the-dragon_dl.mp3
 
 ---
 dj: nero
 name: "Love Hz"
 genre: dnb
-mp3: http://417mixcollection.com/music/misc/Nero_Love_Hz_dl.mp3
+mp3: /music/misc/Nero_Love_Hz_dl.mp3
 
 ---
 djs:
@@ -1387,54 +1387,54 @@ djs:
   - mc-precision
 name: "DJ Nero & MC Precision LIVE"
 event: urban-beats-2011-03-04
-mp3: http://417mixcollection.com/music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_02_DJNero-MCPrecision_dl.mp3
+mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_02_DJNero-MCPrecision_dl.mp3
 
 ---
 dj: opmode
 name: "Part 1: If This Cloud"
 genre: tech-house
-mp3: http://417mixcollection.com/music/non_local_mixes/opmode_pt1_if-this-could_dl.mp3
+mp3: /music/non_local_mixes/opmode_pt1_if-this-could_dl.mp3
 
 ---
 dj: opmode
 name: "Part 2: Last 4 Ever"
 genre: tech-house
-mp3: http://417mixcollection.com/music/non_local_mixes/opmode_pt2_last-4-ever_dl.mp3
+mp3: /music/non_local_mixes/opmode_pt2_last-4-ever_dl.mp3
 
 ---
 dj: opmode
 event: fresh-mode-2010-10-09
 genre: tech-house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/FM-10-09-10_OpMode_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/FM-10-09-10_OpMode_dl.mp3
 
 ---
 dj: pat-nice
 event: deepfix-2003-12-14
 genre: house
-mp3: http://417mixcollection.com/music/non_local_mixes/Pat-Nice_Live_DeepFix-12-14-03_dl.mp3
+mp3: /music/non_local_mixes/Pat-Nice_Live_DeepFix-12-14-03_dl.mp3
 
 ---
 dj: pat-nice
 event: frisky-2004-03-11
 genre: house
-mp3: http://417mixcollection.com/music/non_local_mixes/Pat_Nice-Live-at-Frisky-03-11-04_dl.mp3
+mp3: /music/non_local_mixes/Pat_Nice-Live-at-Frisky-03-11-04_dl.mp3
 
 ---
 dj: phillip-dixon
 name: "Headstrong"
-mp3: http://417mixcollection.com/music/non_local_mixes/Phillip-Dixon_headstrong_april-29_dl.mp3
+mp3: /music/non_local_mixes/Phillip-Dixon_headstrong_april-29_dl.mp3
 
 ---
 dj: phillip-dixon
 name: "Nocturnal Thursday"
-mp3: http://417mixcollection.com/music/non_local_mixes/Phillip-Dixon_nocturnal_thursday_dl.mp3
+mp3: /music/non_local_mixes/Phillip-Dixon_nocturnal_thursday_dl.mp3
 
 ---
 dj: plunkie
 name: "rdp1"
 genre: dubstep
 date: 2009
-mp3: http://417mixcollection.com/music/local_mixes/plunkie_rdp1_dl.mp3
+mp3: /music/local_mixes/plunkie_rdp1_dl.mp3
 
 ---
 djs:
@@ -1442,71 +1442,71 @@ djs:
   - dj-hayze
 event: summer-scratch-2010-07-24
 genre: dubstep
-mp3: http://417mixcollection.com/music/shows/summerscratch/SummerScratch_02_Punkie-Vs-DjHayze_dl.mp3
+mp3: /music/shows/summerscratch/SummerScratch_02_Punkie-Vs-DjHayze_dl.mp3
 
 ---
 dj: rachel-fair
 name: "On The Floor"
 genre: house
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/rachel-fair-on_the_floor_dl.mp3
+mp3: /music/local_mixes/rachel-fair-on_the_floor_dl.mp3
 
 ---
 dj: ragga-scum
 name: "Dem Want War"
 genre: dnb
-mp3: http://417mixcollection.com/music/non_local_mixes/Ragga-Scum-Dem-Want-War_dl.mp3
+mp3: /music/non_local_mixes/Ragga-Scum-Dem-Want-War_dl.mp3
 
 ---
 dj: ragga-scum
 name: "They Walk Among Us"
 genre: dubstep
 date: 2011
-mp3: http://417mixcollection.com/music/non_local_mixes/Ragga-Scum-They-Walk-Among-Us-May-21-2011-End-Of-The-World-Mix_dl.mp3
+mp3: /music/non_local_mixes/Ragga-Scum-They-Walk-Among-Us-May-21-2011-End-Of-The-World-Mix_dl.mp3
 
 ---
 dj: ragga-scum
 name: "Murda In America 2keleven"
 genre: dnb
-mp3: http://417mixcollection.com/music/non_local_mixes/Ragga-Scum-Murda-In-America-2Keleven_dl.mp3
+mp3: /music/non_local_mixes/Ragga-Scum-Murda-In-America-2Keleven_dl.mp3
 
 ---
 dj: ragga-scum
 name: "OuterNationalism Vol3"
 genre: dnb
-mp3: http://417mixcollection.com/music/non_local_mixes/Ragga-Scum-OuterNationalizm-Vol3_dl.mp3
+mp3: /music/non_local_mixes/Ragga-Scum-OuterNationalizm-Vol3_dl.mp3
 
 ---
 dj: ragga-scum
 name: "4 Years of Warlord"
 genre: dnb
-mp3: http://417mixcollection.com/music/non_local_mixes/Ragga-Scum-4-years-of-warlord_dl.mp3
+mp3: /music/non_local_mixes/Ragga-Scum-4-years-of-warlord_dl.mp3
 
 ---
 dj: ragga-scum
 name: "A Fine Night"
 genre: dnb
-mp3: http://417mixcollection.com/music/non_local_mixes/Ragga-Scum-A-Fine-Night_dl.mp3
+mp3: /music/non_local_mixes/Ragga-Scum-A-Fine-Night_dl.mp3
 
 ---
 dj: ragga-scum
 name: "The Terrorist"
 genre: dubstep
-mp3: http://417mixcollection.com/music/non_local_mixes/Ragga-Scum-the-terrorist_dl.mp3
+mp3: /music/non_local_mixes/Ragga-Scum-the-terrorist_dl.mp3
 
 ---
 dj: randal-soeung
 name: "Aerosault Mix"
 genre: house
 year: 2009
-mp3: http://417mixcollection.com/music/non_local_mixes/Randal_Soeung_Aerosault_mix_nov_dl.mp3
+mp3: /music/non_local_mixes/Randal_Soeung_Aerosault_mix_nov_dl.mp3
 
 ---
 dj: richie-relax
 name: "Disco133"
 genre: progressive
 date: 2009
-mp3: http://417mixcollection.com/music/local_mixes/richie-relax_disco133_aug2009_dl.mp3
+mp3: /music/local_mixes/richie-relax_disco133_aug2009_dl.mp3
 
 ---
 djs:
@@ -1515,32 +1515,32 @@ djs:
 name: "Richie Relax vs. Ence"
 event: fremont-lounge-2009
 genre: progressive
-mp3: http://417mixcollection.com/music/local_mixes/richie-relax_ence_live-fremont-lounge081209_dl.mp3
+mp3: /music/local_mixes/richie-relax_ence_live-fremont-lounge081209_dl.mp3
 
 ---
 dj: richie-relax
 event: latin-vibe-2008
 genre: progressive
-mp3: http://417mixcollection.com/music/local_mixes/richie-relax_live-at-latin-vibe2008_dl.mp3
+mp3: /music/local_mixes/richie-relax_live-at-latin-vibe2008_dl.mp3
 
 ---
 dj: richie-relax
 event: latin-vibe-2009
 genre: progressive
-mp3: http://417mixcollection.com/music/local_mixes/richie-relax_live-at-latin-vibe2009_dl.mp3
+mp3: /music/local_mixes/richie-relax_live-at-latin-vibe2009_dl.mp3
 
 ---
 dj: richie-relax
 name: "On the Fly133"
 genre: progressive
-mp3: http://417mixcollection.com/music/local_mixes/richie-relax_on-the-fly133_dl.mp3
+mp3: /music/local_mixes/richie-relax_on-the-fly133_dl.mp3
 
 ---
 dj: richie-relax
 name: "On the Fly at LV"
 genre: progressive
 date: 2009
-mp3: http://417mixcollection.com/music/local_mixes/richie-relax_on-the-fly_live-08-04-09-atLV_dl.mp3
+mp3: /music/local_mixes/richie-relax_on-the-fly_live-08-04-09-atLV_dl.mp3
 
 ---
 dj: robe-flax
@@ -1548,13 +1548,13 @@ name: "Funk To Punch Yr Junk"
 genres:
   - funk
   - disco
-mp3: http://417mixcollection.com/music/non_local_mixes/Robe_Flax_-_Funk_To_Punch_Yr_Junk_dl.mp3
+mp3: /music/non_local_mixes/Robe_Flax_-_Funk_To_Punch_Yr_Junk_dl.mp3
 
 ---
 dj: robe-flax
 name: "Banana Mix"
 genre: experimental
-mp3: http://417mixcollection.com/music/non_local_mixes/KITTENDOUGLAS_-_BANANA_MIX.mp3
+mp3: /music/non_local_mixes/KITTENDOUGLAS_-_BANANA_MIX.mp3
 
 ---
 dj: robe-flax
@@ -1563,26 +1563,26 @@ genres:
   - soul
   - rb
 date: 2008
-mp3: http://417mixcollection.com/music/non_local_mixes/RobeFlax/Robe_Flax_-_7InchesofSoul_All45Soul_RNBMix.mp3
+mp3: /music/non_local_mixes/RobeFlax/Robe_Flax_-_7InchesofSoul_All45Soul_RNBMix.mp3
 
 ---
 dj: robe-flax
 name: "Electro Schmelectro"
 genre: classic-electro
 date: 2008
-mp3: http://417mixcollection.com/music/non_local_mixes/RobeFlax/Robe_Flax_-_Electro_Schmelectro.mp3
+mp3: /music/non_local_mixes/RobeFlax/Robe_Flax_-_Electro_Schmelectro.mp3
 
 ---
 dj: robe-flax
 name: "Battle On Funk Mountain"
 date: 2008
-mp3: http://417mixcollection.com/music/non_local_mixes/RobeFlax/RobeFlax-BattleonFunkMountain.mp3
+mp3: /music/non_local_mixes/RobeFlax/RobeFlax-BattleonFunkMountain.mp3
 
 ---
 dj: robe-flax
 name: "DJ EJ's Wheels of Steel Presents"
 date: 2008
-mp3: http://417mixcollection.com/music/non_local_mixes/RobeFlax/Robe%20Flax%20Mix.mp3
+mp3: /music/non_local_mixes/RobeFlax/Robe%20Flax%20Mix.mp3
 
 ---
 dj: robe-flax
@@ -1592,175 +1592,175 @@ genres:
   - disco
   - house
 date: 2008
-mp3: http://417mixcollection.com/music/non_local_mixes/RobeFlax/Robe_Flax_-_Cracks_The_Stacks.mp3
+mp3: /music/non_local_mixes/RobeFlax/Robe_Flax_-_Cracks_The_Stacks.mp3
 
 ---
 dj: robe-flax
 name: "Breaking The Round Barrier"
 date: 2008
-mp3: http://417mixcollection.com/music/non_local_mixes/RobeFlax/Raspy_Rounds_-_Breaking_The_Round_Barrier.mp3
+mp3: /music/non_local_mixes/RobeFlax/Raspy_Rounds_-_Breaking_The_Round_Barrier.mp3
 
 ---
 dj: robe-flax
 name: "4/06/06 Mix"
 genre: dnb
 date: 2006-04-06
-mp3: http://417mixcollection.com/music/non_local_mixes/RobeFlax/Truss_04_06_06_Mix.mp3
+mp3: /music/non_local_mixes/RobeFlax/Truss_04_06_06_Mix.mp3
 
 ---
 dj: scot-free
 name: "Silky Smooth Love"
 genre: dnb
 date: 2005
-mp3: http://417mixcollection.com/music/local_mixes/scot-free-silky-smooth-love_dl.mp3
+mp3: /music/local_mixes/scot-free-silky-smooth-love_dl.mp3
 
 ---
 dj: scot-free
 event: back2school-2006
 genre: dnb
-mp3: http://417mixcollection.com/music/local_mixes/scot-free_back2school_dl.mp3
+mp3: /music/local_mixes/scot-free_back2school_dl.mp3
 
 ---
 dj: scot-free
 name: "On My Mind"
 genre: dnb
 date: 2006
-mp3: http://417mixcollection.com/music/local_mixes/scot-free_on-my-mind_dl.mp3
+mp3: /music/local_mixes/scot-free_on-my-mind_dl.mp3
 
 ---
 dj: scot-free
 name: "Eve"
 genre: dnb
 date: 2008
-mp3: http://417mixcollection.com/music/local_mixes/scot-free_eve_dl.mp3
+mp3: /music/local_mixes/scot-free_eve_dl.mp3
 
 ---
 dj: scot-free
 name: "Leet Radio Promo Mix"
 genre: dnb
 date: 2009
-mp3: http://417mixcollection.com/music/local_mixes/scot_free_leet_radio_promo_dl.mp3
+mp3: /music/local_mixes/scot_free_leet_radio_promo_dl.mp3
 
 ---
 dj: scot-free
 event: fresh-mode-2010-10-16
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-10-16_ScotFree-djSpiral/FM-10-16-10_Scot-Free_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-16_ScotFree-djSpiral/FM-10-16-10_Scot-Free_dl.mp3
 
 ---
 dj: scot-free
 event: fresh-mode-2011-01-15
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/FM-01-15-11_Scot-Free_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/FM-01-15-11_Scot-Free_dl.mp3
 
 ---
 dj: scot-free
 event: fresh-mode-2012-03-24
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/FM-03-24-2012_01_scotfree_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/FM-03-24-2012_01_scotfree_dl.mp3
 
 ---
 dj: scotty-mac
 event: lolas-sonic-supper-2010-07-24
 genre: house
-mp3: http://417mixcollection.com/music/non_local_mixes/scotty_mac_live-at-lola-2010-07-24_dl.mp3
+mp3: /music/non_local_mixes/scotty_mac_live-at-lola-2010-07-24_dl.mp3
 
 ---
 dj: scotty-mac
 event: kinky-disco-2009
 genre: house
-mp3: http://417mixcollection.com/music/non_local_mixes/scotty-mac_live-at-kinky-disco-3-21-09_dl.mp3
+mp3: /music/non_local_mixes/scotty-mac_live-at-kinky-disco-3-21-09_dl.mp3
 
 ---
 dj: scotty-mac
 event: speakeasy-2011-07-23
 genre: house
-mp3: http://417mixcollection.com/music/non_local_mixes/Scotty-Mac_Live-at-Speakeasy-2011-07-23.mp3
+mp3: /music/non_local_mixes/Scotty-Mac_Live-at-Speakeasy-2011-07-23.mp3
 
 ---
 dj: slante
 name: "Summer Dub"
 genre: downtempo
 date: 2009
-mp3: http://417mixcollection.com/music/non_local_mixes/slant-e-summer-09-dub-downtempo_mix_dl.mp3
+mp3: /music/non_local_mixes/slant-e-summer-09-dub-downtempo_mix_dl.mp3
 
 ---
 dj: solegroove
 event: fresh-mode-2011-01-22
 genre: house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-11_Solegroove_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-11_Solegroove_dl.mp3
 
 ---
 dj: solegroove
 event: fractured-2011-01-19
 genre: house
-mp3: http://417mixcollection.com/music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/Fractured2011-01-19_01_Solegroove_dl.mp3
+mp3: /music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/Fractured2011-01-19_01_Solegroove_dl.mp3
 
 ---
 dj: sqyttles
 name: "Wakarusa 2010 Mix 1"
 genre: dubstep
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/Sqyttles-Waka-Mix1_dl.mp3
+mp3: /music/local_mixes/Sqyttles-Waka-Mix1_dl.mp3
 
 ---
 dj: sqyttles
 name: "Wakarusa 2010 Mix 2"
 genre: dubstep
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/Sqyttles-Waka-Mix2_dl.mp3
+mp3: /music/local_mixes/Sqyttles-Waka-Mix2_dl.mp3
 
 ---
 dj: sqyttles
 name: Love Loss (Studio Mix)
 genre: dnb
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/Sqyttles_-_Love_Loss_dl.mp3
+mp3: /music/local_mixes/Sqyttles_-_Love_Loss_dl.mp3
 
 ---
 dj: this-guy-that-guy
 name: "Soulstice 2010 Promo"
 genre: dnb
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/this-guy-that-guy-soulstice-promo_dl.mp3
+mp3: /music/local_mixes/this-guy-that-guy-soulstice-promo_dl.mp3
 
 ---
 dj: this-guy-that-guy
 name: "Get Up"
 genre: dnb
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/this-guy-that-guy_get-up_dl.mp3
+mp3: /music/local_mixes/this-guy-that-guy_get-up_dl.mp3
 
 ---
 dj: this-guy-that-guy
 name: "Get Down"
 genre: dnb
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/this-guy-that-guy_get-down_dl.mp3
+mp3: /music/local_mixes/this-guy-that-guy_get-down_dl.mp3
 
 ---
 dj: this-guy-that-guy
 event: fresh-mode-2011-03-12
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-03-12_Fenomenon/FM-03-12-11_TGTG_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-12_Fenomenon/FM-03-12-11_TGTG_dl.mp3
 
 ---
 dj: this-guy-that-guy
 event: fresh-mode-2011-03-19
 name: "Live recording (Part 1)"
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Phi_Scot-Free_A_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Phi_Scot-Free_A_dl.mp3
 
 ---
 dj: this-guy-that-guy
 event: fresh-mode-2011-03-19
 name: "Live Recording (Part 2)"
 genre: dnb
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Phi_Scot-Free_B_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Phi_Scot-Free_B_dl.mp3
 
 ---
 dj: tj-aether
 event: cusp-2009-06-21
-mp3: http://417mixcollection.com/music/local_mixes/cusp02-dj_aether_dl.mp3
+mp3: /music/local_mixes/cusp02-dj_aether_dl.mp3
 
 ---
 djs:
@@ -1768,12 +1768,12 @@ djs:
   - solegroove
 event: fractured-2010-10-27
 name: "TJ AEther vs. Solegroove"
-mp3: http://417mixcollection.com/music/shows/fractured/fractured2010-10-27_TJAether-SoleGroove_PaleVsAle/Fractured2010-10-27_01_TJAether-Solegroove_dl.mp3
+mp3: /music/shows/fractured/fractured2010-10-27_TJAether-SoleGroove_PaleVsAle/Fractured2010-10-27_01_TJAether-Solegroove_dl.mp3
 
 ---
 dj: tj-aether
 event: fractured-2011-01-19
-mp3: http://417mixcollection.com/music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/Fractured2011-01-19_02_TJAether_dl.mp3
+mp3: /music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/Fractured2011-01-19_02_TJAether_dl.mp3
 
 ---
 djs:
@@ -1781,68 +1781,68 @@ djs:
   - plunkie
 event: winter-meltdown-2011-01-22
 name: "TJ AEther vs. DJ Plunkie"
-mp3: http://417mixcollection.com/music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_02_TJAether-Vs-DJPlunkie_dl.mp3
+mp3: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_02_TJAether-Vs-DJPlunkie_dl.mp3
 
 ---
 dj: wes-luker
 event: fresh-mode-2011-02-05
 genre: house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/FM-02-05-11_Wes-Luker_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/FM-02-05-11_Wes-Luker_dl.mp3
 
 ---
 dj: wodie-stylez
 name: "Aug 2007 Mix"
 genre: electro
 date: 2007-08
-mp3: http://417mixcollection.com/music/local_mixes/wodie-stylez_aug-07-mix_dl.mp3
+mp3: /music/local_mixes/wodie-stylez_aug-07-mix_dl.mp3
 
 ---
 dj: wodie-stylez
 name: "Live From the Spare Bedroom"
 genre: electro
-mp3: http://417mixcollection.com/music/local_mixes/wodie-stylez_live-from-the-spare-bedroom_dl.mp3
+mp3: /music/local_mixes/wodie-stylez_live-from-the-spare-bedroom_dl.mp3
 
 ---
 dj: wodie-stylez
 name: "Summer 2009"
 genre: electro
 date: 2009
-mp3: http://417mixcollection.com/music/local_mixes/wodie-stylez_summer-09-mix_dl.mp3
+mp3: /music/local_mixes/wodie-stylez_summer-09-mix_dl.mp3
 
 ---
 dj: wodie-stylez
 event: cusp-2009-06-21
-mp3: http://417mixcollection.com/music/local_mixes/cusp04-wodie_stylez_dl.mp3
+mp3: /music/local_mixes/cusp04-wodie_stylez_dl.mp3
 
 ---
 dj: wodie-stylez
 name: "Take The Trash Out"
 genre: electro
-mp3: http://417mixcollection.com/music/local_mixes/wodie-stylez_take-the-trash-out_dl.mp3
+mp3: /music/local_mixes/wodie-stylez_take-the-trash-out_dl.mp3
 
 ---
 dj: wodie-stylez
 name: "August 2010 Mix"
 genre: electro
 date: 2010
-mp3: http://417mixcollection.com/music/local_mixes/wodie_styles_-_august_2010-mix_dl.mp3
+mp3: /music/local_mixes/wodie_styles_-_august_2010-mix_dl.mp3
 
 ---
 dj: whikkit
 name: "Step Up"
 genre: dubstep
 date: 2009
-mp3: http://417mixcollection.com/music/local_mixes/whikkit-step_up_dl.mp3
+mp3: /music/local_mixes/whikkit-step_up_dl.mp3
 
 ---
 dj: whish
 name: "Suspension"
-mp3: http://417mixcollection.com/music/non_local_mixes/whish_suspension_dl.mp3
+mp3: /music/non_local_mixes/whish_suspension_dl.mp3
 
 ---
 dj: whish
 name: "Universal Sounds"
-mp3: http://417mixcollection.com/music/non_local_mixes/whish_universal-sounds_dl.mp3
+mp3: /music/non_local_mixes/whish_universal-sounds_dl.mp3
 
 ---
 djs:
@@ -1850,105 +1850,105 @@ djs:
   - whish
 name: "Matt Beatz vs. Whish"
 date: 2008-10-30
-mp3: http://417mixcollection.com/music/non_local_mixes/matt-beatz_vs_whish_10-03-08_dl.mp3
+mp3: /music/non_local_mixes/matt-beatz_vs_whish_10-03-08_dl.mp3
 
 ---
 dj: whish
 date: 2005-03-16
-mp3: http://417mixcollection.com/music/non_local_mixes/Whish_3.16_dl.mp3
+mp3: /music/non_local_mixes/Whish_3.16_dl.mp3
 
 ---
 dj: william-stylus
 name: "Spring Mini-Mix 2010"
 date: 2010
 genre: tech-house
-mp3: http://417mixcollection.com/music/local_mixes/just_will_-_spring_mini-mix_2010_dl.mp3
+mp3: /music/local_mixes/just_will_-_spring_mini-mix_2010_dl.mp3
 
 ---
 dj: william-stylus
 event: fresh-mode-2010-10-23
 genre: tech-house
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-10-23_JimmyC-JustWill/FM-10-23-10_Just-Will_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-23_JimmyC-JustWill/FM-10-23-10_Just-Will_dl.mp3
 
 ---
 dj: william-stylus
 name: "Caspa Battle Mix"
-mp3: http://417mixcollection.com/music/local_mixes/WilliamStylus_CaspaBattleMix_dl.mp3
+mp3: /music/local_mixes/WilliamStylus_CaspaBattleMix_dl.mp3
 
 ---
 dj: william-stylus
 name: "Aural Fixation"
-mp3: http://417mixcollection.com/music/local_mixes/WilliamStylus_AuralFixation_dl.mp3
+mp3: /music/local_mixes/WilliamStylus_AuralFixation_dl.mp3
 
 ---
 dj: william-stylus
 name: "Darkest Before Light"
 genre: dnb
 date: 2012
-mp3: http://417mixcollection.com/music/local_mixes/WilliamStylus_DarkestBeforeLight_dl.mp3
+mp3: /music/local_mixes/WilliamStylus_DarkestBeforeLight_dl.mp3
 
 ---
 dj: x-kwizit
 name: "Dedicated to the Progressive House Movement"
 genre: progressive
-mp3: http://417mixcollection.com/music/local_mixes/x-kwizit_dedicated-to-the-proggressive-house-movement_dl.mp3
+mp3: /music/local_mixes/x-kwizit_dedicated-to-the-proggressive-house-movement_dl.mp3
 
 ---
 dj: x-kwizit
 name: "Hypnotika"
 genre: progressive
-mp3: http://417mixcollection.com/music/local_mixes/x-kwizit_hypnotika_dl.mp3
+mp3: /music/local_mixes/x-kwizit_hypnotika_dl.mp3
 
 ---
 dj: x-kwizit
 name: "Process"
 genre: progressive
-mp3: http://417mixcollection.com/music/local_mixes/xkwizit_process_dl.mp3
+mp3: /music/local_mixes/xkwizit_process_dl.mp3
 
 ---
 dj: x-kwizit
 name: "Untitled"
 genre: progressive
-mp3: http://417mixcollection.com/music/local_mixes/xkwizit_untitled_dl.mp3
+mp3: /music/local_mixes/xkwizit_untitled_dl.mp3
 
 ---
 dj: zack-smith
 name: "Mental Floss Vol. 1"
 genre: techno
 date: 2000
-mp3: http://417mixcollection.com/music/local_mixes/zack-smith-mental_floss_v1_dl.mp3
+mp3: /music/local_mixes/zack-smith-mental_floss_v1_dl.mp3
 
 ---
 dj: zack-smith
 name: "Transition"
 genre: techno
 date: 2000
-mp3: http://417mixcollection.com/music/local_mixes/zack-smith_transition_dl.mp3
+mp3: /music/local_mixes/zack-smith_transition_dl.mp3
 
 ---
 dj: zack-smith
 name: "For Masako"
 genre: techno
 date: 2004
-mp3: http://417mixcollection.com/music/local_mixes/Zack-Smith_For-Masako_dl.mp3
+mp3: /music/local_mixes/Zack-Smith_For-Masako_dl.mp3
 
 ---
 dj: zack-smith
 event: chunky-funky-2006
 genre: techno
-mp3: http://417mixcollection.com/music/local_mixes/Zack-Smith_Live-ChunkyFunky_dl.mp3
+mp3: /music/local_mixes/Zack-Smith_Live-ChunkyFunky_dl.mp3
 
 ---
 dj: zack-smith
 event: full-throttle-2003
 genre: techno
-mp3: http://417mixcollection.com/music/local_mixes/Zack-Smith_Live_Full_Throttle_dl.mp3
+mp3: /music/local_mixes/Zack-Smith_Live_Full_Throttle_dl.mp3
 
 ---
 dj: zack-smith
 name: "Afterhours Mix Session"
 genre: techno
-mp3: http://417mixcollection.com/music/local_mixes/Zack_Smith-Afterhours-Mix-Session_dl.mp3
+mp3: /music/local_mixes/Zack_Smith-Afterhours-Mix-Session_dl.mp3
 
 ---
 dj: dj-eze
@@ -2220,7 +2220,7 @@ mp3: http://www.417mixcollection.com/music/local_mixes/lc_move-out_party_dl.mp3
 ---
 event: rave-of-the-living-dead
 dj: empress
-mp3: http://417mixcollection.com/music/shows/128k/empress_live-rave-of-the-living-dead-10-30-10_128k.mp3
+mp3: /music/shows/128k/empress_live-rave-of-the-living-dead-10-30-10_128k.mp3
 
 ---
 event: fresh-mode-2010-11-20
@@ -2253,7 +2253,7 @@ djs:
   - dj-phi
   - dj-spiral
   - scot-free
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2010-12-31_DJPhi_djSpiral_ScotFree/FM-12-31-10_DJ-Phi_dj-Spiral_Scot-Free_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-31_DJPhi_djSpiral_ScotFree/FM-12-31-10_DJ-Phi_dj-Spiral_Scot-Free_dl.mp3
 
 ---
 event: fresh-mode-2011-01-29
@@ -2261,7 +2261,7 @@ djs:
   - jimmy-c
   - lc
   - mike-dileo
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-01-29_JimmyC_LC_Mike_DiLeo/FM-01-29-11_Jimmy-C-LC-Mike-DiLeo_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-29_JimmyC_LC_Mike_DiLeo/FM-01-29-11_Jimmy-C-LC-Mike-DiLeo_dl.mp3
 
 ---
 event: fresh-mode-2011-02-05
@@ -2271,17 +2271,17 @@ mp3: http://www.417mixcollection.com/music/shows/fresh_mode/FM2011-02-05_DJPhi-D
 ---
 event: fresh-mode-2011-07-23
 dj: kindred-groove
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-07-23_FreshMode/2011-07-23_FreshMode_01_KindredGroove_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_FreshMode/2011-07-23_FreshMode_01_KindredGroove_dl.mp3
 
 ---
 event: fresh-mode-2011-07-23
 dj: doohickey
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-07-23_FreshMode/2011-07-23_FreshMode_02_Doohickey_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_FreshMode/2011-07-23_FreshMode_02_Doohickey_dl.mp3
 
 ---
 event: fresh-mode-2011-07-23
 dj: maddcatt
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-07-23_FreshMode/2011-07-23_FreshMode_03_MaddCatt_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_FreshMode/2011-07-23_FreshMode_03_MaddCatt_dl.mp3
 
 ---
 event: fresh-mode-2011-08-06
@@ -2289,18 +2289,18 @@ djs:
   - zack smith
   - miles deem
 name: "Zack Smith vs. Miles Deem"
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-08-06_DJPhi-ZackSmith_JimmyC/FM-8-6-11-Zack_Smith_vs_Jimmy_C.mp3
+mp3: /music/shows/fresh_mode/FM2011-08-06_DJPhi-ZackSmith_JimmyC/FM-8-6-11-Zack_Smith_vs_Jimmy_C.mp3
 
 ---
 event: fresh-mode-2011-08-13
 dj: lc
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-08-13_LC/LC_Live_at_Fresh_Mode-8-13-11_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-08-13_LC/LC_Live_at_Fresh_Mode-8-13-11_dl.mp3
 
 ---
 event: fresh-mode-2011-08-27
 dj: this-guy-that-guy
 name: "Set 1"
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_01_TGTG_Set_1_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_01_TGTG_Set_1_dl.mp3
 
 ---
 event: fresh-mode-2011-08-27
@@ -2308,13 +2308,13 @@ djs:
   - dj-spiral
   - wodie-stylez
 name: "Set 1"
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_02_djSpiralVsWodieStylez_Set_1_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_02_djSpiralVsWodieStylez_Set_1_dl.mp3
 
 ---
 event: fresh-mode-2011-08-27
 dj: this-guy-that-guy
 name: "Set 2"
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_03_TGTG_Set_2_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_03_TGTG_Set_2_dl.mp3
 
 ---
 event: fresh-mode-2011-08-27
@@ -2322,27 +2322,27 @@ djs:
   - dj-spiral
   - wodie-stylez
 name: "Set 2"
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_04_djSpiralVsWodieStylez_Set_2_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_04_djSpiralVsWodieStylez_Set_2_dl.mp3
 
 ---
 event: fresh-mode-2011-10-29
 dj: dj-phi
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/FM2011-10-29_01_DJPhi_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/FM2011-10-29_01_DJPhi_dl.mp3
 
 ---
 event: fresh-mode-2011-10-29
 dj: merl
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/FM2011-10-29_02_DJMerl_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/FM2011-10-29_02_DJMerl_dl.mp3
 
 ---
 event: fresh-mode-2011-10-29
 dj: domewrekka
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/FM2011-10-29_03_Domewrekka_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/FM2011-10-29_03_Domewrekka_dl.mp3
 
 ---
 event: fresh-mode-2011-12-24
 dj: c-martin
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-12-24XmasEve-CaseyMartin_StThomas_Fenomenon/FM2011-12-24_XmasEve_01_CaseyM_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-12-24XmasEve-CaseyMartin_StThomas_Fenomenon/FM2011-12-24_XmasEve_01_CaseyM_dl.mp3
 
 ---
 event: fresh-mode-2011-12-24
@@ -2350,47 +2350,47 @@ djs:
   - this-guy-that-guy
   - st-thomas
   - fenomenon
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-12-24XmasEve-CaseyMartin_StThomas_Fenomenon/FM2011-12-24_XmasEve_02_StThomas_Fenomenon_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-12-24XmasEve-CaseyMartin_StThomas_Fenomenon/FM2011-12-24_XmasEve_02_StThomas_Fenomenon_dl.mp3
 
 ---
 event: fresh-mode-2011-12-31
 dj: dj-phi
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/FM2011-12-31_NYE_01_DJPhi_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/FM2011-12-31_NYE_01_DJPhi_dl.mp3
 
 ---
 event: fresh-mode-2011-12-31
 dj: scot-free
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/FM2011-12-31_NYE_02_ScotFree_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/FM2011-12-31_NYE_02_ScotFree_dl.mp3
 
 ---
 event: fresh-mode-2011-12-31
 dj: ragga-scum
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/FM2011-12-31_NYE_03_RaggaScum_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/FM2011-12-31_NYE_03_RaggaScum_dl.mp3
 
 ---
 event: fresh-mode-2012-01-14
 dj: control-c
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2012-01-14_SickNick_ControlC/FM2011-01-14_01_ControlC_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-01-14_SickNick_ControlC/FM2011-01-14_01_ControlC_dl.mp3
 
 ---
 event: fresh-mode-2012-01-14
 dj: dj-sick-nick
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2012-01-14_SickNick_ControlC/FM2011-01-14_02_SickNick_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-01-14_SickNick_ControlC/FM2011-01-14_02_SickNick_dl.mp3
 
 ---
 event: fresh-mode-2012-02-18
 dj: scot-free
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_01_ScotFree_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_01_ScotFree_dl.mp3
 
 ---
 event: fresh-mode-2012-02-18
 dj: dvs
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_02_DVS_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_02_DVS_dl.mp3
 
 ---
 event: fresh-mode-2012-02-18
 dj: dj-sum1
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_03_DJSum1_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_03_DJSum1_dl.mp3
 
 ---
 event: sextacy-ball-2010-09-11
@@ -2418,12 +2418,12 @@ event: winter-meltdown-2011-01-22
 djs:
   - 6blocc
   - prolific
-mp3: http://417mixcollection.com/music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_04_6Blocc-Prolific_dl.mp3
+mp3: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_04_6Blocc-Prolific_dl.mp3
 
 ---
 event: urban-beats-2011-03-04
 dj: jungle-asylum
-mp3: http://417mixcollection.com/music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_04_JungleAsylum_dl.mp3
+mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_04_JungleAsylum_dl.mp3
 
 ---
 event: urban-beats-2011-03-04
@@ -2431,66 +2431,66 @@ djs:
   - bizar
   - goldenchild
 name: "Bizar vs. Goldenchild"
-mp3: http://417mixcollection.com/music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_05_Bizar-Goldenchild_dl.mp3
+mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_05_Bizar-Goldenchild_dl.mp3
 
 ---
 event: fahrenheit-2011-07-23
 dj: this-guy-that-guy
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_01_TGTG_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_01_TGTG_dl.mp3
 
 ---
 event: fahrenheit-2011-07-23
 dj: c-martin
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_02_CMartin_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_02_CMartin_dl.mp3
 
 ---
 event: fahrenheit-2011-07-23
 dj: ence
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_04_Ence_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_04_Ence_dl.mp3
 
 ---
 event: fahrenheit-2011-07-23
 dj: echozaurora
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_05_EchozAurora_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_05_EchozAurora_dl.mp3
 
 ---
 event: fahrenheit-2011-07-23
 dj: wodie-stylez
-mp3: http://417mixcollection.com/music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_06_WodieStylez_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_06_WodieStylez_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
 dj: ragerrabbit
-mp3: http://417mixcollection.com/music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_01_RagerRabbit_dl.mp3
+mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_01_RagerRabbit_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
 dj: dj-spiral
-mp3: http://417mixcollection.com/music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_02_djSpiral_dl.mp3
+mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_02_djSpiral_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
 dj: missj
-mp3: http://417mixcollection.com/music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_03_MissJ_dl.mp3
+mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_03_MissJ_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
 dj: vic-damone
-mp3: http://417mixcollection.com/music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_04_VicDamone_dl.mp3
+mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_04_VicDamone_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
 dj: kookie
-mp3: http://417mixcollection.com/music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_05_Kookie_dl.mp3
+mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_05_Kookie_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
 dj: dj-andy-b
-mp3: http://417mixcollection.com/music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_06_DJAndyB_dl.mp3
+mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_06_DJAndyB_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
 djs:
   - david-fields
   - beau-lemaster
-mp3: http://417mixcollection.com/music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_07_DavidFieldsVsBeauLeMaster_dl.mp3
+mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_07_DavidFieldsVsBeauLeMaster_dl.mp3
