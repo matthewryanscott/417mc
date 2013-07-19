@@ -26,6 +26,11 @@
     {% else %}
       {% set mp3url = obj.mp3 %}
     {% endif %}
+    {% if obj.mp3high == 'auto' %}
+      {% set mp3highurl = root + 'media/recording/' + obj.slug + '.high.mp3' %}
+    {% else %}
+      {% set mp3highurl = obj.mp3high %}
+    {% endif %}
     <dd>
       <div class="non-mobile">
         <object type="application/x-shockwave-flash" data="{{ static }}player_mp3_maxi.swf" width="200" height="20">
@@ -36,6 +41,11 @@
       <div class="non-mobile">
         <a class="btn" href="{{ mp3url }}"><i class="icon-download"></i> Download</a>
       </div>
+      {% if mp3highurl %}
+        <div class="non-mobile">
+          <a class="btn" href="{{ mp3highurl }}"><i class="icon-download"></i> Download High Quality</a>
+        </div>
+      {% endif %} 
       <div class="mobile hidden">
         <a class="btn" href="{{ mp3url }}"><i class="icon-play"></i> Play</a>
       </div>

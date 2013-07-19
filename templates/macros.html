@@ -134,9 +134,17 @@
           {% else %}
             {% set mp3url = recording.mp3 %}
           {% endif %}
+          {% if recording.mp3high == 'auto' %}
+            {% set mp3highurl = root + 'media/recording/' + recording.slug + '.high.mp3' %}
+          {% else %}
+            {% set mp3highurl = recording.mp3high %}
+          {% endif %}
           <div class="non-mobile">
             <a class="btn btn-mini" href="{{ root }}recording/{{ recording.slug }}.html"><i class="icon-play"></i> Play</a>
             <a class="btn btn-mini" href="{{ mp3url }}"><i class="icon-download"></i> Download</a>
+            {% if mp3highurl %}
+              <a class="btn btn-mini" href="{{ mp3url }}"><i class="icon-download"></i> HQ</a>
+            {% endif %}
           </div>
           <div class="mobile hidden">
             <a class="btn btn-mini" href="{{ mp3url }}"><i class="icon-play"></i></a>
