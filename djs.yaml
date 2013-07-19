@@ -226,7 +226,7 @@ city: springfield-mo
 name: "DVS"
 
 ---
-name: "EchozAurora"
+name: "Echoz Aurora"
 city: springfield-mo
 links:
   - "Facebook": https://www.facebook.com/echozaurora
@@ -581,3 +581,25 @@ name: "Psyntist"
 
 ---
 name: "Zack Wells"
+
+---
+name: "Disorder Crew"
+
+---
+name: "Shay Dizzle"
+links:
+  - "Facebook": https://www.facebook.com/DizzleDnB
+
+---
+name: "Ramsey"
+
+---
+name: "Jason DuB"
+links:
+  - "Facebook": https://www.facebook.com/jasondubmuzik
+
+---
+name: "CBug"
+
+---
+name: "Geeg"

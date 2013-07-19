@@ -192,7 +192,8 @@ djs:
   - bizar
   - eq
 event: fresh-mode-2012-03-17
-mp3: /music/shows/fresh_mode/FM2012-03-17_Bizar_EQ/FM_3-17-2012_Bizar_EQ_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-03-17_Bizar_EQ/FM_3-17-2012_Bizar_EQ_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2012-03-17_Bizar_EQ/FM_3-17-2012_Bizar_EQ_dl.mp3
 
 ---
 dj: brian-best
@@ -309,14 +310,54 @@ dj: c-martin
 name: "Live recording (part 1)"
 event: fresh-mode-2011-04-02
 genre: house
-mp3: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM-04-02-11_C_Martin_Set1_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/128k/FM-04-02-11_C_Martin_Set1_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM-04-02-11_C_Martin_Set1_dl.mp3
 
 ---
 dj: c-martin
 name: "Live recording (part 2)"
 event: fresh-mode-2011-04-02
 genre: house
-mp3: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM-04-02-11_C_Martin_Set2_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/128k/FM-04-02-11_C_Martin_Set2_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM-04-02-11_C_Martin_Set2_dl.mp3
+
+---
+djs:
+  - dj-phi
+  - scot-free
+event: fresh-mode-2011-04-02
+mp3: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/128k/FM-04-02-11_DJ-Phi-Scot-Free_Set1_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM-04-02-11_DJ-Phi-Scot-Free_Set1_dl.mp3
+
+---
+dj: dj-spiral
+name: "Live recording (set 1)"
+event: fresh-mode-2011-04-02
+mp3: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM2011-04-02_03_djSpiral_Set1_192k.mp3
+
+---
+dj: dj-phi
+name: "Live recording (set 2)"
+event: fresh-mode-2011-04-02
+mp3: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM2011-04-02_04_DJPhi_Set2_192k.mp3
+
+---
+dj: scot-free
+name: "Live recording (set 2)"
+event: fresh-mode-2011-04-02
+mp3: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM2011-04-02_05_ScotFree_Set2_192k.mp3
+
+---
+dj: dj-spiral
+name: "Live recording (set 2)"
+event: fresh-mode-2011-04-02
+mp3: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM2011-04-02_07_djSpiral_Set2_192k.mp3
+
+---
+dj: dj-phi
+name: "Live recording (set 3)"
+event: fresh-mode-2011-04-02
+mp3: /music/shows/fresh_mode/FM2011-04-02_DJPhi_ScotFree_CBug_djSpiral/FM2011-04-02_08_DJPhi_Set3_192k.mp3
 
 ---
 dj: chris-adamantium
@@ -393,7 +434,8 @@ mp3: /music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_Co
 dj: colby-price
 event: fresh-mode-2011-01-15
 genre: dubstep
-mp3: /music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/FM-01-15-11_Colby-Price_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/128k/FM-01-15-11_Colby-Price_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/FM-01-15-11_Colby-Price_dl.mp3
 
 ---
 dj: colby-price
@@ -403,7 +445,8 @@ mp3: /music/shows/sextacy_ball_09-11-10/02_ColbyPrice-LIVEatSextacyBall_9-11-10.
 ---
 dj: colby-price
 event: fresh-mode-2012-03-24
-mp3: /music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/FM-03-24-2012_03_colbyprice_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/128k/FM-03-24-2012_03_colbyprice_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/FM-03-24-2012_03_colbyprice_dl.mp3
 
 ---
 djs:
@@ -502,7 +545,8 @@ djs:
 name: "DigiStar vs Bargo"
 event: fresh-mode-2011-02-19
 genre: techno
-mp3: /music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/FM-02-19-11_Digistar-Bargo_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/128k/FM-02-19-11_Digistar-Bargo_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/FM-02-19-11_Digistar-Bargo_dl.mp3
 
 ---
 dj: dj-balance
@@ -602,13 +646,15 @@ mp3: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04
 dj: dj-phi
 event: fresh-mode-2011-01-22
 genre: dnb
-mp3: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-11_DJ-Phi_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/128k/FM-01-22-11_DJ-Phi_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-11_DJ-Phi_dl.mp3
 
 ---
 dj: dj-phi
 event: fresh-mode-2011-02-19
 genre: dnb
-mp3: /music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/FM-02-19-11_DJ-Phi_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/128k/FM-02-19-11_DJ-Phi_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/FM-02-19-11_DJ-Phi_dl.mp3
 
 ---
 dj: dj-reverend-rob
@@ -724,7 +770,8 @@ event: fresh-mode-2011-02-19
 genres:
   - electro
   - tech-house
-mp3: /music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/FM-02-19-11_dj-Spiral_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/128k/FM-02-19-11_dj-Spiral_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-02-19_DJPhi_djSpiral_Digistar_Bargo/FM-02-19-11_dj-Spiral_dl.mp3
 
 ---
 dj: dj-spiral
@@ -732,7 +779,8 @@ event: fresh-mode-2011-03-12
 genres:
   - electro
   - tech-house
-mp3: /music/shows/fresh_mode/FM2011-03-12_Fenomenon/FM-03-12-11_dj-Spiral_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-12_Fenomenon/128k/FM-03-12-11_dj-Spiral_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-03-12_Fenomenon/FM-03-12-11_dj-Spiral_dl.mp3
 
 ---
 djs:
@@ -743,7 +791,8 @@ event: fresh-mode-2011-03-19
 genres:
   - electro
   - techno
-mp3: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Miles-Deem_dj-Spiral_A_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/128k/FM-03-19-11_Miles-Deem_dj-Spiral_A_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Miles-Deem_dj-Spiral_A_dl.mp3
 
 ---
 djs:
@@ -754,7 +803,8 @@ event: fresh-mode-2011-03-19
 genres:
   - electro
   - techno
-mp3: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Miles-Deem_dj-Spiral_B_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/128k/FM-03-19-11_Miles-Deem_dj-Spiral_B_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Miles-Deem_dj-Spiral_B_dl.mp3
 
 ---
 dj: dj-spiral
@@ -778,7 +828,8 @@ mp3: /music/local_mixes/djspiral_vibe5moonboogie_dl.mp3
 ---
 dj: dj-spiral
 event: fresh-mode-2012-03-24
-mp3: /music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/FM-03-24-2012_02_djspiral_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/128k/FM-03-24-2012_02_djspiral_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/FM-03-24-2012_02_djspiral_dl.mp3
 
 ---
 dj: dj-sum1
@@ -832,7 +883,8 @@ djs:
 name: "Doohickey vs. Evolve"
 event: fresh-mode-2011-02-26
 genre: multi-genre
-mp3: /music/shows/fresh_mode/FM2011-02-26_Evolve_Doohickey/FM-02-26-11_Doohickey_Evolve_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-26_Evolve_Doohickey/128k/FM-02-26-11_Doohickey_Evolve_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-02-26_Evolve_Doohickey/FM-02-26-11_Doohickey_Evolve_dl.mp3
 
 ---
 dj: double-helix
@@ -871,26 +923,26 @@ date: 2009
 mp3: /music/local_mixes/double-helix_el-diablo2_dl.mp3
 
 ---
-dj: echozaurora
+dj: echoz-aurora
 name: "Electrofunkygroovesauce"
 genre: electro
 mp3: /music/local_mixes/echoz_aurora-electrofunkygroovesauce_dl.mp3
 
 ---
-dj: echozaurora
+dj: echoz-aurora
 name: "Mashadelic Meltdown"
 genre: electro
 mp3: /music/local_mixes/128k/EchozAurora-Mashadelic-Meltdown_128k.mp3
 mp3high: /music/local_mixes/EchozAurora-Mashadelic-Meltdown_dl.mp3
 
 ---
-dj: echozaurora
+dj: echoz-aurora
 event: fresh-mode-2010-09-04
 genre: electro
 mp3: /music/shows/fresh_mode/FM2010-09-04_EchozAurora/FM-09-04-10_EchozAurora_dl.mp3
 
 ---
-dj: echozaurora
+dj: echoz-aurora
 event: winter-meltdown-2011-01-22
 mp3: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_01_EchozAurora_dl.mp3
 
@@ -970,7 +1022,8 @@ mp3: /music/local_mixes/fenomenon_arcane_angel_dl.mp3
 dj: fenomenon
 event: fresh-mode-2011-03-12
 genre: dnb
-mp3: /music/shows/fresh_mode/FM2011-03-12_Fenomenon/FM-03-12-11_Fenomenon_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-12_Fenomenon/128k/FM-03-12-11_Fenomenon_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-03-12_Fenomenon/FM-03-12-11_Fenomenon_dl.mp3
 
 ---
 dj: francis-rizzudo
@@ -1127,13 +1180,15 @@ mp3: /music/shows/fresh_mode/FM2010-10-23_JimmyC-JustWill/FM-10-23-10_Jimmy-C_dl
 dj: jimmy-c
 event: fresh-mode-2011-01-15
 genre: house
-mp3: /music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/FM-01-15-11_Jimmy-C_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/128k/FM-01-15-11_Jimmy-C_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/FM-01-15-11_Jimmy-C_dl.mp3
 
 ---
 dj: jimmy-c
 event: fresh-mode-2011-01-22
 genre: house
-mp3: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-11_Jimmy-C_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/128k/FM-01-22-11_Jimmy-C_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-11_Jimmy-C_dl.mp3
 
 ---
 dj: kid-nexus
@@ -1338,7 +1393,8 @@ mp3: /music/non_local_mixes/Merl_March_House_Mix_dl.mp3
 dj: merl
 event: fresh-mode-2011-02-05
 genre: dnb
-mp3: /music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/FM-02-05-11_DJ-Merl_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/128k/FM-02-05-11_DJ-Merl_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/FM-02-05-11_DJ-Merl_dl.mp3
 
 ---
 djs:
@@ -1675,12 +1731,14 @@ mp3: /music/shows/fresh_mode/FM2010-10-16_ScotFree-djSpiral/FM-10-16-10_Scot-Fre
 dj: scot-free
 event: fresh-mode-2011-01-15
 genre: dnb
-mp3: /music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/FM-01-15-11_Scot-Free_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/128k/FM-01-15-11_Scot-Free_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-01-15_JimmyC-ScotFree-ColbyPrice/FM-01-15-11_Scot-Free_dl.mp3
 
 ---
 dj: scot-free
 event: fresh-mode-2012-03-24
-mp3: /music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/FM-03-24-2012_01_scotfree_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/128k/FM-03-24-2012_01_scotfree_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2012-03-24_ScotFree_djSpiral_ColbyPrice/FM-03-24-2012_01_scotfree_dl.mp3
 
 ---
 dj: scotty-mac
@@ -1711,7 +1769,8 @@ mp3: /music/non_local_mixes/slant-e-summer-09-dub-downtempo_mix_dl.mp3
 dj: solegroove
 event: fresh-mode-2011-01-22
 genre: house
-mp3: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-11_Solegroove_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/128k/FM-01-22-11_Solegroove_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-11_Solegroove_dl.mp3
 
 ---
 dj: solegroove
@@ -1768,21 +1827,24 @@ mp3: /music/local_mixes/this-guy-that-guy_get-down_dl.mp3
 dj: this-guy-that-guy
 event: fresh-mode-2011-03-12
 genre: dnb
-mp3: /music/shows/fresh_mode/FM2011-03-12_Fenomenon/FM-03-12-11_TGTG_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-12_Fenomenon/128k/FM-03-12-11_TGTG_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-03-12_Fenomenon/FM-03-12-11_TGTG_dl.mp3
 
 ---
 dj: this-guy-that-guy
 event: fresh-mode-2011-03-19
 name: "Live recording (Part 1)"
 genre: dnb
-mp3: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Phi_Scot-Free_A_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/128k/FM-03-19-11_Phi_Scot-Free_A_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Phi_Scot-Free_A_dl.mp3
 
 ---
 dj: this-guy-that-guy
 event: fresh-mode-2011-03-19
 name: "Live Recording (Part 2)"
 genre: dnb
-mp3: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Phi_Scot-Free_B_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/128k/FM-03-19-11_Phi_Scot-Free_B_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-03-19_FMCOLLECTIVE/FM-03-19-11_Phi_Scot-Free_B_dl.mp3
 
 ---
 dj: tj-aether
@@ -1814,7 +1876,8 @@ mp3: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_02_TJAethe
 dj: wes-luker
 event: fresh-mode-2011-02-05
 genre: house
-mp3: /music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/FM-02-05-11_Wes-Luker_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/128k/FM-02-05-11_Wes-Luker_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/FM-02-05-11_Wes-Luker_dl.mp3
 
 ---
 dj: wodie-stylez
@@ -2287,7 +2350,8 @@ djs:
   - dj-phi
   - dj-spiral
   - scot-free
-mp3: /music/shows/fresh_mode/FM2010-12-31_DJPhi_djSpiral_ScotFree/FM-12-31-10_DJ-Phi_dj-Spiral_Scot-Free_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-31_DJPhi_djSpiral_ScotFree/128k/FM-12-31-10_DJ-Phi_dj-Spiral_Scot-Free_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-12-31_DJPhi_djSpiral_ScotFree/FM-12-31-10_DJ-Phi_dj-Spiral_Scot-Free_dl.mp3
 
 ---
 event: fresh-mode-2011-01-29
@@ -2295,27 +2359,32 @@ djs:
   - jimmy-c
   - lc
   - mike-dileo
-mp3: /music/shows/fresh_mode/FM2011-01-29_JimmyC_LC_Mike_DiLeo/FM-01-29-11_Jimmy-C-LC-Mike-DiLeo_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-01-29_JimmyC_LC_Mike_DiLeo/128k/FM-01-29-11_Jimmy-C-LC-Mike-DiLeo_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-01-29_JimmyC_LC_Mike_DiLeo/FM-01-29-11_Jimmy-C-LC-Mike-DiLeo_dl.mp3
 
 ---
 event: fresh-mode-2011-02-05
 dj: dj-phi
-mp3: /music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/FM-02-05-11_DJ-Phi_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/128k/FM-02-05-11_DJ-Phi_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-02-05_DJPhi-DJMerl-WesLuker/FM-02-05-11_DJ-Phi_dl.mp3
 
 ---
 event: fresh-mode-2011-07-23
 dj: kindred-groove
-mp3: /music/shows/fresh_mode/FM2011-07-23_FreshMode/2011-07-23_FreshMode_01_KindredGroove_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_FreshMode/128k/2011-07-23_FreshMode_01_KindredGroove_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-07-23_FreshMode/2011-07-23_FreshMode_01_KindredGroove_dl.mp3
 
 ---
 event: fresh-mode-2011-07-23
 dj: doohickey
-mp3: /music/shows/fresh_mode/FM2011-07-23_FreshMode/2011-07-23_FreshMode_02_Doohickey_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_FreshMode/128k/2011-07-23_FreshMode_02_Doohickey_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-07-23_FreshMode/2011-07-23_FreshMode_02_Doohickey_dl.mp3
 
 ---
 event: fresh-mode-2011-07-23
 dj: maddcatt
-mp3: /music/shows/fresh_mode/FM2011-07-23_FreshMode/2011-07-23_FreshMode_03_MaddCatt_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_FreshMode/128k/2011-07-23_FreshMode_03_MaddCatt_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-07-23_FreshMode/2011-07-23_FreshMode_03_MaddCatt_dl.mp3
 
 ---
 event: fresh-mode-2011-08-06
@@ -2323,7 +2392,7 @@ djs:
   - zack smith
   - miles deem
 name: "Zack Smith vs. Miles Deem"
-mp3: /music/shows/fresh_mode/FM2011-08-06_DJPhi-ZackSmith_JimmyC/FM-8-6-11-Zack_Smith_vs_Jimmy_C.mp3
+mp3: /music/shows/fresh_mode/FM2011-08-06_DJPhi-ZackSmith_JimmyC/FM-8-6-11-ZackSmith_vs_JimmyC.mp3
 
 ---
 event: fresh-mode-2011-08-13
@@ -2334,7 +2403,8 @@ mp3: /music/shows/fresh_mode/FM2011-08-13_LC/LC_Live_at_Fresh_Mode-8-13-11_dl.mp
 event: fresh-mode-2011-08-27
 dj: this-guy-that-guy
 name: "Set 1"
-mp3: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_01_TGTG_Set_1_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/128k/FM2011-08-27_01_TGTG_Set_1_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_01_TGTG_Set_1_dl.mp3
 
 ---
 event: fresh-mode-2011-08-27
@@ -2342,13 +2412,15 @@ djs:
   - dj-spiral
   - wodie-stylez
 name: "Set 1"
-mp3: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_02_djSpiralVsWodieStylez_Set_1_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/128k/FM2011-08-27_02_djSpiralVsWodieStylez_Set_1_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_02_djSpiralVsWodieStylez_Set_1_dl.mp3
 
 ---
 event: fresh-mode-2011-08-27
 dj: this-guy-that-guy
 name: "Set 2"
-mp3: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_03_TGTG_Set_2_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/128k/FM2011-08-27_03_TGTG_Set_2_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_03_TGTG_Set_2_dl.mp3
 
 ---
 event: fresh-mode-2011-08-27
@@ -2356,27 +2428,32 @@ djs:
   - dj-spiral
   - wodie-stylez
 name: "Set 2"
-mp3: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_04_djSpiralVsWodieStylez_Set_2_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/128k/FM2011-08-27_04_djSpiralVsWodieStylez_Set_2_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-08-27_SpiralVsWodie_ThisGuyVsThatGuy/FM2011-08-27_04_djSpiralVsWodieStylez_Set_2_dl.mp3
 
 ---
 event: fresh-mode-2011-10-29
 dj: dj-phi
-mp3: /music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/FM2011-10-29_01_DJPhi_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/128k/FM2011-10-29_01_DJPhi_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/FM2011-10-29_01_DJPhi_dl.mp3
 
 ---
 event: fresh-mode-2011-10-29
 dj: merl
-mp3: /music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/FM2011-10-29_02_DJMerl_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/128k/FM2011-10-29_02_DJMerl_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/FM2011-10-29_02_DJMerl_dl.mp3
 
 ---
 event: fresh-mode-2011-10-29
 dj: domewrekka
-mp3: /music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/FM2011-10-29_03_Domewrekka_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/128k/FM2011-10-29_03_Domewrekka_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-10-29_DJPhi_DJMerl_Domewrekka/FM2011-10-29_03_Domewrekka_dl.mp3
 
 ---
 event: fresh-mode-2011-12-24
 dj: c-martin
-mp3: /music/shows/fresh_mode/FM2011-12-24XmasEve-CaseyMartin_StThomas_Fenomenon/FM2011-12-24_XmasEve_01_CaseyM_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-12-24XmasEve-CaseyMartin_StThomas_Fenomenon/128k/FM2011-12-24_XmasEve_01_CaseyM_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-12-24XmasEve-CaseyMartin_StThomas_Fenomenon/FM2011-12-24_XmasEve_01_CaseyM_dl.mp3
 
 ---
 event: fresh-mode-2011-12-24
@@ -2384,22 +2461,26 @@ djs:
   - this-guy-that-guy
   - st-thomas
   - fenomenon
-mp3: /music/shows/fresh_mode/FM2011-12-24XmasEve-CaseyMartin_StThomas_Fenomenon/FM2011-12-24_XmasEve_02_StThomas_Fenomenon_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-12-24XmasEve-CaseyMartin_StThomas_Fenomenon/128k/FM2011-12-24_XmasEve_02_StThomas_Fenomenon_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-12-24XmasEve-CaseyMartin_StThomas_Fenomenon/FM2011-12-24_XmasEve_02_StThomas_Fenomenon_dl.mp3
 
 ---
 event: fresh-mode-2011-12-31
 dj: dj-phi
-mp3: /music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/FM2011-12-31_NYE_01_DJPhi_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/128k/FM2011-12-31_NYE_01_DJPhi_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/FM2011-12-31_NYE_01_DJPhi_dl.mp3
 
 ---
 event: fresh-mode-2011-12-31
 dj: scot-free
-mp3: /music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/FM2011-12-31_NYE_02_ScotFree_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/128k/FM2011-12-31_NYE_02_ScotFree_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/FM2011-12-31_NYE_02_ScotFree_dl.mp3
 
 ---
 event: fresh-mode-2011-12-31
 dj: ragga-scum
-mp3: /music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/FM2011-12-31_NYE_03_RaggaScum_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/128k/FM2011-12-31_NYE_03_RaggaScum_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-12-31_NYE_ScotFree_RaggaScum/FM2011-12-31_NYE_03_RaggaScum_dl.mp3
 
 ---
 event: fresh-mode-2012-01-14
@@ -2414,17 +2495,20 @@ mp3: /music/shows/fresh_mode/FM2012-01-14_SickNick_ControlC/FM2011-01-14_02_Sick
 ---
 event: fresh-mode-2012-02-18
 dj: scot-free
-mp3: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_01_ScotFree_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/128k/FM2012-02-18_01_ScotFree_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_01_ScotFree_dl.mp3
 
 ---
 event: fresh-mode-2012-02-18
 dj: dvs
-mp3: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_02_DVS_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/128k/FM2012-02-18_02_DVS_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_02_DVS_dl.mp3
 
 ---
 event: fresh-mode-2012-02-18
 dj: dj-sum1
-mp3: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_03_DJSum1_dl.mp3
+mp3: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/128k/FM2012-02-18_03_DJSum1_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2012-02-18_ScotFree_DVS_DJSum1/FM2012-02-18_03_DJSum1_dl.mp3
 
 ---
 event: sextacy-ball-2010-09-11
@@ -2470,27 +2554,38 @@ mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_05_Bizar-Goldenchi
 ---
 event: fahrenheit-2011-07-23
 dj: this-guy-that-guy
-mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_01_TGTG_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/128k/2011-07-23_Fahrenheit_01_TGTG_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_01_TGTG_dl.mp3
 
 ---
 event: fahrenheit-2011-07-23
 dj: c-martin
-mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_02_CMartin_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/128k/2011-07-23_Fahrenheit_02_CMartin_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_02_CMartin_dl.mp3
+
+---
+event: fahrenheit-2011-07-23
+dj: dj-spiral
+mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/128k/2011-07-23_Fahrenheit_03_djSpiral_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_03_djSpiral_dl.mp3
 
 ---
 event: fahrenheit-2011-07-23
 dj: ence
-mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_04_Ence_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/128k/2011-07-23_Fahrenheit_04_Ence_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_04_Ence_dl.mp3
 
 ---
 event: fahrenheit-2011-07-23
-dj: echozaurora
-mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_05_EchozAurora_dl.mp3
+dj: echoz-aurora
+mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/128k/2011-07-23_Fahrenheit_05_EchozAurora_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_05_EchozAurora_dl.mp3
 
 ---
 event: fahrenheit-2011-07-23
 dj: wodie-stylez
-mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_06_WodieStylez_dl.mp3
+mp3: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/128k/2011-07-23_Fahrenheit_06_WodieStylez_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_06_WodieStylez_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
@@ -2566,14 +2661,12 @@ mp3high: /music/local_mixes/WilliamStylus_BASSyourFACE2011Mini-Mix_dl.mp3
 ---
 dj: this-guy-that-guy
 event: summer-scratch-2010-07-24
-date: 2010-07-24
 mp3: /music/shows/summerscratch/128k/SummerScratch_01_TGTG_128k.mp3
 mp3high: /music/shows/summerscratch/SummerScratch_01_TGTG_dl.mp3
 
 ---
 dj: double-helix
 event: summer-scratch-2010-07-24
-date: 2010-07-24
 mp3: /music/shows/summerscratch/128k/SummerScratch_03_DoubleHelix_128k.mp3
 mp3high: /music/shows/summerscratch/SummerScratch_03_DoubleHelix_dl.mp3
 
@@ -2582,7 +2675,6 @@ djs:
   - plunkie
   - dj-hayze
 event: summer-scratch-2010-07-24
-date: 2010-07-24
 genre: dubstep
 mp3: /music/shows/summerscratch/128k/SummerScratch_02_Punkie-Vs-DjHayze_128k.mp3
 mp3high: /music/shows/summerscratch/SummerScratch_02_Punkie-Vs-DjHayze_dl.mp3
@@ -2590,7 +2682,6 @@ mp3high: /music/shows/summerscratch/SummerScratch_02_Punkie-Vs-DjHayze_dl.mp3
 ---
 dj: walts
 event: summer-scratch-2010-07-24
-date: 2010-07-24
 mp3: /music/shows/summerscratch/128k/SummerScratch_04_WALTS_128k.mp3
 mp3high: /music/shows/summerscratch/SummerScratch_04_WALTS_dl.mp3
 
@@ -2599,7 +2690,6 @@ djs:
   - mick-swayze
   - bizar
 event: summer-scratch-2010-07-24
-date: 2010-07-24
 mp3: /music/shows/summerscratch/128k/SummerScratch_05_MickSwayze-Bizar_128k.mp3
 mp3high: /music/shows/summerscratch/SummerScratch_05_MickSwayze-Bizar_dl.mp3
 
@@ -2608,6 +2698,95 @@ djs:
   - psyntist
   - zack-wells
 event: summer-scratch-2010-07-24
-date: 2010-07-24
 mp3: /music/shows/summerscratch/128k/SummerScratch_06_Psyntist-ZackWells_128k.mp3
 mp3high: /music/shows/summerscratch/SummerScratch_06_Psyntist-ZackWells_dl.mp3
+
+---
+dj: this-guy-that-guy
+event: fresh-mode-2012-04-21
+mp3: /music/shows/fresh_mode/FM2012-04-21_TGTG_DisorderCrew/FM2012-04-21_01_TGTG_320k.mp3
+
+---
+dj: disorder-crew
+event: fresh-mode-2012-04-21
+mp3: /music/shows/fresh_mode/FM2012-04-21_TGTG_DisorderCrew/FM2012-04-21_02_Disorder_Crew_dl.mp3
+
+---
+dj: c-martin
+event: fresh-mode-2012-04-07
+mp3: /music/shows/fresh_mode/FM2012-04-07_CBug_ShayDizzle/128k/FM_4-7-12_C_Martin_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2012-04-07_CBug_ShayDizzle/FM_4-7-12_C_Martin_dl.mp3
+
+---
+dj: shay-dizzle
+event: fresh-mode-2012-04-07
+mp3: /music/shows/fresh_mode/FM2012-04-07_CBug_ShayDizzle/128k/FM_4-7-12_Shay_Dizzle_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2012-04-07_CBug_ShayDizzle/FM_4-7-12_Shay_Dizzle_dl.mp3
+
+---
+dj: dj-phi
+event: fresh-mode-2012-03-31
+mp3: /music/shows/fresh_mode/FM2012-03-31_DJPhi_DVS_Ence/FM_3-31-12_01_DJ_Phi.mp3
+
+---
+dj: dvs
+event: fresh-mode-2012-03-31
+mp3: /music/shows/fresh_mode/FM2012-03-31_DJPhi_DVS_Ence/FM_3-31-12_02_DVS.mp3
+
+---
+dj: ence
+event: fresh-mode-2012-03-31
+mp3: /music/shows/fresh_mode/FM2012-03-31_DJPhi_DVS_Ence/FM_3-31-12_03_ence.mp3
+
+---
+dj: dj-phi
+event: fresh-mode-2012-02-04
+mp3: /music/shows/fresh_mode/FM2012-02-04_Rasmey-JasonDub/128k/FM2012-02-04_01_DJPhi_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2012-02-04_Rasmey-JasonDub/FM2012-02-04_01_DJPhi_dl.mp3
+
+---
+dj: jason-dub
+event: fresh-mode-2012-02-04
+mp3: /music/shows/fresh_mode/FM2012-02-04_Rasmey-JasonDub/128k/FM2012-02-04_02_JasonDub_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2012-02-04_Rasmey-JasonDub/FM2012-02-04_02_JasonDub_dl.mp3
+
+---
+dj: ramsey
+event: fresh-mode-2012-02-04
+mp3: /music/shows/fresh_mode/FM2012-02-04_Rasmey-JasonDub/128k/FM2012-02-04_03_Rasmey_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2012-02-04_Rasmey-JasonDub/FM2012-02-04_03_Rasmey_dl.mp3
+
+---
+dj: cbug
+event: fresh-mode-2012-01-28
+mp3: /music/shows/fresh_mode/FM2012-01-28_cbug_geeg/FM2012-01-28_01_CBug_dl.mp3
+
+---
+dj: geeg
+event: fresh-mode-2012-01-28
+mp3: /music/shows/fresh_mode/FM2012-01-28_cbug_geeg/FM2012-01-28_02_Geeg_dl.mp3
+
+---
+dj: echoz-aurora
+event: fresh-mode-2011-07-09
+mp3: /music/shows/fresh_mode/FM2011-07-09_EchozAurora/FM-07-09-11_EchozAurora_dl.mp3
+
+---
+dj: miles-deem
+event: fresh-mode-2011-03-26
+mp3: /music/shows/fresh_mode/FM2011-03-26_FMCOLLECTIVE_SHAGEE/FM_3-26-11_MilesDeem.mp3
+
+---
+dj: shagee
+event: fresh-mode-2011-03-26
+mp3: /music/shows/fresh_mode/FM2011-03-26_FMCOLLECTIVE_SHAGEE/FM_3-26-11_Shagee.mp3
+
+---
+dj: dj-spiral
+event: fresh-mode-2011-03-26
+mp3: /music/shows/fresh_mode/FM2011-03-26_FMCOLLECTIVE_SHAGEE/FM_3-26-11_Spiral.mp3
+
+---
+dj: this-guy-that-guy
+event: fresh-mode-2011-03-26
+mp3: /music/shows/fresh_mode/FM2011-03-26_FMCOLLECTIVE_SHAGEE/FM_3-26-11_TGTG.mp3
