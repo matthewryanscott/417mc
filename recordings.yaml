@@ -39,7 +39,8 @@ mp3high: /music/local_mixes/agent_traxxident-you_were-there-once_dl.mp3
 dj: agent-traxxident
 event: fresh-mode-2010-10-02
 genre: mashup
-mp3: /music/shows/fresh_mode/FM2010-10-02_JimmyC-AgentTraxxident/FM-10-02-10_Agent-Traxxident_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-02_JimmyC-AgentTraxxident/128k/FM-10-02-10_Agent-Traxxident_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-10-02_JimmyC-AgentTraxxident/FM-10-02-10_Agent-Traxxident_dl.mp3
 
 ---
 dj: andrew-boie
@@ -105,7 +106,8 @@ dj: atreus
 event: winter-meltdown-2011-01-22
 date: 2011-01-22
 genre: dubstep
-mp3: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_03_Atreus_dl.mp3
+mp3: /music/shows/WinterMeltdown_2011-01-21/128k/2011-01-21_WinterMeltdown_03_Atreus_128k.mp3
+mp3high: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_03_Atreus_dl.mp3
 
 ---
 dj: atreus
@@ -174,7 +176,8 @@ mp3: /music/non_local_mixes/Bizar_Heavy_Brotation_Vol1_dl.mp3
 dj: bizar
 event: fresh-mode-2010-10-09
 genre: mashup
-mp3: /music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/FM-10-09-10_Bizar_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/128k/FM-10-09-10_Bizar_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/FM-10-09-10_Bizar_dl.mp3
 
 ---
 dj: bizar
@@ -185,7 +188,8 @@ mp3: /music/non_local_mixes/Bizar-Arkansacolypse-January2011PromoMix.mp3
 ---
 dj: bizar
 event: urban-beats-2011-03-04
-mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_01_Bizar_dl.mp3
+mp3: /music/shows/2011-03-04_UrbanBeats/128k/2011-03-04_UrbanBeats_01_Bizar_128k.mp3
+mp3high: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_01_Bizar_dl.mp3
 
 ---
 djs:
@@ -396,19 +400,22 @@ event: fresh-mode-2010-09-25
 genres:
   - tech-house
   - electro
-mp3: /music/shows/fresh_mode/FM2010-09-25_JimmyC-ChrisClose/FM-09-25-10_chris-close_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-09-25_JimmyC-ChrisClose/128k/FM-09-25-10_chris-close_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-09-25_JimmyC-ChrisClose/FM-09-25-10_chris-close_dl.mp3
 
 ---
 dj: cidlix
 event: fresh-mode-2010-08-07
 genre: dubstep
-mp3: /music/shows/fresh_mode/FM2010-08-07_CidLix/FM-08-07-10_CidLix_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-08-07_CidLix/128k/FM-08-07-10_CidLix_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-08-07_CidLix/FM-08-07-10_CidLix_dl.mp3
 
 ---
 dj: cidlix
 event: urban-beats-2011-03-04
 genre: dubstep
-mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_03_CidLix_dl.mp3
+mp3: /music/shows/2011-03-04_UrbanBeats/128k/2011-03-04_UrbanBeats_03_CidLix_128k.mp3
+mp3high: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_03_CidLix_dl.mp3
 
 ---
 dj: colby-price
@@ -536,7 +543,8 @@ mp3: /music/local_mixes/kichen_year-end-session2008_dl.mp3
 dj: digital-love
 event: urban-beats-2011-03-04
 genre: dubstep
-mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_06_DigitalLove_dl.mp3
+mp3: /music/shows/2011-03-04_UrbanBeats/128k/2011-03-04_UrbanBeats_06_DigitalLove_128k.mp3
+mp3high: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_06_DigitalLove_dl.mp3
 
 ---
 djs:
@@ -640,7 +648,8 @@ mp3: /music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_DJ
 dj: dj-phi
 event: fresh-mode-2010-12-04
 genre: dnb
-mp3: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04-10_DJ-Phi_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/128k/FM-12-04-10_DJ-Phi_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04-10_DJ-Phi_dl.mp3
 
 ---
 dj: dj-phi
@@ -762,7 +771,8 @@ event: fresh-mode-2010-10-16
 genres:
   - electro
   - tech-house
-mp3: /music/shows/fresh_mode/FM2010-10-16_ScotFree-djSpiral/FM-10-16-10_dj-Spiral_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-16_ScotFree-djSpiral/128k/FM-10-16-10_dj-Spiral_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-10-16_ScotFree-djSpiral/FM-10-16-10_dj-Spiral_dl.mp3
 
 ---
 dj: dj-spiral
@@ -843,7 +853,8 @@ mp3high: /music/local_mixes/Dj-Sum1_Frost-MiniMix_dl.mp3
 dj: dj-sum1
 event: fresh-mode-2010-11-20
 genre: trance
-mp3: /music/shows/fresh_mode/FM2010-11-20_DJSum1_MultiDJTag/FM-11-20-10_DJ-Sum1_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-11-20_DJSum1_MultiDJTag/128k/FM-11-20-10_DJ-Sum1_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-11-20_DJSum1_MultiDJTag/FM-11-20-10_DJ-Sum1_dl.mp3
 
 ---
 dj: dj-wycon
@@ -856,7 +867,14 @@ mp3: /music/local_mixes/dj-wycon_the-w_dl.mp3
 dj: dj-wycon
 event: fresh-mode-2010-12-11
 genre: dnb
-mp3: /music/shows/fresh_mode/FM2010-12-11_DJWycon/FM-12-11-10_DJ-Wycon_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-11_DJWycon/128k/FM-12-11-10_DJ-Wycon_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-12-11_DJWycon/FM-12-11-10_DJ-Wycon_dl.mp3
+
+---
+dj: dj-phi
+event: fresh-mode-2010-12-11
+mp3: /music/shows/fresh_mode/FM2010-12-11_DJWycon/128k/FM-12-11-10_DJ-Phi_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-12-11_DJWycon/FM-12-11-10_DJ-Phi_dl.mp3
 
 ---
 dj: dj-wysh
@@ -939,12 +957,14 @@ mp3high: /music/local_mixes/EchozAurora-Mashadelic-Meltdown_dl.mp3
 dj: echoz-aurora
 event: fresh-mode-2010-09-04
 genre: electro
-mp3: /music/shows/fresh_mode/FM2010-09-04_EchozAurora/FM-09-04-10_EchozAurora_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-09-04_EchozAurora/128k/FM-09-04-10_EchozAurora_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-09-04_EchozAurora/FM-09-04-10_EchozAurora_dl.mp3
 
 ---
 dj: echoz-aurora
 event: winter-meltdown-2011-01-22
-mp3: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_01_EchozAurora_dl.mp3
+mp3: /music/shows/WinterMeltdown_2011-01-21/128k/2011-01-21_WinterMeltdown_01_EchozAurora_128k.mp3
+mp3high: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_01_EchozAurora_dl.mp3
 
 ---
 dj: ence
@@ -965,7 +985,8 @@ djs:
 name: "Ence vs. Solegroove"
 event: fractured-2011-01-19
 genre: house
-mp3: /music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/Fractured2011-01-19_03_Solegroove-Vs-Ence_dl.mp3
+mp3: /music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/128k/Fractured2011-01-19_03_Solegroove-Vs-Ence_128k.mp3
+mp3high: /music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/Fractured2011-01-19_03_Solegroove-Vs-Ence_dl.mp3
 
 ---
 dj: eq
@@ -973,7 +994,8 @@ event: fresh-mode-2010-10-09
 genres:
   - tech-house
   - electro
-mp3: /music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/FM-10-09-10_EQ_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/128k/FM-10-09-10_EQ_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/FM-10-09-10_EQ_dl.mp3
 
 ---
 dj: fenomenon
@@ -1054,7 +1076,8 @@ mp3: /music/local_mixes/goldenchild_Mental-Floss2001_dl.mp3
 dj: gozu-lamonde
 event: fresh-mode-2010-12-04
 genre: techno
-mp3: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04-10_Gozu-Lamonde_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/128k/FM-12-04-10_Gozu-Lamonde_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04-10_Gozu-Lamonde_dl.mp3
 
 ---
 dj: ironix
@@ -1134,7 +1157,8 @@ djs:
   - lc
 event: sumo-2006-03-11
 genre: house
-mp3: /music/shows/Jimmy-C-LC-Live-Sumo-03_11_06_dl.mp3
+mp3: /music/shows/128k/Jimmy-C-LC-Live-Sumo-03_11_06_128k.mp3
+mp3high: /music/shows/Jimmy-C-LC-Live-Sumo-03_11_06_dl.mp3
 
 ---
 dj: jimmy-c
@@ -1162,19 +1186,22 @@ mp3: /music/shows/fresh_mode/FM2010-09-18_JimmyC-DJPhi-ColbyPrice/FM-09-18-10_Ji
 dj: jimmy-c
 event: fresh-mode-2010-09-25
 genre: house
-mp3: /music/shows/fresh_mode/FM2010-09-25_JimmyC-ChrisClose/FM-09-25-10_jimmy-c_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-09-25_JimmyC-ChrisClose/128k/FM-09-25-10_jimmy-c_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-09-25_JimmyC-ChrisClose/FM-09-25-10_jimmy-c_dl.mp3
 
 ---
 dj: jimmy-c
 event: fresh-mode-2010-10-02
 genre: house
-mp3: /music/shows/fresh_mode/FM2010-10-02_JimmyC-AgentTraxxident/FM-10-02-10_Jimmy-C_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-02_JimmyC-AgentTraxxident/128k/FM-10-02-10_Jimmy-C_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-10-02_JimmyC-AgentTraxxident/FM-10-02-10_Jimmy-C_dl.mp3
 
 ---
 dj: jimmy-c
 event: fresh-mode-2010-10-23
 genre: house
-mp3: /music/shows/fresh_mode/FM2010-10-23_JimmyC-JustWill/FM-10-23-10_Jimmy-C_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-23_JimmyC-JustWill/128k/FM-10-23-10_Jimmy-C_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-10-23_JimmyC-JustWill/FM-10-23-10_Jimmy-C_dl.mp3
 
 ---
 dj: jimmy-c
@@ -1331,14 +1358,16 @@ event: fresh-mode-2010-12-25
 genres:
   - psytrance
   - ebm
-mp3: /music/shows/fresh_mode/FM2010-12-25_JimmyC_Malkontent_Mick-Vs-TGTG/FM-12-25-10_Malkontent_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-25_JimmyC_Malkontent_Mick-Vs-TGTG/128k/FM-12-25-10_Malkontent_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-12-25_JimmyC_Malkontent_Mick-Vs-TGTG/FM-12-25-10_Malkontent_dl.mp3
 
 ---
 dj: malkontent
 name: "Pale Vs. Ale"
 event: fractured-2010-10-27
 genre: psytrance
-mp3: /music/shows/fractured/fractured2010-10-27_TJAether-SoleGroove_PaleVsAle/Fractured2010-10-27_02_Pale-Vs-Ale_dl.mp3
+mp3: /music/shows/fractured/fractured2010-10-27_TJAether-SoleGroove_PaleVsAle/128k/Fractured2010-10-27_02_Pale-Vs-Ale_128k.mp3
+mp3high: /music/shows/fractured/fractured2010-10-27_TJAether-SoleGroove_PaleVsAle/Fractured2010-10-27_02_Pale-Vs-Ale_dl.mp3
 
 ---
 dj: malware
@@ -1475,7 +1504,8 @@ djs:
   - mc-precision
 name: "DJ Nero & MC Precision LIVE"
 event: urban-beats-2011-03-04
-mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_02_DJNero-MCPrecision_dl.mp3
+mp3: /music/shows/2011-03-04_UrbanBeats/128k/2011-03-04_UrbanBeats_02_DJNero-MCPrecision_128k.mp3
+mp3high: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_02_DJNero-MCPrecision_dl.mp3
 
 ---
 dj: opmode
@@ -1493,7 +1523,8 @@ mp3: /music/non_local_mixes/opmode_pt2_last-4-ever_dl.mp3
 dj: opmode
 event: fresh-mode-2010-10-09
 genre: tech-house
-mp3: /music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/FM-10-09-10_OpMode_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/128k/FM-10-09-10_OpMode_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-10-09_Bizar-EQ-OpMode/FM-10-09-10_OpMode_dl.mp3
 
 ---
 dj: pat-nice
@@ -1725,7 +1756,8 @@ mp3: /music/local_mixes/scot_free_leet_radio_promo_dl.mp3
 dj: scot-free
 event: fresh-mode-2010-10-16
 genre: dnb
-mp3: /music/shows/fresh_mode/FM2010-10-16_ScotFree-djSpiral/FM-10-16-10_Scot-Free_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-16_ScotFree-djSpiral/128k/FM-10-16-10_Scot-Free_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-10-16_ScotFree-djSpiral/FM-10-16-10_Scot-Free_dl.mp3
 
 ---
 dj: scot-free
@@ -1776,7 +1808,8 @@ mp3high: /music/shows/fresh_mode/FM2011-01-22_JimmyC-DJPhi-Solegroove/FM-01-22-1
 dj: solegroove
 event: fractured-2011-01-19
 genre: house
-mp3: /music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/Fractured2011-01-19_01_Solegroove_dl.mp3
+mp3: /music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/128k/Fractured2011-01-19_01_Solegroove_128k.mp3
+mp3high: /music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/Fractured2011-01-19_01_Solegroove_dl.mp3
 
 ---
 dj: sqyttles
@@ -1857,12 +1890,14 @@ djs:
   - solegroove
 event: fractured-2010-10-27
 name: "TJ AEther vs. Solegroove"
-mp3: /music/shows/fractured/fractured2010-10-27_TJAether-SoleGroove_PaleVsAle/Fractured2010-10-27_01_TJAether-Solegroove_dl.mp3
+mp3: /music/shows/fractured/fractured2010-10-27_TJAether-SoleGroove_PaleVsAle/128k/Fractured2010-10-27_01_TJAether-Solegroove_128k.mp3
+mp3high: /music/shows/fractured/fractured2010-10-27_TJAether-SoleGroove_PaleVsAle/Fractured2010-10-27_01_TJAether-Solegroove_dl.mp3
 
 ---
 dj: tj-aether
 event: fractured-2011-01-19
-mp3: /music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/Fractured2011-01-19_02_TJAether_dl.mp3
+mp3: /music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/128k/Fractured2011-01-19_02_TJAether_128k.mp3
+mp3high: /music/shows/fractured/fractured2011-01-19_Solegroove-TJAether-Ence/Fractured2011-01-19_02_TJAether_dl.mp3
 
 ---
 djs:
@@ -1870,7 +1905,8 @@ djs:
   - plunkie
 event: winter-meltdown-2011-01-22
 name: "TJ AEther vs. DJ Plunkie"
-mp3: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_02_TJAether-Vs-DJPlunkie_dl.mp3
+mp3: /music/shows/WinterMeltdown_2011-01-21/128k/2011-01-21_WinterMeltdown_02_TJAether-Vs-DJPlunkie_128k.mp3
+mp3high: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_02_TJAether-Vs-DJPlunkie_dl.mp3
 
 ---
 dj: wes-luker
@@ -1958,7 +1994,8 @@ mp3: /music/local_mixes/just_will_-_spring_mini-mix_2010_dl.mp3
 dj: william-stylus
 event: fresh-mode-2010-10-23
 genre: tech-house
-mp3: /music/shows/fresh_mode/FM2010-10-23_JimmyC-JustWill/FM-10-23-10_Just-Will_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-10-23_JimmyC-JustWill/128k/FM-10-23-10_Just-Will_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-10-23_JimmyC-JustWill/FM-10-23-10_Just-Will_dl.mp3
 
 ---
 dj: william-stylus
@@ -2220,56 +2257,64 @@ mp3: /music/local_mixes/the-preacher_vol1_dl.mp3
 event: the-last-flight-2002-07-27
 # TODO: djs
 # TODO: genres
-mp3: /music/shows/afterhours_final_flight_2002_dl.mp3
+mp3: /music/shows/128k/afterhours_final_flight_2002_128k.mp3
+mp3high: /music/shows/afterhours_final_flight_2002_dl.mp3
 
 ---
 event: frost-2002-12-07
 # TODO: djs
 # TODO: genres
-mp3: /music/shows/frost_12-7-2002_dl.mp3
+mp3: /music/shows/128k/frost_12-7-2002_128k.mp3
+mp3high: /music/shows/frost_12-7-2002_dl.mp3
 
 ---
 event: purple-2003-03-22
 # TODO: djs
 # TODO: genres
-mp3: /music/shows/purple_3-22-03_dl.mp3
+mp3: /music/shows/128k/purple_3-22-03_128k.mp3
+mp3high: /music/shows/purple_3-22-03_dl.mp3
 
 ---
 event: defender-2005-05-31
 # TODO: djs
 # TODO: genres
-mp3: /music/shows/defender_5.31.05_dl.mp3
+mp3: /music/shows/128k/defender_5.31.05_128k.mp3
+mp3high: /music/shows/defender_5.31.05_dl.mp3
 
 ---
 event: afterburn-2008-07-04
 # TODO: djs
 # TODO: genres
-mp3: /music/shows/afterburn_july_4_08_house_party_dl.mp3
+mp3: /music/shows/128k/afterburn_july_4_08_house_party_128k.mp3
+mp3high: /music/shows/afterburn_july_4_08_house_party_dl.mp3
 
 ---
 event: gut-check-2009-03-07
 # TODO: djs
 # TODO: genres
-mp3: /music/shows/gut_check_3-7-09_dl.mp3
+mp3: /music/shows/128k/gut_check_3-7-09_128k.mp3
+mp3high: /music/shows/gut_check_3-7-09_dl.mp3
 
 ---
 event: intelements-2009-03-21
 # TODO: djs
 # TODO: genres
-mp3: /music/shows/intelements_3-21-2009_dl.mp3
+mp3: /music/shows/128k/intelements_3-21-2009_128k.mp3
+mp3high: /music/shows/intelements_3-21-2009_dl.mp3
 
 ---
 event: cusp-2009-06-21
 # TODO: djs
 # TODO: genres
-mp3: /music/shows/cusp_128_dl.mp3
+mp3: /music/shows/2009-06-21_Cusp_128.mp3
 
 ---
 event: initiate-sequence-2009-09-12
 # TODO: djs
 # TODO: genres
 date: 2009-09-12
-mp3: /music/shows/initiate_sequence_9-12-2009_dl.mp3
+mp3: /music/shows/128k/initiate_sequence_9-12-2009_128k.mp3
+mp3high: /music/shows/initiate_sequence_9-12-2009_dl.mp3
 
 ---
 event: cause-4-concern
@@ -2322,19 +2367,22 @@ mp3: /music/shows/128k/empress_live-rave-of-the-living-dead-10-30-10_128k.mp3
 ---
 event: fresh-mode-2010-11-20
 name: "Multi-DJ Tag Set"
-mp3: /music/shows/fresh_mode/FM2010-11-20_DJSum1_MultiDJTag/FM-11-20-10_Multi-DJ-Tag_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-11-20_DJSum1_MultiDJTag/128k/FM-11-20-10_Multi-DJ-Tag_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-11-20_DJSum1_MultiDJTag/FM-11-20-10_Multi-DJ-Tag_dl.mp3
 # TODO: djs
 # TODO: genres
 
 ---
 event: fresh-mode-2010-12-04
 dj: hypertronic
-mp3: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04-10_Hypertronic_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/128k/FM-12-04-10_Hypertronic_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-12-04_CaseyMartin_DJPhi_GozuLamonde/FM-12-04-10_Hypertronic_dl.mp3
 
 ---
 event: fresh-mode-2010-12-11
 dj: miles-deem
-mp3: /music/shows/fresh_mode/FM2010-12-11_DJWycon/FM-12-11-10_Miles-Deem_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-11_DJWycon/128k/FM-12-11-10_Miles-Deem_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-12-11_DJWycon/FM-12-11-10_Miles-Deem_dl.mp3
 
 ---
 event: fresh-mode-2010-12-25
@@ -2342,7 +2390,8 @@ djs:
   - micky-mick
   - this-guy-that-guy
 name: "Micky Mick vs. This Guy That Guy"
-mp3: /music/shows/fresh_mode/FM2010-12-25_JimmyC_Malkontent_Mick-Vs-TGTG/FM-12-25-10_Mick-Vs-TGTG_dl.mp3
+mp3: /music/shows/fresh_mode/FM2010-12-25_JimmyC_Malkontent_Mick-Vs-TGTG/128k/FM-12-25-10_Mick-Vs-TGTG_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-12-25_JimmyC_Malkontent_Mick-Vs-TGTG/FM-12-25-10_Mick-Vs-TGTG_dl.mp3
 
 ---
 event: fresh-mode-2010-12-31
@@ -2536,12 +2585,14 @@ event: winter-meltdown-2011-01-22
 djs:
   - 6blocc
   - prolific
-mp3: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_04_6Blocc-Prolific_dl.mp3
+mp3: /music/shows/WinterMeltdown_2011-01-21/128k/2011-01-21_WinterMeltdown_04_6Blocc-Prolific_128k.mp3
+mp3high: /music/shows/WinterMeltdown_2011-01-21/2011-01-21_WinterMeltdown_04_6Blocc-Prolific_dl.mp3
 
 ---
 event: urban-beats-2011-03-04
 dj: jungle-asylum
-mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_04_JungleAsylum_dl.mp3
+mp3: /music/shows/2011-03-04_UrbanBeats/128k/2011-03-04_UrbanBeats_04_JungleAsylum_128k.mp3
+mp3high: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_04_JungleAsylum_dl.mp3
 
 ---
 event: urban-beats-2011-03-04
@@ -2549,7 +2600,8 @@ djs:
   - bizar
   - goldenchild
 name: "Bizar vs. Goldenchild"
-mp3: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_05_Bizar-Goldenchild_dl.mp3
+mp3: /music/shows/2011-03-04_UrbanBeats/128k/2011-03-04_UrbanBeats_05_Bizar-Goldenchild_128k.mp3
+mp3high: /music/shows/2011-03-04_UrbanBeats/2011-03-04_UrbanBeats_05_Bizar-Goldenchild_dl.mp3
 
 ---
 event: fahrenheit-2011-07-23
@@ -2589,28 +2641,33 @@ mp3high: /music/shows/fresh_mode/FM2011-07-23_Fahrenheit/2011-07-23_Fahrenheit_0
 
 ---
 event: party-in-the-park-10-2011-08-13
-dj: ragerrabbit
-mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_01_RagerRabbit_dl.mp3
+dj: rager-rabbit
+mp3: /music/shows/2011-08-13_pitp10_stlouis/128k/PITP10_DownOnTheFarm_01_RagerRabbit_128k.mp3
+mp3high: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_01_RagerRabbit_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
 dj: dj-spiral
-mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_02_djSpiral_dl.mp3
+mp3: /music/shows/2011-08-13_pitp10_stlouis/128k/PITP10_DownOnTheFarm_02_djSpiral_128k.mp3
+mp3high: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_02_djSpiral_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
-dj: missj
-mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_03_MissJ_dl.mp3
+dj: miss-j
+mp3: /music/shows/2011-08-13_pitp10_stlouis/128k/PITP10_DownOnTheFarm_03_MissJ_128k.mp3
+mp3high: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_03_MissJ_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
 dj: vic-damone
-mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_04_VicDamone_dl.mp3
+mp3: /music/shows/2011-08-13_pitp10_stlouis/128k/PITP10_DownOnTheFarm_04_VicDamone_128k.mp3
+mp3high: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_04_VicDamone_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
 dj: kookie
-mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_05_Kookie_dl.mp3
+mp3: /music/shows/2011-08-13_pitp10_stlouis/128k/PITP10_DownOnTheFarm_05_Kookie_128k.mp3
+mp3high: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_05_Kookie_dl.mp3
 
 ---
 event: party-in-the-park-10-2011-08-13
@@ -2622,7 +2679,8 @@ event: party-in-the-park-10-2011-08-13
 djs:
   - david-fields
   - beau-lemaster
-mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_07_DavidFieldsVsBeauLeMaster_dl.mp3
+mp3: /music/shows/2011-08-13_pitp10_stlouis/128k/PITP10_DownOnTheFarm_07_DavidFieldsVsBeauLeMaster_128k.mp3
+mp3high: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_07_DavidFieldsVsBeauLeMaster_dl.mp3
 
 ---
 dj: chris-adamantium
@@ -2790,3 +2848,61 @@ mp3: /music/shows/fresh_mode/FM2011-03-26_FMCOLLECTIVE_SHAGEE/FM_3-26-11_Spiral.
 dj: this-guy-that-guy
 event: fresh-mode-2011-03-26
 mp3: /music/shows/fresh_mode/FM2011-03-26_FMCOLLECTIVE_SHAGEE/FM_3-26-11_TGTG.mp3
+
+---
+dj: dj-phi
+event: fresh-mode-2010-09-25
+mp3: /music/shows/fresh_mode/FM2010-09-25_JimmyC-ChrisClose/128k/FM-09-25-10_dj-phi_128k.mp3
+mp3high: /music/shows/fresh_mode/FM2010-09-25_JimmyC-ChrisClose/FM-09-25-10_dj-phi_dl.mp3
+
+---
+djs:
+  - ence
+  - richie-relax
+event: fresh-mode-2009-08-14
+mp3: /music/shows/fresh_mode/FM2009-08-14_Ence-Richierelax/FM2010-08-14_Ence-Richierelax_160k.mp3
+
+---
+dj: hat-with-teeth
+event: booty-halloween-8
+mp3: /music/shows/2011-10-22_BootyHalloween8/01_Junglow/01_HatWithTeeth_Jungalow_BootyHalloween8_dl.mp3
+
+---
+dj: cypher
+event: booty-halloween-8
+mp3: /music/shows/2011-10-22_BootyHalloween8/01_Junglow/02_Cypher_Jungalow_BootyHalloween8_dl.mp3
+
+---
+dj: booty-bullpen
+event: booty-halloween-8
+mp3: /music/shows/2011-10-22_BootyHalloween8/01_Junglow/03_BootyBullpen_Jungalow_BootyHalloween8_dl.mp3
+
+---
+dj: vic-damone
+event: booty-halloween-8
+mp3: /music/shows/2011-10-22_BootyHalloween8/02_Treetopia/01_VicDamone_Treetopia_BootyHalloween8_dl.mp3
+
+---
+dj: obitykenobi
+event: booty-halloween-8
+mp3: /music/shows/2011-10-22_BootyHalloween8/02_Treetopia/02_Obitykenobi_Treetopia_BootyHalloween8_dl.mp3
+
+---
+dj: patriquo
+event: booty-halloween-8
+mp3: /music/shows/2011-10-22_BootyHalloween8/03_VIP/01_Patriquo_VIP_BootyHalloween8_dl.mp3
+
+---
+dj: karizma
+event: booty-halloween-8
+mp3: /music/shows/2011-10-22_BootyHalloween8/03_VIP/02_Karizma_VIP_BootyHalloween8_dl.mp3
+
+---
+dj: noah-arkbuilder
+event: booty-halloween-8
+mp3: /music/shows/2011-10-22_BootyHalloween8/03_VIP/03_NoahArkbuilder_VIP_BootyHalloween8_dl.mp3
+
+---
+dj: dj-vajayjay
+event: booty-halloween-8
+mp3: /music/shows/2011-10-22_BootyHalloween8/03_VIP/07_DJVaJayJay_VIP_BootyHalloween8_dl.mp3
