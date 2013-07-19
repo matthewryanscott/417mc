@@ -273,7 +273,8 @@ dj: c-martin
 name: "2 Get Down"
 genre: house
 date: 2006
-mp3: /music/local_mixes/C-Martin_2-Get-Down_dl.mp3
+mp3: /music/local_mixes/128k/C-Martin_2-Get-Down_128k.mp3
+mp3high: /music/local_mixes/C-Martin_2-Get-Down_dl.mp3
 
 ---
 dj: c-martin
