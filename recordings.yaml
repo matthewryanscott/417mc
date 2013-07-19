@@ -871,11 +871,6 @@ date: 2009
 mp3: /music/local_mixes/double-helix_el-diablo2_dl.mp3
 
 ---
-dj: double-helix
-event: summer-scratch-2010-07-24
-mp3: /music/shows/summerscratch/SummerScratch_03_DoubleHelix_dl.mp3
-
----
 dj: echozaurora
 name: "Electrofunkygroovesauce"
 genre: electro
@@ -1472,14 +1467,6 @@ name: "rdp1"
 genre: dubstep
 date: 2009
 mp3: /music/local_mixes/plunkie_rdp1_dl.mp3
-
----
-djs:
-  - plunkie
-  - dj-hayze
-event: summer-scratch-2010-07-24
-genre: dubstep
-mp3: /music/shows/summerscratch/SummerScratch_02_Punkie-Vs-DjHayze_dl.mp3
 
 ---
 dj: rachel-fair
@@ -2218,13 +2205,8 @@ mp3: /music/shows/cusp_128_dl.mp3
 event: initiate-sequence-2009-09-12
 # TODO: djs
 # TODO: genres
+date: 2009-09-12
 mp3: /music/shows/initiate_sequence_9-12-2009_dl.mp3
-
----
-event: summer-scratch-2010-07-24
-# TODO: djs
-# TODO: genres
-mp3: /music/shows/summerscratch/2010-07-24_SummerScratch.mp3
 
 ---
 event: cause-4-concern
@@ -2580,3 +2562,60 @@ name: "BASS your FACE 2011 Mini-Mix"
 date: 2011
 mp3: /music/local_mixes/128k/WilliamStylus_BASSyourFACE2011Mini-Mix_128k.mp3
 mp3high: /music/local_mixes/WilliamStylus_BASSyourFACE2011Mini-Mix_dl.mp3
+
+---
+dj: this-guy-that-guy
+event: summer-scratch-2010-07-24
+date: 2010-07-24
+mp3: /music/shows/summerscratch/128k/SummerScratch_01_TGTG_128k.mp3
+mp3high: /music/shows/summerscratch/SummerScratch_01_TGTG_dl.mp3
+
+---
+event: summer-scratch-2010-07-24
+date: 2010-07-24
+# TODO: djs
+# TODO: genres
+mp3: /music/shows/summerscratch/128k/SummerScratch_7-24-2010_128k.mp3
+mp3high: /music/shows/summerscratch/SummerScratch_7-24-2010_dl.mp3
+
+---
+dj: double-helix
+event: summer-scratch-2010-07-24
+date: 2010-07-24
+mp3: /music/shows/summerscratch/128k/SummerScratch_03_DoubleHelix_128k.mp3
+mp3high: /music/shows/summerscratch/SummerScratch_03_DoubleHelix_dl.mp3
+
+---
+djs:
+  - plunkie
+  - dj-hayze
+event: summer-scratch-2010-07-24
+date: 2010-07-24
+genre: dubstep
+mp3: /music/shows/summerscratch/128k/SummerScratch_02_Punkie-Vs-DjHayze_128k.mp3
+mp3high: /music/shows/summerscratch/SummerScratch_02_Punkie-Vs-DjHayze_dl.mp3
+
+---
+dj: walts
+event: summer-scratch-2010-07-24
+date: 2010-07-24
+mp3: /music/shows/summerscratch/128k/SummerScratch_04_WALTS_128k.mp3
+mp3high: /music/shows/summerscratch/SummerScratch_04_WALTS_dl.mp3
+
+---
+djs:
+  - mick-swayze
+  - bizar
+event: summer-scratch-2010-07-24
+date: 2010-07-24
+mp3: /music/shows/summerscratch/128k/SummerScratch_05_MickSwayze-Bizar_128k.mp3
+mp3high: /music/shows/summerscratch/SummerScratch_05_MickSwayze-Bizar_dl.mp3
+
+---
+djs:
+  - psyntist
+  - zack-wells
+event: summer-scratch-2010-07-24
+date: 2010-07-24
+mp3: /music/shows/summerscratch/128k/SummerScratch_06_Psyntist-ZackWells_128k.mp3
+mp3high: /music/shows/summerscratch/SummerScratch_06_Psyntist-ZackWells_dl.mp3
