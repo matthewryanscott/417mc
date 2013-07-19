@@ -32,7 +32,8 @@
 dj: agent-traxxident
 name: "You Were There Once"
 genre: hip-hop
-mp3: /music/local_mixes/agent_traxxident-you_were-there-once_dl.mp3
+mp3: /music/local_mixes/128k/agent_traxxident-you_were-there-once_128k.mp3
+mp3high: /music/local_mixes/agent_traxxident-you_were-there-once_dl.mp3
 
 ---
 dj: agent-traxxident
@@ -117,13 +118,15 @@ mp3: /music/non_local_mixes/Atreus_DustedGroove-DJPromoMix_dl.mp3
 dj: bacchus
 name: "Gerfuntencluken"
 genre: progressive
-mp3: /music/local_mixes/bacchus_gerfuntencluken_dl.mp3
+mp3: /music/local_mixes/128k/bacchus_gerfuntencluken_128k.mp3
+mp3high: /music/local_mixes/bacchus_gerfuntencluken_dl.mp3
 
 ---
 dj: bacchus
 name: "Message From The Caldera"
 genre: progressive
-mp3: /music/local_mixes/bacchus_message_from_the_caldera_dl.mp3
+mp3: /music/local_mixes/128k/bacchus_message_from_the_caldera_128k.mp3
+mp3high: /music/local_mixes/bacchus_message_from_the_caldera_dl.mp3
 
 ---
 dj: bacchus
@@ -131,7 +134,8 @@ name: "Shirtcockin USA"
 genres:
   - funk
   - house
-mp3: /music/local_mixes/bacchus_shirtcockin_usa_dl.mp3
+mp3: /music/local_mixes/128k/bacchus_shirtcockin_usa_128k.mp3
+mp3high: /music/local_mixes/bacchus_shirtcockin_usa_dl.mp3
 
 ---
 dj: ben-armstrong
@@ -194,25 +198,29 @@ mp3: /music/shows/fresh_mode/FM2012-03-17_Bizar_EQ/FM_3-17-2012_Bizar_EQ_dl.mp3
 dj: brian-best
 name: "Daydreaming 1"
 genre: breaks
-mp3: /music/local_mixes/brian-best_daydreaming1_dl.mp3
+mp3: /music/local_mixes/128k/brian-best_daydreaming1_128k.mp3
+mp3high: /music/local_mixes/brian-best_daydreaming1_dl.mp3
 
 ---
 dj: brian-best
 name: "Daydreaming 2"
 genre: breaks
-mp3: /music/local_mixes/brian-best_daydreaming2_dl.mp3
+mp3: /music/local_mixes/128k/brian-best_daydreaming2_128k.mp3
+mp3high: /music/local_mixes/brian-best_daydreaming2_dl.mp3
 
 ---
 dj: brian-best
 name: "Heaven Earth"
 genre: breaks
-mp3: /music/local_mixes/brian-best_heaven_earth_dl.mp3
+mp3: /music/local_mixes/128k/brian-best_heaven_earth_128k.mp3
+mp3high: /music/local_mixes/brian-best_heaven_earth_dl.mp3
 
 ---
 dj: brian-best
 name: "Heelflip"
 genre: breaks
-mp3: /music/local_mixes/brian-best_heelflip_dl.mp3
+mp3: /music/local_mixes/128k/brian-best_heelflip_128k.mp3
+mp3high: /music/local_mixes/brian-best_heelflip_dl.mp3
 
 ---
 djs:
@@ -224,7 +232,8 @@ genres:
   - drumstep
   - dnb
 date: 2012
-mp3: /music/local_mixes/br1nk-n-mattskywalker_KrylonTechnicolorTypeA2_dl.mp3
+mp3: /music/local_mixes/128k/br1nk-n-mattskywalker_KrylonTechnicolorTypeA2_128k.mp3
+mp3high: /music/local_mixes/br1nk-n-mattskywalker_KrylonTechnicolorTypeA2_dl.mp3
 
 ---
 djs:
@@ -236,7 +245,8 @@ genres:
   - dance
   - dubstep
 date: 2012
-mp3: /music/local_mixes/br1nk-n-mattskywalker_MidTempoNStuff_dl.mp3
+mp3: /music/local_mixes/128k/br1nk-n-mattskywalker_MidTempoNStuff_128k.mp3
+mp3high: /music/local_mixes/br1nk-n-mattskywalker_MidTempoNStuff_dl.mp3
 
 ---
 djs:
@@ -248,7 +258,8 @@ genres:
   - hip-hop
   - dnb
 date: 2012
-mp3: /music/local_mixes/br1nk-n-mattskywalker_ProjectBrixer_dl.mp3
+mp3: /music/local_mixes/128k/br1nk-n-mattskywalker_ProjectBrixer_128k.mp3
+mp3high: /music/local_mixes/br1nk-n-mattskywalker_ProjectBrixer_dl.mp3
 
 ---
 djs:
@@ -260,7 +271,8 @@ genres:
   - drumstep
   - dnb
 date: 2012
-mp3: /music/local_mixes/br1nk-n-mattskywalker_TableFlippin_dl.mp3
+mp3: /music/local_mixes/128k/br1nk-n-mattskywalker_TableFlippin_128k.mp3
+mp3high: /music/local_mixes/br1nk-n-mattskywalker_TableFlippin_dl.mp3
 
 ---
 dj: bully
@@ -281,14 +293,16 @@ dj: c-martin
 name: "Not From Chicago"
 genre: house
 date: 2006
-mp3: /music/local_mixes/C-Martin_Not-From-Chicago_dl.mp3
+mp3: /music/local_mixes/128k/C-Martin_Not-From-Chicago_128k.mp3
+mp3high: /music/local_mixes/C-Martin_Not-From-Chicago_dl.mp3
 
 ---
 dj: c-martin
 name: "Jewel Demo"
 genre: house
 date: 2008
-mp3: /music/local_mixes/C-Martin_Jewel-Demo_dl.mp3
+mp3: /music/local_mixes/128k/C-Martin_Jewel-Demo_128k.mp3
+mp3high: /music/local_mixes/C-Martin_Jewel-Demo_dl.mp3
 
 ---
 dj: c-martin
@@ -309,21 +323,24 @@ dj: chris-adamantium
 name: "Tales From The Creep"
 genre: dnb
 date: 2010
-mp3: /music/local_mixes/chris_adamantium-tales_from_the_creep_dl.mp3
+mp3: /music/local_mixes/128k/chris_adamantium-tales_from_the_creep_128k.mp3
+mp3high: /music/local_mixes/chris_adamantium-tales_from_the_creep_dl.mp3
 
 ---
 dj: chris-adamantium
 name: "Trendy"
 genre: dnb
 date: 2010
-mp3: /music/local_mixes/Chris_Adamantium_Trendy_dl.mp3
+mp3: /music/local_mixes/128k/Chris_Adamantium_Trendy_128k.mp3
+mp3high: /music/local_mixes/Chris_Adamantium_Trendy_dl.mp3
 
 ---
 dj: chris-adamantium
 name: "Vibin on Ya"
 genre: progressive
 date: 2010
-mp3: /music/local_mixes/Chris-Adamantium_Vibin_on_Ya_dl.mp3
+mp3: /music/local_mixes/128k/Chris-Adamantium_Vibin_on_Ya_128k.mp3
+mp3high: /music/local_mixes/Chris-Adamantium_Vibin_on_Ya_dl.mp3
 
 ---
 dj: chris-adamantium
@@ -768,7 +785,8 @@ dj: dj-sum1
 name: "Frost Mini Mix"
 date: 2010
 genre: trance
-mp3: /music/local_mixes/Dj-Sum1_Frost-MiniMix_dl.mp3
+mp3: /music/local_mixes/128k/Dj-Sum1_Frost-MiniMix_128k.mp3
+mp3high: /music/local_mixes/Dj-Sum1_Frost-MiniMix_dl.mp3
 
 ---
 dj: dj-sum1
@@ -794,7 +812,8 @@ dj: dj-wysh
 name: "Another Tequila Night"
 date: 2011-01-08
 genre: dark-psytrance
-mp3: /music/local_mixes/Dj-Wysh-Another-Tequila-Night-01-08-11_dl.mp3
+mp3: /music/local_mixes/128k/Dj-Wysh-Another-Tequila-Night-01-08-11_128k.mp3
+mp3high: /music/local_mixes/Dj-Wysh-Another-Tequila-Night-01-08-11_dl.mp3
 
 ---
 dj: doohickey
@@ -866,7 +885,8 @@ mp3: /music/local_mixes/echoz_aurora-electrofunkygroovesauce_dl.mp3
 dj: echozaurora
 name: "Mashadelic Meltdown"
 genre: electro
-mp3: /music/local_mixes/EchozAurora-Mashadelic-Meltdown_dl.mp3
+mp3: /music/local_mixes/128k/EchozAurora-Mashadelic-Meltdown_128k.mp3
+mp3high: /music/local_mixes/EchozAurora-Mashadelic-Meltdown_dl.mp3
 
 ---
 dj: echozaurora
@@ -927,7 +947,8 @@ dj: fenomenon
 name: "Images... With Your Host, John B"
 genre: dnb
 date: 2003
-mp3: /music/local_mixes/Fenomenon_Images_dl.mp3
+mp3: /music/local_mixes/128k/Fenomenon_Images_128k.mp3
+mp3high: /music/local_mixes/Fenomenon_Images_dl.mp3
 
 ---
 dj: fenomenon
@@ -1056,7 +1077,8 @@ mp3: /music/local_mixes/jimmy-c-im-going-home-2-4-05_dl.mp3
 dj: jimmy-c
 event: sumo-2006-02-11
 genre: house
-mp3: /music/local_mixes/Jimmy-C_Live-SUMO_2-11-06_dl.mp3
+mp3: /music/local_mixes/128k/Jimmy-C_Live-SUMO_2-11-06_128k.mp3
+mp3high: /music/local_mixes/Jimmy-C_Live-SUMO_2-11-06_dl.mp3
 
 ---
 djs:
@@ -1071,7 +1093,8 @@ dj: jimmy-c
 name: "Impromptu Jam Session"
 genre: house
 date: 2009
-mp3: /music/local_mixes/Jimmy-C_Impromptu-Jam-Session_dl.mp3
+mp3: /music/local_mixes/128k/Jimmy-C_Impromptu-Jam-Session_128k.mp3
+mp3high: /music/local_mixes/Jimmy-C_Impromptu-Jam-Session_dl.mp3
 
 ---
 dj: jimmy-c
@@ -1159,80 +1182,93 @@ mp3: http://www.umove.net/podcasts/umove_mixtape_035.mp3
 dj: lc
 genre: house
 date: 2009-07-29
-mp3: /music/local_mixes/LC_mixed-live-7-29-09_dl.mp3
+mp3: /music/local_mixes/128k/LC_mixed-live-7-29-09_128k.mp3
+mp3high: /music/local_mixes/LC_mixed-live-7-29-09_dl.mp3
 
 ---
 dj: lc
 genre: house
 date: 2009-10-01
-mp3: /music/local_mixes/LC_mixed-live_10-01-09_dl.mp3
+mp3: /music/local_mixes/128k/LC_mixed-live_10-01-09_128k.mp3
+mp3high: /music/local_mixes/LC_mixed-live_10-01-09_dl.mp3
 
 ---
 dj: lc
 genre: house
 date: 2008-08-15
-mp3: /music/local_mixes/LC_8-15-08_dl.mp3
+mp3: /music/local_mixes/128k/LC_8-15-08_128k.mp3
+mp3high: /music/local_mixes/LC_8-15-08_dl.mp3
 
 ---
 dj: lc
 name: "Easy Now"
 genre: house
-mp3: /music/local_mixes/LC_easy-now_dl.mp3
+mp3: /music/local_mixes/128k/LC_easy-now_128k.mp3
+mp3high: /music/local_mixes/LC_easy-now_dl.mp3
 
 ---
 dj: lc
 name: "Mixed Live May 15"
 genre: house
-mp3: /music/local_mixes/LC_may-15_dl.mp3
+mp3: /music/local_mixes/128k/LC_may-15_128k.mp3
+mp3high: /music/local_mixes/LC_may-15_dl.mp3
 
 ---
 dj: lc
 name: "Mixed Live 11.01"
 genre: house
-mp3: /music/local_mixes/LC_mixed-live-11-01_dl.mp3
+mp3: /music/local_mixes/128k/LC_mixed-live-11-01_128k.mp3
+mp3high: /music/local_mixes/LC_mixed-live-11-01_dl.mp3
 
 ---
 dj: lc
 name: "Mixed Live 11.20"
 genre: house
-mp3: /music/local_mixes/LC_mixed-live-11-20_dl.mp3
+mp3: /music/local_mixes/128k/LC_mixed-live-11-20_128k.mp3
+mp3high: /music/local_mixes/LC_mixed-live-11-20_dl.mp3
 
 ---
 dj: lc
 genre: house
 date: 2007-05-13
-mp3: /music/local_mixes/LC_Mixed-Live_5-13-07_dl.mp3
+mp3: /music/local_mixes/128k/LC_Mixed-Live_5-13-07_128k.mp3
+mp3high: /music/local_mixes/LC_Mixed-Live_5-13-07_dl.mp3
 
 ---
 dj: lc
 name: "Mixed Live Jan04"
 genre: house
-mp3: /music/local_mixes/LC_mixed-live-jan04_dl.mp3
+mp3: /music/local_mixes/128k/LC_mixed-live-jan04_128k.mp3
+mp3high: /music/local_mixes/LC_mixed-live-jan04_dl.mp3
 
 ---
 dj: lc
 name: "Mixed Live Jan19"
 genre: house
-mp3: /music/local_mixes/LC_mixed-live-jan19_dl.mp3
+mp3: /music/local_mixes/128k/LC_mixed-live-jan19_128k.mp3
+mp3high: /music/local_mixes/LC_mixed-live-jan19_dl.mp3
 
 ---
 dj: lc
 name: "Phocas Mix 9.05"
 genre: house
-mp3: /music/local_mixes/LC_phocas-mix-9-05_dl.mp3
+mp3: /music/local_mixes/128k/LC_phocas-mix-9-05_128k.mp3
+mp3high: /music/local_mixes/LC_phocas-mix-9-05_dl.mp3
 
 ---
 dj: lc
 name: "Winter Mix 2004"
 genre: dnb
 date: 2004
-mp3: /music/local_mixes/LC_winter-mix-04_dl.mp3
+mp3: /music/local_mixes/128k/LC_winter-mix-04_128k.mp3
+mp3high: /music/local_mixes/LC_winter-mix-04_dl.mp3
 
 ---
 dj: lc
 genre: house
 date: 2011-03-22
-mp3: /music/local_mixes/LC_3-22-11_dl.mp3
+mp3: /music/local_mixes/128k/LC_3-22-11_128k.mp3
+mp3high: /music/local_mixes/LC_3-22-11_dl.mp3
 
 ---
 dj: malkontent
@@ -1701,21 +1737,24 @@ dj: sqyttles
 name: "Wakarusa 2010 Mix 1"
 genre: dubstep
 date: 2010
-mp3: /music/local_mixes/Sqyttles-Waka-Mix1_dl.mp3
+mp3: /music/local_mixes/128k/Sqyttles-Waka-Mix1_128k.mp3
+mp3high: /music/local_mixes/Sqyttles-Waka-Mix1_dl.mp3
 
 ---
 dj: sqyttles
 name: "Wakarusa 2010 Mix 2"
 genre: dubstep
 date: 2010
-mp3: /music/local_mixes/Sqyttles-Waka-Mix2_dl.mp3
+mp3: /music/local_mixes/128k/Sqyttles-Waka-Mix2_128k.mp3
+mp3high: /music/local_mixes/Sqyttles-Waka-Mix2_dl.mp3
 
 ---
 dj: sqyttles
 name: Love Loss (Studio Mix)
 genre: dnb
 date: 2010
-mp3: /music/local_mixes/Sqyttles_-_Love_Loss_dl.mp3
+mp3: /music/local_mixes/128k/Sqyttles_-_Love_Loss_128k.mp3
+mp3high: /music/local_mixes/Sqyttles_-_Love_Loss_dl.mp3
 
 ---
 dj: this-guy-that-guy
@@ -1874,19 +1913,22 @@ mp3: /music/shows/fresh_mode/FM2010-10-23_JimmyC-JustWill/FM-10-23-10_Just-Will_
 ---
 dj: william-stylus
 name: "Caspa Battle Mix"
-mp3: /music/local_mixes/WilliamStylus_CaspaBattleMix_dl.mp3
+mp3: /music/local_mixes/128k/WilliamStylus_CaspaBattleMix_128k.mp3
+mp3high: /music/local_mixes/WilliamStylus_CaspaBattleMix_dl.mp3
 
 ---
 dj: william-stylus
 name: "Aural Fixation"
-mp3: /music/local_mixes/WilliamStylus_AuralFixation_dl.mp3
+mp3: /music/local_mixes/128k/WilliamStylus_AuralFixation_128k.mp3
+mp3high: /music/local_mixes/WilliamStylus_AuralFixation_dl.mp3
 
 ---
 dj: william-stylus
 name: "Darkest Before Light"
 genre: dnb
 date: 2012
-mp3: /music/local_mixes/WilliamStylus_DarkestBeforeLight_dl.mp3
+mp3: /music/local_mixes/128k/WilliamStylus_DarkestBeforeLight_128k.mp3
+mp3high: /music/local_mixes/WilliamStylus_DarkestBeforeLight_dl.mp3
 
 ---
 dj: x-kwizit
@@ -1931,19 +1973,22 @@ dj: zack-smith
 name: "For Masako"
 genre: techno
 date: 2004
-mp3: /music/local_mixes/Zack-Smith_For-Masako_dl.mp3
+mp3: /music/local_mixes/128k/Zack-Smith_For-Masako_128k.mp3
+mp3high: /music/local_mixes/Zack-Smith_For-Masako_dl.mp3
 
 ---
 dj: zack-smith
 event: chunky-funky-2006
 genre: techno
-mp3: /music/local_mixes/Zack-Smith_Live-ChunkyFunky_dl.mp3
+mp3: /music/local_mixes/128k/Zack-Smith_Live-ChunkyFunky_128k.mp3
+mp3high: /music/local_mixes/Zack-Smith_Live-ChunkyFunky_dl.mp3
 
 ---
 dj: zack-smith
 event: full-throttle-2003
 genre: techno
-mp3: /music/local_mixes/Zack-Smith_Live_Full_Throttle_dl.mp3
+mp3: /music/local_mixes/128k/Zack-Smith_Live_Full_Throttle_128k.mp3
+mp3high: /music/local_mixes/Zack-Smith_Live_Full_Throttle_dl.mp3
 
 ---
 dj: zack-smith
@@ -1967,7 +2012,8 @@ mp3: /music/local_mixes/dj-eze_podunkfunk-vol2_dl.mp3
 dj: jersey-john
 name: "Turn Up That Stereo"
 genre: house
-mp3: /music/local_mixes/Jersey-John_Turn-Up-That-Stereo_dl.mp3
+mp3: /music/local_mixes/128k/Jersey-John_Turn-Up-That-Stereo_128k.mp3
+mp3high: /music/local_mixes/Jersey-John_Turn-Up-That-Stereo_dl.mp3
 
 ---
 dj: julie-winters
@@ -2038,7 +2084,8 @@ mp3: /music/local_mixes/nolo_unlock_dl.mp3
 dj: nolo
 name: "Relishing the Gradient"
 genre: electro
-mp3: /music/local_mixes/Nolo_Relishing_the_Gradient_dl.mp3
+mp3: /music/local_mixes/128k/Nolo_Relishing_the_Gradient_128k.mp3
+mp3high: /music/local_mixes/Nolo_Relishing_the_Gradient_dl.mp3
 
 ---
 dj: presto
@@ -2182,7 +2229,8 @@ mp3: /music/shows/summerscratch/2010-07-24_SummerScratch.mp3
 ---
 event: cause-4-concern
 dj: presto
-mp3: /music/local_mixes/c4c_presto_dl.mp3
+mp3: /music/local_mixes/128k/c4c_presto_128k.mp3
+mp3high: /music/local_mixes/c4c_presto_dl.mp3
 
 ---
 event: cause-4-concern
@@ -2190,19 +2238,22 @@ djs:
   - shagee
   - zack-smith
 name: "Shagee vs. Zack Smith"
-mp3: /music/local_mixes/c4c_shagee_vs_zack_smith_dl.mp3
+mp3: /music/local_mixes/128k/c4c_shagee_vs_zack_smith-128k.mp3
+mp3high: /music/local_mixes/c4c_shagee_vs_zack_smith_dl.mp3
 
 ---
 event: cause-4-concern
 dj: stuart-perkins
 name: "Live recording (Part 1)"
-mp3: /music/local_mixes/c4c_stu-pt1_dl.mp3
+mp3: /music/local_mixes/128k/c4c_stu-pt1_128k.mp3
+mp3high: /music/local_mixes/c4c_stu-pt1_dl.mp3
 
 ---
 event: cause-4-concern
 dj: stuart-perkins
 name: "Live recording (Part 2)"
-mp3: /music/local_mixes/c4c_stu-pt2_dl.mp3
+mp3: /music/local_mixes/128k/c4c_stu-pt2_128k.mp3
+mp3high: /music/local_mixes/c4c_stu-pt2_dl.mp3
 
 ---
 name: "Drum & Bass House Party"
@@ -2495,3 +2546,37 @@ djs:
   - david-fields
   - beau-lemaster
 mp3: /music/shows/2011-08-13_pitp10_stlouis/PITP10_DownOnTheFarm_07_DavidFieldsVsBeauLeMaster_dl.mp3
+
+---
+dj: chris-adamantium
+name: "Hopping Ponds"
+mp3: /music/local_mixes/128k/ChrisAdamantium-HoppingPonds_128k.mp3
+
+---
+dj: chris-adamantium
+name: "Venom"
+mp3: /music/local_mixes/128k/ChrisAdamantium-Venom_128k.mp3
+
+---
+dj: da-anonymous-1
+name: "New Beginnings"
+mp3: /music/local_mixes/128k/DA-Anonymous-1_NewBeginnings_128k.mp3
+
+---
+dj: groovebot
+name: "Forget The World"
+mp3: /music/local_mixes/128k/Groovebot_ForgetTheWorld_128k.mp3
+
+---
+dj: this-guy-that-guy
+name: "Love Day Set"
+event: tuesday-stew-2012-02-14
+mp3: /music/local_mixes/128k/ThisGuyThatGuy_LoveDaySet-TuesdayStew2-14-2012_128k.mp3
+mp3high: /music/local_mixes/ThisGuyThatGuy_LoveDaySet-TuesdayStew2-14-2012_dl.mp3
+
+---
+dj: william-stylus
+name: "BASS your FACE 2011 Mini-Mix"
+date: 2011
+mp3: /music/local_mixes/128k/WilliamStylus_BASSyourFACE2011Mini-Mix_128k.mp3
+mp3high: /music/local_mixes/WilliamStylus_BASSyourFACE2011Mini-Mix_dl.mp3
